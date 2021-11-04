@@ -19,8 +19,8 @@
 | 113 km W of La Libertad, Mexico | 4.3 | 11-03-2021 22:49:40 |
 | 19km NW of Covelo, CA | 4.08 | 11-04-2021 00:24:34 |
 | 107 km N of Charlotte Amalie, U.S. Virgin Islands | 3.7 | 11-03-2021 13:02:51 |
-| 7km NE of Petrolia, CA | 3.37 | 11-03-2021 01:33:17 |
 | 4 km SSW of Pāhala, Hawaii | 3.37 | 11-03-2021 03:07:50 |
 | 35 km NW of Stanley, Idaho | 3.2 | 11-04-2021 01:08:42 |
 | 2 km NW of Fuig, Puerto Rico | 3.1 | 11-03-2021 07:47:00 |
 | 6 km SW of Gypsum, Kansas | 2.9 | 11-03-2021 21:12:35 |
+| 9km WNW of Alberto Oviedo Mota, B.C., MX | 2.84 | 11-03-2021 02:11:12 |
