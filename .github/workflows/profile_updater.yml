@@ -2,7 +2,7 @@ name: Profile Updater
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   build:
