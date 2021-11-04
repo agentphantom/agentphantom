@@ -36,7 +36,7 @@ def main():
         earthquakes.sort(reverse=True)
 
         # We initiate our Markdown text.
-        markdown = "![Map](./map.png)\n\n# Top 20 Strongest Earthquakes in the Past 24 Hours\n\n| Location | Mag | Date and Time (UTC) |\n|:---|:---|:---|\n"
+        markdown = "![Map](./map.png)\n\n# Top 20 Largest Earthquakes in the Past 24 Hours\n\n| Location | Mag | Date and Time (UTC) |\n|:---|:---|:---|\n"
 
         # These lists will be used to feed the scatter map.
         longitudes = list()
@@ -80,7 +80,7 @@ def main():
                 dict(
                     x=0.5,
                     y=0.91,
-                    text="Top 20 Strongest Earthquakes in the Past 24 Hours",
+                    text="Top 20 Largest Earthquakes in the Past 24 Hours",
                     font_size=32
                 )
             ]

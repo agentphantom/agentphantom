@@ -1,12 +1,12 @@
 ![Map](./map.png)
 
-# Top 20 Strongest Earthquakes in the Past 24 Hours
+# Top 20 Largest Earthquakes in the Past 24 Hours
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [77 km NE of Amahai, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000fraj) | 5.6 | 11-03-2021 20:42:43 |
 | [298 km SW of Bluff, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us7000frfx) | 5.6 | 11-04-2021 10:36:53 |
-| [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000frem) | 5.3 | 11-04-2021 09:46:39 |
+| [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000frem) | 5.3 | 11-04-2021 09:46:38 |
 | [37 km SW of Finschhafen, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000frfu) | 5.3 | 11-04-2021 10:25:04 |
 | [65 km ESE of Nikolski, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000frcu) | 5.2 | 11-04-2021 02:57:06 |
 | [31 km NNW of Ovalle, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000frbf) | 4.9 | 11-03-2021 22:18:23 |
