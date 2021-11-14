@@ -10,6 +10,8 @@
 | [southern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftxf) | 5.2 | 11-14-2021 00:47:37 |
 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000fty2) | 5.1 | 11-14-2021 03:48:30 |
 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftvn) | 5.1 | 11-13-2021 19:02:49 |
+| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000fu0w) | 5 | 11-14-2021 11:59:35 |
+| [southern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftzg) | 4.9 | 11-14-2021 06:56:44 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftvy) | 4.9 | 11-13-2021 19:45:50 |
 | [southern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftwy) | 4.8 | 11-13-2021 22:45:02 |
 | [62 km W of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftts) | 4.8 | 11-13-2021 13:42:52 |
@@ -21,6 +23,4 @@
 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftun) | 4.6 | 11-13-2021 16:47:39 |
 | [153 km S of Mata-Utu, Wallis and Futuna](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftye) | 4.6 | 11-14-2021 04:04:05 |
 | [99 km WSW of San Juan del Sur, Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftuc) | 4.4 | 11-13-2021 16:03:53 |
-| [116 km SSE of Katsuura, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftt6) | 4.4 | 11-13-2021 11:16:59 |
-| [89 km W of Abra Pampa, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000fttd) | 4.3 | 11-13-2021 12:12:08 |
-| [88 km NW of Mohr, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftt0) | 4.3 | 11-13-2021 10:19:48 |
+| [76 km ENE of Luganville, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftvi) | 4.2 | 11-13-2021 18:25:32 |
