@@ -14,13 +14,13 @@
 | [87 km SSE of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000fvm3) | 4.7 | 11-19-2021 23:54:54 |
 | [35 km WNW of Juradó, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000fvl3) | 4.7 | 11-19-2021 22:02:47 |
 | [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000fviz) | 4.6 | 11-19-2021 15:14:05 |
+| [off the coast of Oregon](https://earthquake.usgs.gov/earthquakes/eventpage/us7000fvnr) | 4.6 | 11-20-2021 05:51:29 |
 | [75 km NE of Maumere, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000fvea) | 4.6 | 11-19-2021 08:14:16 |
 | [3 km WSW of Wako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000fvlx) | 4.6 | 11-19-2021 23:57:23 |
-| [110 km W of La Libertad, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000fvcw) | 4.5 | 11-19-2021 04:26:27 |
-| [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000fve3) | 4.3 | 11-19-2021 06:01:56 |
 | [27 km NE of Aībak, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000fvez) | 4.3 | 11-19-2021 10:39:47 |
-| [165 km ENE of Taltal, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000fvbv) | 4.3 | 11-19-2021 01:19:29 |
 | [north of Svalbard](https://earthquake.usgs.gov/earthquakes/eventpage/us7000fvdx) | 4.2 | 11-19-2021 07:08:45 |
-| [86 km NW of San Antonio, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2021323000) | 3.6 | 11-19-2021 02:38:10 |
+| [70 km SW of Gorontalo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000fvg7) | 4.2 | 11-19-2021 14:46:03 |
+| [33 km SSW of Las Choapas, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000fvnt) | 4.2 | 11-20-2021 05:54:53 |
 | [91 km ENE of Chignik, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak021euhfu8l) | 3.5 | 11-19-2021 18:23:03 |
-| [59 km NW of San Antonio, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2021323001) | 3.42 | 11-19-2021 03:21:27 |
+| [109 km NNE of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2021324001) | 3.41 | 11-20-2021 03:03:32 |
+| [10 km S of Colstrip, Montana](https://earthquake.usgs.gov/earthquakes/eventpage/mb80531069) | 3.35 | 11-19-2021 18:34:04 |
