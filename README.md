@@ -8,6 +8,8 @@
 | [south of Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gczr) | 5.2 | 12-17-2021 00:12:53 |
 | [Mid-Indian Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gcwv) | 5.2 | 12-16-2021 20:40:29 |
 | [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gczh) | 5 | 12-16-2021 23:29:21 |
+| [74 km NE of Savannah Bight, Honduras](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gd33) | 4.9 | 12-17-2021 13:58:34 |
+| [13 km SW of Donsol, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gd3g) | 4.9 | 12-17-2021 14:28:55 |
 | [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gd1z) | 4.7 | 12-17-2021 08:40:00 |
 | [65 km NNW of Turpan, China](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gd1d) | 4.7 | 12-17-2021 06:54:40 |
 | [226 km W of Quellón, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gcxd) | 4.7 | 12-16-2021 21:28:29 |
@@ -17,10 +19,8 @@
 | [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gcze) | 4.5 | 12-16-2021 22:55:03 |
 | [36 km NE of Falam, Myanmar](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gcwh) | 4.5 | 12-16-2021 20:13:21 |
 | [Rat Islands, Aleutian Islands, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gd2b) | 4.4 | 12-17-2021 10:53:47 |
-| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gcu1) | 4.4 | 12-16-2021 15:23:24 |
 | [94 km SSW of El Huitusi, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gd0k) | 4.4 | 12-17-2021 02:59:57 |
-| [35 km NW of Toyah, Texas](https://earthquake.usgs.gov/earthquakes/eventpage/tx2021yope) | 4.4 | 12-16-2021 12:25:25 |
-| [276 km E of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gctm) | 4.4 | 12-16-2021 16:19:07 |
+| [24 km NE of Kızılırmak, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gd24) | 4.2 | 12-17-2021 09:28:33 |
 | [268 km SSE of Latung, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gd1h) | 4.1 | 12-17-2021 07:04:24 |
-| [10 km ENE of Ganges, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/uw61806621) | 3.93945622444153 | 12-17-2021 12:13:52 |
 | [63 km N of Hatillo, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2021351001) | 3.63 | 12-17-2021 05:58:23 |
+| [87 km WNW of Kalaoa, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv72836222) | 3.6 | 12-16-2021 22:36:41 |
