@@ -13,6 +13,7 @@
 | [67 km WNW of Skardu, Pakistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfm1) | 4.7 | 12-27-2021 13:37:28 |
 | [41 km E of Falam, Myanmar](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfp6) | 4.7 | 12-27-2021 20:13:14 |
 | [251 km ESE of Tadine, New Caledonia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfnx) | 4.7 | 12-27-2021 19:44:54 |
+| [18 km N of Stanton, Texas](https://earthquake.usgs.gov/earthquakes/eventpage/tx2021zjsk) | 4.5 | 12-28-2021 01:55:43 |
 | [66 km ESE of Gilgit, Pakistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfnw) | 4.4 | 12-27-2021 19:40:57 |
 | [38 km SE of Jurm, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfnn) | 4.4 | 12-27-2021 18:52:46 |
 | [13 km N of Inashiki, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfnr) | 4.4 | 12-27-2021 19:08:59 |
@@ -22,5 +23,4 @@
 | [131 km SSE of Akhiok, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak021gl5709g) | 3.6 | 12-27-2021 07:03:24 |
 | [106 km E of Chignik, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak021glczrrd) | 3.5 | 12-27-2021 20:13:12 |
 | [89 km NE of Punta Cana, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2021361009) | 3.44 | 12-27-2021 22:10:38 |
-| [7 km WSW of Gypsum, Kansas](https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfjw) | 3.3 | 12-27-2021 05:51:31 |
 | [5 km SSW of Lugoff, South Carolina](https://earthquake.usgs.gov/earthquakes/eventpage/se60377836) | 3.3 | 12-27-2021 19:18:54 |
