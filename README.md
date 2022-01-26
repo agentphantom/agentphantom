@@ -9,18 +9,18 @@
 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gexf) | 5.3 | 01-25-2022 15:16:18 |
 | [5 km E of Hihifo, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gesz) | 5.3 | 01-25-2022 03:25:29 |
 | [142 km ESE of Rio Claro, Trinidad and Tobago](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gese) | 5.3 | 01-25-2022 02:14:32 |
-| [off the east coast of the North Island of New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us7000genk) | 5.2 | 01-24-2022 20:25:47 |
-| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gep5) | 5.1 | 01-24-2022 21:17:35 |
 | [Chagos Archipelago region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gext) | 5 | 01-25-2022 16:04:14 |
-| [56 km NNW of Nuku‘alofa, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gep3) | 5 | 01-24-2022 21:16:57 |
-| [north of Ascension Island](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ger6) | 4.9 | 01-25-2022 00:13:10 |
-| [237 km SE of Sarangani, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gems) | 4.9 | 01-24-2022 19:23:39 |
 | [159 km NW of Neiafu, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gf0y) | 4.9 | 01-25-2022 17:21:33 |
 | [119 km ENE of Iquique, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gev8) | 4.9 | 01-25-2022 13:40:19 |
 | [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000get0) | 4.8 | 01-25-2022 03:38:06 |
-| [57 km NNW of Nuku‘alofa, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000geqs) | 4.8 | 01-24-2022 23:29:36 |
-| [20 km W of Wagin, Australia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gep9) | 4.8 | 01-24-2022 21:24:49 |
 | [10 km NNE of Wailua, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv72889347) | 4.67 | 01-25-2022 10:51:29 |
-| [81 km NE of Amahai, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gepu) | 4.5 | 01-24-2022 22:03:32 |
+| [6 km NW of Léogâne, Haiti](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gf2t) | 4.5 | 01-25-2022 18:50:57 |
 | [29 km ESE of Yilan, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gex8) | 4.5 | 01-25-2022 14:35:53 |
-| [8 km SW of Petite Rivière de Nippes, Haiti](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gen4) | 4.4 | 01-24-2022 20:01:45 |
+| [200 km WSW of Puerto Casma, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000geuj) | 4.4 | 01-25-2022 10:19:15 |
+| [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000geut) | 4.2 | 01-25-2022 11:17:04 |
+| [4 km WNW of Anse-à-Veau, Haiti](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gert) | 4.1 | 01-25-2022 01:04:48 |
+| [176 km SSE of Burica, Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gev0) | 4 | 01-25-2022 12:00:54 |
+| [39 km S of False Pass, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gf42) | 3.8 | 01-25-2022 21:56:37 |
+| [86 km S of Kokhanok, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak02215q56d1) | 3.6 | 01-25-2022 23:02:47 |
+| [Mona Passage](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022025001) | 3.41 | 01-25-2022 15:01:06 |
+| [39 km NW of Willow, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak02216zzodu) | 3.2 | 01-26-2022 00:03:05 |
