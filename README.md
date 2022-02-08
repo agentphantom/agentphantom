@@ -4,16 +4,16 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
+| [central Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gj2g) | 6.1 | 02-08-2022 11:59:26 |
 | [282 km NNE of Fais, Micronesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000giyh) | 5.4 | 02-07-2022 23:29:32 |
 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gixf) | 5.2 | 02-07-2022 21:09:39 |
-| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000git5) | 5.2 | 02-07-2022 10:37:39 |
-| [Taiwan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gita) | 5.1 | 02-07-2022 10:58:24 |
+| [280 km SSW of ‘Ohonua, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gj1n) | 5.2 | 02-08-2022 08:22:24 |
+| [east of the South Sandwich Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gj10) | 5.1 | 02-08-2022 06:32:39 |
+| [southwest of Africa](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gj1q) | 5 | 02-08-2022 08:51:39 |
 | [Kermadec Islands, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gj09) | 5 | 02-08-2022 02:28:43 |
-| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gisx) | 5 | 02-07-2022 08:45:36 |
 | [Kamchatka Peninsula, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gizp) | 4.9 | 02-08-2022 00:58:42 |
+| [north of Severnaya Zemlya](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gj20) | 4.7 | 02-08-2022 09:52:03 |
 | [48 km NNW of Nuku‘alofa, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gj0k) | 4.7 | 02-07-2022 13:05:10 |
-| [35 km WSW of Kimbe, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gisv) | 4.7 | 02-07-2022 09:06:48 |
-| [285 km SW of Sibolga, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gisq) | 4.6 | 02-07-2022 08:14:41 |
 | [139 km SE of Alo, Wallis and Futuna](https://earthquake.usgs.gov/earthquakes/eventpage/us7000giws) | 4.6 | 02-07-2022 19:06:28 |
 | [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000giyc) | 4.5 | 02-07-2022 22:42:34 |
 | [76 km SW of Taltal, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gj0p) | 4.5 | 02-08-2022 05:22:13 |
