@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [47 km NW of Abra Pampa, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h27y) | 5.7 | 03-05-2022 01:10:06 |
-| [102 km SSW of Banda Aceh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2an) | 5.5 | 03-05-2022 12:02:41 |
-| [9 km E of Parapat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2cv) | 5.1 | 03-05-2022 13:33:23 |
-| [68 km NNE of Puerto Ocopa, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h29g) | 5.1 | 03-05-2022 07:45:28 |
-| [152 km E of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h278) | 5.1 | 03-04-2022 22:29:45 |
-| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h28x) | 5 | 03-05-2022 05:03:04 |
-| [Southwest Indian Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h28k) | 4.8 | 03-05-2022 03:06:54 |
-| [69 km NNW of Ternate, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2dv) | 4.8 | 03-05-2022 15:25:43 |
-| [278 km WSW of Tual, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h27l) | 4.7 | 03-04-2022 23:46:33 |
-| [135 km E of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h25n) | 4.7 | 03-04-2022 21:03:47 |
-| [82 km NNW of Phôngsali, Laos](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2db) | 4.5 | 03-05-2022 14:43:04 |
-| [263 km E of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2a4) | 4.4 | 03-05-2022 09:07:58 |
-| [21 km E of Kirovsk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h27r) | 4.4 | 03-05-2022 00:13:26 |
-| [17 km W of San Nicolò, Italy](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h25u) | 4.4 | 03-04-2022 21:17:52 |
-| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h28l) | 4.3 | 03-05-2022 03:11:56 |
-| [57 km S of Whites City, New Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/tx2022elfg) | 4.3 | 03-05-2022 01:16:51 |
-| [121 km NW of Pante Makasar, Timor Leste](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h25d) | 4.3 | 03-04-2022 20:32:20 |
-| [76 km NNW of Charlotte Amalie, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022064000) | 4.09 | 03-05-2022 14:51:46 |
-| [74 km NW of Yakutat, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0222xv1m5j) | 3.9 | 03-05-2022 01:09:18 |
-| [126 km NNE of Suárez, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022064001) | 3.74 | 03-05-2022 16:53:03 |
+| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2l5) | 6 | 03-06-2022 20:14:30 |
+| [64 km WNW of Vinchina, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2il) | 5.5 | 03-06-2022 09:35:07 |
+| [1 km NE of San Juan Guichicovi, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2h0) | 5.5 | 03-06-2022 03:29:21 |
+| [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2hv) | 5.1 | 03-06-2022 06:57:05 |
+| [73 km ESE of Naze, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2gp) | 5.1 | 03-06-2022 01:13:32 |
+| [196 km SW of Vaini, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2gu) | 5 | 03-06-2022 02:33:17 |
+| [229 km N of Inuvik, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2lu) | 4.8 | 03-06-2022 21:54:11 |
+| [203 km NNW of Santa Cruz da Graciosa, Portugal](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2gv) | 4.7 | 03-06-2022 02:26:13 |
+| [Lake Edward region, Uganda](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2ih) | 4.6 | 03-06-2022 08:59:49 |
+| [49 km SE of Jiufen, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2h5) | 4.5 | 03-06-2022 03:51:56 |
+| [42 km NNW of Te Anau, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2hj) | 4.5 | 03-06-2022 05:26:45 |
+| [77 km NNE of Ruteng, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2j5) | 4.4 | 03-06-2022 12:07:10 |
+| [38 km SW of Turt, Mongolia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2md) | 4.4 | 03-06-2022 23:56:18 |
+| [Philippine Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2lt) | 4.2 | 03-06-2022 21:48:06 |
+| [36 km ESE of Farkhār, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2ls) | 4.2 | 03-06-2022 21:30:58 |
+| [140 km N of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022065000) | 4.15 | 03-06-2022 16:20:15 |
+| [99 km W of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2l2) | 4.1 | 03-06-2022 20:02:27 |
+| [129 km E of San Pedro de Atacama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2kc) | 4.1 | 03-06-2022 17:10:25 |
+| [24 km WNW of Pucara, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2jf) | 4 | 03-06-2022 13:42:31 |
+| [118 km N of Calama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2gt) | 4 | 03-06-2022 02:25:52 |
