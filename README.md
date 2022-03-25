@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [36 km ESE of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwpw) | 6 | 03-23-2022 21:57:00 |
-| [238 km S of ‘Ohonua, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwpf) | 5.5 | 03-23-2022 20:47:31 |
-| [55 km S of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwqp) | 5.2 | 03-24-2022 00:38:26 |
-| [18 km N of Jérémie, Haiti](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwly) | 5.1 | 03-23-2022 19:40:41 |
-| [142 km WNW of Naha, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwq4) | 5.1 | 03-23-2022 22:53:27 |
-| [256 km S of ‘Ohonua, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwqb) | 5 | 03-23-2022 23:15:59 |
-| [64 km WNW of Manokwari, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwqh) | 4.9 | 03-23-2022 23:54:42 |
+| [south of the Kermadec Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwx3) | 5.2 | 03-24-2022 18:02:04 |
+| [57 km NE of Nogliki, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gx0b) | 4.9 | 03-24-2022 21:52:28 |
+| [94 km WNW of Cabra, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwzu) | 4.8 | 03-24-2022 21:06:37 |
+| [251 km SSW of Jimbaran, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwxb) | 4.8 | 03-24-2022 18:28:57 |
+| [105 km WSW of San Nicolas, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gx0h) | 4.8 | 03-24-2022 22:37:20 |
 | [Galapagos Triple Junction region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwt6) | 4.7 | 03-24-2022 08:51:20 |
-| [67 km E of Port Alsworth, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0223rx1xl8) | 4.7 | 03-23-2022 18:45:12 |
-| [66 km E of Port Alsworth, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwl2) | 4.7 | 03-23-2022 18:45:11 |
-| [63 km S of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwpd) | 4.7 | 03-23-2022 20:45:27 |
 | [44 km W of Amahai, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwvs) | 4.7 | 03-24-2022 13:51:56 |
+| [277 km WSW of Tual, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwzw) | 4.7 | 03-24-2022 21:15:31 |
 | [11 km NW of San José del Palmar, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwqz) | 4.7 | 03-24-2022 01:34:04 |
 | [87 km S of San Francisco del Mar Viejo, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwvj) | 4.6 | 03-24-2022 12:25:19 |
-| [76 km WNW of Cabra, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwmn) | 4.6 | 03-23-2022 20:07:11 |
+| [80 km WNW of Cabra, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwzn) | 4.6 | 03-24-2022 20:50:38 |
+| [79 km WNW of Cabra, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwzk) | 4.6 | 03-24-2022 20:33:24 |
 | [49 km ESE of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwt1) | 4.6 | 03-24-2022 08:09:32 |
+| [21 km WSW of Manalongon, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwvd) | 4.6 | 03-24-2022 12:01:58 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwsr) | 4.5 | 03-24-2022 07:28:30 |
-| [97 km SE of Ishinomaki, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwq8) | 4.5 | 03-23-2022 23:06:41 |
+| [80 km ENE of Namie, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwrp) | 4.5 | 03-24-2022 04:11:53 |
 | [6 km SSE of Fukayachō, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwsk) | 4.5 | 03-24-2022 07:03:03 |
-| [Pagan region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwrc) | 4.4 | 03-24-2022 03:05:04 |
+| [107 km SSW of La Esperanza (El Zapotal), Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwz6) | 4.5 | 03-24-2022 19:45:19 |
+| [Pagan region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwrc) | 4.3 | 03-24-2022 03:05:06 |
+| [36 km SE of Iwaki, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwzz) | 4.3 | 03-24-2022 07:34:30 |
