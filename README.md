@@ -11,16 +11,16 @@
 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0ml) | 4.7 | 04-08-2022 11:37:51 |
 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0th) | 4.7 | 04-08-2022 20:55:31 |
 | [19 km N of Jérémie, Haiti](https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0rz) | 4.7 | 04-08-2022 17:32:37 |
+| [31 km ENE of Hernani, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0uh) | 4.6 | 04-09-2022 01:22:59 |
 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0sj) | 4.5 | 04-08-2022 19:00:49 |
 | [100 km E of Sarangani, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0tr) | 4.5 | 04-08-2022 21:51:39 |
-| [27 km NE of Sykiá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0kc) | 4.4 | 04-08-2022 01:32:02 |
+| [53 km NNE of Nanao, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0pv) | 4.4 | 04-08-2022 13:04:56 |
 | [126 km W of Ternate, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0ls) | 4.4 | 04-08-2022 07:27:26 |
-| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0lu) | 4.3 | 04-08-2022 05:39:32 |
-| [off the coast of Central America](https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0l1) | 4.2 | 04-08-2022 03:45:26 |
-| [56 km W of Taltal, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0kg) | 4.2 | 04-08-2022 02:18:56 |
 | [144 km S of Severo-Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0sc) | 4.2 | 04-08-2022 18:06:16 |
-| [48 km SE of Nemuro, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0kk) | 4.1 | 04-08-2022 02:27:20 |
+| [off the coast of Oregon](https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0uz) | 4.1 | 04-09-2022 05:20:23 |
 | [11 km ESE of Calama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0m5) | 4 | 04-08-2022 09:03:42 |
 | [81 km NE of Punta Cana, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022098000) | 3.45 | 04-08-2022 14:09:30 |
+| [79 km W of Akhiok, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0224jts20l) | 3.4 | 04-09-2022 06:00:45 |
 | [22km NNW of Tehachapi, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ci39988527) | 3.28 | 04-08-2022 09:35:54 |
 | [100 km N of San Juan, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71343803) | 3.25 | 04-08-2022 17:46:49 |
+| [55 km S of Whites City, New Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/tx2022gwvk) | 3.1 | 04-08-2022 21:01:14 |
