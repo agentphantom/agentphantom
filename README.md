@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
+| [30 km NW of Ambunti, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hghs) | 5.2 | 04-26-2022 19:08:19 |
+| [2 km SSW of Paphos, Cyprus](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hght) | 4.9 | 04-26-2022 19:11:33 |
 | [east of the Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hge2) | 4.8 | 04-26-2022 05:08:09 |
-| [163 km NNW of Sola, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgd4) | 4.7 | 04-26-2022 00:41:26 |
-| [77 km ENE of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgcw) | 4.6 | 04-26-2022 00:43:22 |
+| [western Indian-Antarctic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgjn) | 4.6 | 04-26-2022 22:28:35 |
+| [7 km SSE of Ōhara, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgkb) | 4.6 | 04-27-2022 00:12:49 |
 | [128 km WNW of Naha, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgdt) | 4.6 | 04-26-2022 03:23:03 |
 | [114 km E of Neiafu, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hggc) | 4.6 | 04-26-2022 15:17:54 |
-| [73 km S of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgbn) | 4.5 | 04-25-2022 21:30:36 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgfx) | 4.4 | 04-26-2022 14:34:25 |
-| [67 km ESE of Farkhār, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgad) | 4.2 | 04-25-2022 19:15:26 |
+| [2 km ESE of Konia, Cyprus](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgid) | 4.2 | 04-26-2022 20:02:20 |
 | [25 km SSE of Khorugh, Tajikistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgfy) | 4.1 | 04-26-2022 14:38:04 |
 | [116 km S of Boca de Yuma, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022116000) | 4.1 | 04-26-2022 08:09:11 |
-| [74 km NW of San Antonio, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71346138) | 3.34 | 04-26-2022 01:07:27 |
+| [104 km N of Charlotte Amalie, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022116003) | 4.1 | 04-26-2022 23:50:39 |
+| [114 km NNE of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022116002) | 3.76 | 04-26-2022 23:38:53 |
+| [58 km E of Iquique, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hggr) | 3.6 | 04-26-2022 17:02:55 |
 | [97 km ESE of Chalkyitsik, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0225c3left) | 3.2 | 04-26-2022 15:54:33 |
+| [294 km SW of Adak, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0225c0lyw5) | 2.9 | 04-26-2022 10:52:31 |
+| [6 km SW of Liborio Negron Torres, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022116001) | 2.83 | 04-26-2022 22:08:26 |
 | [1 km N of Magas Arriba, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71346158) | 2.81 | 04-26-2022 07:07:01 |
+| [45 km SSE of False Pass, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgj3) | 2.8 | 04-26-2022 21:16:54 |
 | [4km E of Truckee, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73723705) | 2.74 | 04-26-2022 13:51:05 |
-| [7 km E of Pāhala, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv72995162) | 2.7 | 04-25-2022 21:37:08 |
-| [9 km WNW of Smiths Ferry, Idaho](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgez) | 2.6 | 04-26-2022 09:49:22 |
-| [28 km SW of Petersville, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0225c3cf4f) | 2.6 | 04-26-2022 15:12:41 |
-| [Puerto Rico region](https://earthquake.usgs.gov/earthquakes/eventpage/pr71346113) | 2.56 | 04-25-2022 21:47:42 |
-| [7km NE of Imperial, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ci40246224) | 2.53 | 04-26-2022 07:00:56 |
-| [5 km ENE of Pāhala, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv72995737) | 2.52 | 04-26-2022 15:51:25 |
