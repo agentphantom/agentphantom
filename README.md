@@ -4,7 +4,7 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hkrd) | 5.3 | 05-13-2022 03:23:12 |
+| [110 km WSW of Abepura, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hl1d) | 5.1 | 05-14-2022 02:25:18 |
 | [97 km SSE of Ierápetra, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hksp) | 4.6 | 05-13-2022 07:31:53 |
 | [94 km NE of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hkxr) | 4.6 | 05-13-2022 15:47:27 |
 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hky8) | 4.5 | 05-13-2022 17:16:23 |
@@ -14,13 +14,13 @@
 | [33 km NNW of Upper Hell's Gate, Bonaire, Saint Eustatius and Saba ](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hksk) | 4.3 | 05-13-2022 07:07:13 |
 | [30 km SE of Jurm, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hl0e) | 4.3 | 05-13-2022 22:18:14 |
 | [14 km S of Thymianá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hl0b) | 4.3 | 05-13-2022 22:08:50 |
-| [off the coast of Oregon](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hkr4) | 4.1 | 05-13-2022 02:25:36 |
+| [108 km WNW of Quirihue, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hl1u) | 4.3 | 05-14-2022 05:07:22 |
 | [north of Franz Josef Land](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hl09) | 4.1 | 05-13-2022 21:55:00 |
 | [261 km SSE of Salluit, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hkze) | 4.1 | 05-13-2022 20:03:19 |
 | [91 km NNE of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022133004) | 3.95 | 05-13-2022 07:40:36 |
-| [21 km SE of Punta Cana, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022133002) | 3.61 | 05-13-2022 06:21:20 |
+| [103 km N of Brenas, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022134000) | 3.68 | 05-14-2022 05:25:22 |
 | [103 km NNE of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022133003) | 3.61 | 05-13-2022 10:09:12 |
-| [13 km NE of Nikolaevsk, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak022642dlvq) | 3.6 | 05-13-2022 06:55:29 |
+| [Kenai Peninsula, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak022642dlvq) | 3.6 | 05-13-2022 06:55:29 |
 | [2km SSE of Palomar Observatory, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ci40017591) | 3.48 | 05-13-2022 13:32:36 |
 | [3 km ENE of Ticuantepe, Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hl0g) | 3.4 | 05-13-2022 22:27:11 |
 | [16 km NW of Susitna, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak022647ln39) | 3.3 | 05-13-2022 15:32:57 |
