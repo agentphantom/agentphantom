@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
+| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hyju) | 5.4 | 06-29-2022 19:18:00 |
 | [northern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000hl1f) | 5 | 06-29-2022 06:05:52 |
-| [57 km E of Finschhafen, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkz2) | 4.9 | 06-28-2022 21:59:37 |
 | [northern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000hl1t) | 4.8 | 06-29-2022 08:15:43 |
+| [54 km S of Kēng Tung, Myanmar](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hyji) | 4.8 | 06-29-2022 18:54:43 |
 | [47 km S of Jurm, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000hl0x) | 4.8 | 06-29-2022 04:30:31 |
-| [63 km S of Tondano, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkzw) | 4.7 | 06-29-2022 00:41:34 |
-| [28 km SSE of Malim, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkyr) | 4.6 | 06-28-2022 21:23:16 |
-| [234 km SW of La Esperanza (El Zapotal), Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkyj) | 4.3 | 06-28-2022 20:48:48 |
+| [46 km SSE of Mawlaik, Myanmar](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hyiz) | 4.6 | 06-29-2022 18:01:58 |
+| [46 km SE of Londres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hynt) | 4.6 | 06-30-2022 00:28:21 |
+| [12 km ENE of Naranjal, Ecuador](https://earthquake.usgs.gov/earthquakes/eventpage/us7000hl2z) | 4.5 | 06-29-2022 13:53:12 |
+| [174 km E of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000hl3k) | 4.4 | 06-29-2022 15:36:43 |
+| [146 km SSW of Hengchun, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000hl3y) | 4.4 | 06-29-2022 16:46:33 |
+| [76 km W of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hynk) | 4.3 | 06-29-2022 23:45:41 |
+| [30 km S of Nueva Concepción, Guatemala](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hyih) | 4.3 | 06-29-2022 17:02:22 |
 | [3 km S of Guaymate, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022180000) | 4.16 | 06-29-2022 05:15:44 |
 | [Bonin Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000hl2a) | 4.1 | 06-29-2022 10:55:26 |
-| [0 km E of Pāhala, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv73059517) | 3.74 | 06-28-2022 23:25:06 |
+| [6 km E of Elgin, South Carolina](https://earthquake.usgs.gov/earthquakes/eventpage/se60401416) | 3.6 | 06-29-2022 23:03:01 |
+| [279 km SSW of Nikolski, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hykg) | 3.6 | 06-29-2022 18:25:57 |
 | [110km W of Petrolia, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73752561) | 3.54 | 06-29-2022 14:08:04 |
-| [68 km NE of Teller, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak02289z5lfv) | 3.1 | 06-29-2022 17:50:18 |
-| [10km SW of Niland, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ci40293376) | 3.02 | 06-29-2022 04:19:36 |
-| [76km ESE of Maneadero, B.C., MX](https://earthquake.usgs.gov/earthquakes/eventpage/ci37505629) | 2.84 | 06-29-2022 09:10:11 |
-| [97 km SSW of Kaktovik, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak02289x5btg) | 2.8 | 06-29-2022 14:13:01 |
-| [6 km SSE of Maria Antonia, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71356598) | 2.8 | 06-29-2022 06:04:22 |
-| [3 km SW of Guánica, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71356633) | 2.78 | 06-29-2022 10:27:38 |
-| [40 km NNW of San Antonio, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71356553) | 2.76 | 06-28-2022 22:50:31 |
-| [7km NNE of Ventura, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ci40293664) | 2.7 | 06-29-2022 15:37:39 |
-| [43 km E of Juneau, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak02289zivtp) | 2.7 | 06-29-2022 18:12:16 |
+| [9 km ENE of Pāhala, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv73060367) | 3.51 | 06-29-2022 21:50:22 |
+| [south of Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hynv) | 3.5 | 06-29-2022 23:50:55 |
+| [5 km E of Elgin, South Carolina](https://earthquake.usgs.gov/earthquakes/eventpage/se60401376) | 3.5 | 06-29-2022 18:43:56 |
