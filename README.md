@@ -21,6 +21,6 @@
 | [213 km SE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hztp) | 4.9 | 07-04-2022 17:31:21 |
 | [210 km SE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzpi) | 4.9 | 07-04-2022 08:02:40 |
 | [195 km SE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzup) | 4.9 | 07-04-2022 20:18:13 |
+| [Andaman Islands, India region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzwp) | 4.8 | 07-05-2022 02:34:57 |
 | [257 km ESE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzuk) | 4.8 | 07-04-2022 20:00:43 |
 | [Andaman Islands, India region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzu3) | 4.7 | 07-04-2022 18:07:44 |
-| [223 km SE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzq2) | 4.7 | 07-04-2022 09:32:33 |
