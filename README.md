@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [Pagan region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i12c) | 5.8 | 07-08-2022 23:43:30 |
-| [Pagan region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i126) | 5.8 | 07-08-2022 23:36:07 |
-| [Mariana Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i10z) | 5.3 | 07-08-2022 20:44:27 |
-| [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i167) | 5.3 | 07-09-2022 07:39:55 |
-| [213 km SE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i117) | 5.3 | 07-08-2022 21:04:39 |
-| [148 km S of Dampit, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i10m) | 5.2 | 07-08-2022 20:27:07 |
-| [138 km SSW of Kencong, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i14h) | 5.2 | 07-09-2022 02:53:46 |
+| [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i167) | 5.4 | 07-09-2022 07:39:54 |
+| [south of Java, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i14h) | 5.2 | 07-09-2022 02:53:46 |
 | [203 km W of Abepura, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i14j) | 5 | 07-09-2022 03:06:06 |
 | [182 km SSW of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i16i) | 5 | 07-09-2022 09:46:44 |
-| [96 km SSE of Pondaguitan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i13t) | 4.9 | 07-09-2022 01:08:41 |
 | [24 km E of Kandrian, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i182) | 4.9 | 07-09-2022 13:58:14 |
 | [169 km SSW of Kencong, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i18m) | 4.9 | 07-09-2022 15:44:45 |
-| [150 km S of Dampit, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i11u) | 4.9 | 07-08-2022 22:50:16 |
 | [Mariana Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i16k) | 4.8 | 07-09-2022 10:03:21 |
-| [218 km SE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i10d) | 4.8 | 07-08-2022 19:16:15 |
-| [136 km SSW of Kencong, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i0zw) | 4.8 | 07-08-2022 19:28:04 |
-| [Pagan region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i13n) | 4.7 | 07-09-2022 00:38:30 |
 | [Mariana Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i17n) | 4.7 | 07-09-2022 12:43:12 |
-| [Mariana Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i13i) | 4.7 | 07-09-2022 00:22:13 |
-| [Mariana Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i11d) | 4.7 | 07-08-2022 21:08:14 |
+| [144 km S of Dampit, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i184) | 4.7 | 07-09-2022 14:07:09 |
+| [141 km NW of Neiafu, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i172) | 4.7 | 07-09-2022 11:13:10 |
+| [149 km S of Dampit, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i188) | 4.6 | 07-09-2022 14:35:04 |
+| [135 km SSW of Kencong, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1a3) | 4.6 | 07-09-2022 20:40:17 |
+| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i194) | 4.4 | 07-09-2022 17:39:03 |
+| [50 km ENE of Shikotan, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i16g) | 4.4 | 07-09-2022 09:26:36 |
+| [9 km W of Tatitlek, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0228qeea2m) | 4.3 | 07-09-2022 10:56:02 |
+| [3 km WNW of Nemuro, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i154) | 4.3 | 07-09-2022 03:28:56 |
+| [16 km ESE of Chuquitira, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i192) | 4.1 | 07-09-2022 17:25:41 |
+| [13 km WNW of San Vito, Costa Rica](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1a1) | 4.1 | 07-09-2022 20:42:36 |
+| [2 km S of Rangendingen, Germany](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i17d) | 4 | 07-09-2022 11:47:29 |
+| [142 km WSW of Nikolski, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1ag) | 3.8 | 07-09-2022 22:10:15 |
