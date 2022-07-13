@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [84 km ESE of Port-Vila, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1ms) | 6 | 07-11-2022 21:10:48 |
-| [125 km NE of Hihifo, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1pn) | 5.8 | 07-12-2022 00:35:05 |
-| [88 km ESE of Port-Vila, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1ml) | 5.7 | 07-11-2022 21:06:04 |
+| [Easter Island region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1wg) | 6.8 | 07-12-2022 19:17:00 |
 | [139 km SSW of Gataivai, Samoa](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1q3) | 5.7 | 07-12-2022 02:04:52 |
-| [104 km NNE of Hihifo, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1nd) | 5.6 | 07-11-2022 22:23:36 |
+| [Easter Island region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1wq) | 5.6 | 07-12-2022 19:28:49 |
+| [Easter Island region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1xv) | 5.5 | 07-12-2022 21:47:57 |
+| [14 km WSW of La Capilla, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1yw) | 5.5 | 07-12-2022 23:36:11 |
 | [Davis Strait](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1vl) | 5.2 | 07-12-2022 16:58:04 |
-| [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1n0) | 5 | 07-11-2022 21:46:55 |
+| [West Chile Rise](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1xb) | 4.9 | 07-12-2022 20:46:54 |
+| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1wj) | 4.9 | 07-12-2022 19:23:15 |
 | [120 km SW of Bandar Lampung, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1qa) | 4.9 | 07-12-2022 02:52:06 |
 | [105 km SE of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1su) | 4.9 | 07-12-2022 12:22:07 |
+| [Easter Island region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1zf) | 4.8 | 07-13-2022 00:27:17 |
+| [Easter Island region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1zh) | 4.7 | 07-13-2022 00:19:53 |
+| [44 km SW of Brisas Barra de Suchiate, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1yg) | 4.7 | 07-12-2022 22:50:54 |
 | [178 km NNW of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1ri) | 4.7 | 07-12-2022 06:44:24 |
 | [14 km SE of Tyonek, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0228vb1a7q) | 4.7 | 07-12-2022 07:24:58 |
 | [108 km NW of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1s4) | 4.7 | 07-12-2022 09:01:23 |
-| [85 km S of Gorontalo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1mg) | 4.6 | 07-11-2022 20:37:57 |
 | [46 km SSW of Mufumbwe, Zambia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1q5) | 4.6 | 07-12-2022 02:11:38 |
 | [15 km NE of San Juanito, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1t1) | 4.6 | 07-12-2022 13:43:00 |
-| [19 km ENE of Primrose, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0228v89eiv) | 4.3 | 07-12-2022 02:58:59 |
-| [150 km NNE of Calama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1tn) | 4.3 | 07-12-2022 15:17:28 |
-| [70 km NNW of Pārūn, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1r9) | 4.2 | 07-12-2022 05:12:03 |
-| [255 km E of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1sz) | 4.2 | 07-12-2022 13:21:44 |
-| [31 km WSW of Ashkāsham, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1r5) | 4.1 | 07-12-2022 04:35:19 |
+| [136 km NW of Ternate, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1vn) | 4.6 | 07-12-2022 17:23:25 |
+| [65 km SW of Ocós, Guatemala](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1yh) | 4.4 | 07-12-2022 22:56:07 |
