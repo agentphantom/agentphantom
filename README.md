@@ -5,11 +5,9 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [south of the Kermadec Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i32x) | 5.3 | 07-16-2022 18:08:08 |
-| [164 km NE of Neiafu, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i2y7) | 5.3 | 07-16-2022 03:25:48 |
 | [151 km SSW of Lata, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i2zg) | 5.3 | 07-16-2022 07:50:50 |
 | [south of the Kermadec Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i32y) | 5.2 | 07-16-2022 18:04:03 |
 | [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i30d) | 5.1 | 07-16-2022 09:58:21 |
-| [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i2xq) | 5 | 07-16-2022 01:51:04 |
 | [76 km WNW of Agat Village, Guam](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i31v) | 5 | 07-16-2022 15:00:04 |
 | [Scotia Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i30z) | 4.9 | 07-16-2022 11:39:15 |
 | [Easter Island region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i30n) | 4.9 | 07-16-2022 10:31:58 |
@@ -21,6 +19,8 @@
 | [42 km SW of Huarmey, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i2zk) | 4.6 | 07-16-2022 08:18:50 |
 | [south of Africa](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i34q) | 4.5 | 07-17-2022 00:12:06 |
 | [57 km ENE of La Trinité, Martinique](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i34n) | 4.5 | 07-17-2022 00:11:48 |
-| [61 km NNW of Mostaganem, Algeria](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i2yd) | 4.4 | 07-16-2022 03:55:57 |
 | [59 km N of Mawlaik, Myanmar](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i32w) | 4.4 | 07-16-2022 18:12:48 |
 | [26 km WSW of Puyo, Ecuador](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i358) | 4.4 | 07-17-2022 00:53:36 |
+| [222 km SE of Katsuura, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i34j) | 4.4 | 07-16-2022 23:45:46 |
+| [Myanmar](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i30f) | 4.3 | 07-16-2022 10:01:32 |
+| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i35w) | 4.3 | 07-17-2022 03:13:54 |
