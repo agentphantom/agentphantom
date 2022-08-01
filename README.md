@@ -15,12 +15,12 @@
 | [13 km SSW of Pasni, Pakistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6z0) | 5.1 | 07-31-2022 13:52:16 |
 | [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6yx) | 4.9 | 07-31-2022 13:36:45 |
 | [95 km SE of Nikolski, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i73d) | 4.9 | 08-01-2022 04:08:17 |
-| [1 km SSW of Bantay, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6yg) | 4.9 | 07-31-2022 11:27:39 |
+| [74 km SE of Hengchun, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i74a) | 4.9 | 08-01-2022 08:09:46 |
 | [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6zj) | 4.7 | 07-31-2022 14:43:58 |
 | [17 km WNW of San Fernando de Monte Cristi, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i701) | 4.7 | 07-31-2022 16:37:56 |
 | [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6zt) | 4.6 | 07-31-2022 15:40:16 |
-| [157 km N of Calama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6yf) | 4.6 | 07-31-2022 11:19:58 |
-| [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6yi) | 4.5 | 07-31-2022 11:29:55 |
+| [8 km W of Álftanes, Iceland](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i73y) | 4.6 | 08-01-2022 06:27:36 |
 | [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6zp) | 4.5 | 07-31-2022 15:24:12 |
-| [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6xd) | 4.5 | 07-31-2022 07:30:51 |
 | [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6zy) | 4.4 | 07-31-2022 16:07:54 |
+| [42 km WSW of Santa Cruz, Costa Rica](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i703) | 4.4 | 07-31-2022 16:42:05 |
+| [41 km ESE of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i719) | 4.4 | 07-31-2022 20:26:10 |
