@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [111 km E of Shikotan, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8vz) | 5.8 | 08-07-2022 13:40:39 |
-| [126 km E of Madang, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8tb) | 5.1 | 08-07-2022 03:53:23 |
-| [138 km NE of Iquique, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8su) | 5 | 08-07-2022 02:41:15 |
-| [66 km SSW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8st) | 4.9 | 08-07-2022 02:28:25 |
-| [southern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8wy) | 4.8 | 08-07-2022 15:45:15 |
-| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8vm) | 4.8 | 08-07-2022 12:04:23 |
-| [89 km NE of Kainantu, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8yn) | 4.8 | 08-07-2022 23:02:11 |
-| [237 km E of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8w1) | 4.8 | 08-07-2022 13:42:14 |
-| [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8yl) | 4.7 | 08-07-2022 22:57:14 |
-| [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8vs) | 4.6 | 08-07-2022 12:52:36 |
-| [77 km SE of Picota, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8x1) | 4.6 | 08-07-2022 16:20:20 |
-| [69 km SE of Unalaska, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8wb) | 4.6 | 08-07-2022 14:01:46 |
-| [194 km SE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8wu) | 4.6 | 08-07-2022 15:44:30 |
-| [12 km NNW of Odala, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8vg) | 4.5 | 08-07-2022 11:17:09 |
-| [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8xe) | 4.4 | 08-07-2022 18:14:59 |
-| [73 km SSW of Kushiro, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8wl) | 4.4 | 08-07-2022 15:29:33 |
-| [Iran-Iraq border region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8u9) | 4.3 | 08-07-2022 06:49:28 |
-| [5 km NNW of Mitake, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8uy) | 4.2 | 08-07-2022 08:49:39 |
-| [12 km SE of Kaş, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8uh) | 4.2 | 08-07-2022 08:01:59 |
-| [55 km SSW of Whites City, New Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/tx2022piya) | 3.9 | 08-07-2022 08:15:16 |
+| [148 km SSW of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i904) | 5.6 | 08-08-2022 05:37:17 |
+| [61 km S of Pangai, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i953) | 5.2 | 08-08-2022 18:05:34 |
+| [81 km E of Isangel, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i92k) | 5.1 | 08-08-2022 13:42:52 |
+| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i90n) | 5 | 08-08-2022 07:18:28 |
+| [175 km SW of Bandar Lampung, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i97s) | 4.8 | 08-08-2022 23:15:04 |
+| [48 km NW of Valparaíso, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8zd) | 4.7 | 08-08-2022 03:44:55 |
+| [21 km W of Quiñota, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i96q) | 4.7 | 08-08-2022 20:57:51 |
+| [89 km ESE of Arica, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i916) | 4.6 | 08-08-2022 09:19:15 |
+| [5 km SSE of San Mateo del Mar, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i91y) | 4.6 | 08-08-2022 11:34:29 |
+| [205 km W of Tofino, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i90r) | 4.6 | 08-08-2022 07:38:56 |
+| [296 km WSW of Tual, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i91l) | 4.5 | 08-08-2022 10:18:41 |
+| [245 km SSW of Kupang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i90z) | 4.5 | 08-08-2022 08:55:07 |
+| [11 km SSW of Aígio, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i932) | 4.5 | 08-08-2022 14:45:22 |
+| [8km NNE of Walker, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73765585) | 4.45 | 08-08-2022 20:44:14 |
+| [60 km ESE of Torbat-e Ḩeydarīyeh, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i90u) | 4.4 | 08-08-2022 07:45:35 |
+| [249 km W of Adak, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8zm) | 4.3 | 08-08-2022 03:57:21 |
+| [224 km E of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i92h) | 4.2 | 08-08-2022 13:04:26 |
+| [117 km WNW of Lorino, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i8z3) | 4.2 | 08-08-2022 02:01:47 |
+| [76 km SSW of Unalaska, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000i94s) | 3.8 | 08-08-2022 17:02:04 |
+| [63 km NNE of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022220002) | 3.75 | 08-08-2022 06:31:21 |
