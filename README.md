@@ -5,22 +5,22 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [Taiwan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icaz) | 4.9 | 08-20-2022 04:07:49 |
-| [13 km SW of Gulariyā, Nepal](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ic7w) | 4.9 | 08-19-2022 19:42:42 |
 | [135 km NNW of Finschhafen, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icav) | 4.8 | 08-20-2022 02:34:31 |
-| [7 km NNE of Orkney, South Africa](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ic78) | 4.7 | 08-19-2022 18:24:32 |
+| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ices) | 4.7 | 08-20-2022 19:34:46 |
 | [175 km ESE of Neiafu, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000iccn) | 4.7 | 08-20-2022 13:05:36 |
-| [62 km SE of Contamana, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ic7m) | 4.6 | 08-19-2022 19:06:51 |
-| [38 km SW of Komodo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ic76) | 4.6 | 08-19-2022 18:17:31 |
-| [2 km NNE of Mobo, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ic82) | 4.6 | 08-19-2022 19:22:27 |
-| [162 km SE of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ic7d) | 4.6 | 08-19-2022 18:36:38 |
 | [59 km N of Güiria, Venezuela](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icbb) | 4.5 | 08-20-2022 05:17:02 |
-| [98 km SSE of Sarangani, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ic90) | 4.4 | 08-19-2022 22:05:25 |
+| [13 km SSE of Coquimbo, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icex) | 4.5 | 08-20-2022 19:50:00 |
 | [95 km SE of Lata, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icdt) | 4.4 | 08-20-2022 17:12:36 |
-| [265 km NNW of Tual, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ica5) | 4.4 | 08-20-2022 01:05:39 |
-| [16 km NNE of Iztapa, Guatemala](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ic7f) | 4.2 | 08-19-2022 18:43:09 |
+| [218 km NE of Lospalos, Timor Leste](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icdf) | 4.4 | 08-20-2022 16:07:12 |
+| [30 km ESE of Salamanca, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icfk) | 4.3 | 08-20-2022 21:15:47 |
+| [123 km W of Basco, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icdg) | 4.3 | 08-20-2022 15:41:21 |
+| [18 km WNW of Villa Basilio Nievas, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icg9) | 4.2 | 08-21-2022 00:43:52 |
 | [45 km SW of Puerto El Triunfo, El Salvador](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icaj) | 4.1 | 08-20-2022 01:30:18 |
-| [71 km SSE of Shishmaref, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak022anth3qt) | 3.8 | 08-20-2022 08:05:22 |
-| [9 km ENE of Pýrgos, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ic8t) | 3.4 | 08-19-2022 21:16:06 |
+| [121 km N of Suárez, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022232000) | 3.73 | 08-20-2022 19:11:31 |
+| [70 km NE of Teller, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak022anth3qt) | 3.5 | 08-20-2022 08:05:23 |
 | [50 km NNE of Petersville, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak022anvilq8) | 3.4 | 08-20-2022 11:48:15 |
-| [40 km E of Juneau, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ic8c) | 3.3 | 08-19-2022 20:13:23 |
+| [25 km ESE of Punta Cana, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr71367143) | 3.25 | 08-20-2022 22:27:16 |
 | [14 km S of Guánica, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71367088) | 3.21 | 08-20-2022 15:27:22 |
+| [51 km E of Juneau, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icb0) | 3.1 | 08-20-2022 04:08:59 |
+| [40 km E of Juneau, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icet) | 3.1 | 08-20-2022 19:38:44 |
+| [13 km NNW of Snyder, Texas](https://earthquake.usgs.gov/earthquakes/eventpage/tx2022qgun) | 2.808366319 | 08-20-2022 09:44:57 |
