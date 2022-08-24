@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [117 km S of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000id0t) | 6 | 08-23-2022 14:31:40 |
+| [121 km S of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000id0t) | 6.2 | 08-23-2022 14:31:40 |
+| [Balleny Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i1ui) | 5.8 | 08-23-2022 18:41:30 |
 | [Pacific-Antarctic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000id05) | 5.4 | 08-23-2022 11:53:10 |
 | [Pacific-Antarctic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000iczk) | 5.2 | 08-23-2022 10:25:52 |
 | [149 km SE of Pangai, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000id52) | 5.2 | 08-23-2022 16:29:38 |
+| [199 km WSW of Bandar Lampung, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i1uy) | 5.1 | 08-23-2022 19:46:49 |
 | [152 km W of Tual, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000id0n) | 5 | 08-23-2022 13:39:12 |
 | [43 km NNE of Kon Tum, Vietnam](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icyw) | 4.8 | 08-23-2022 07:08:07 |
 | [32 km SW of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000id55) | 4.8 | 08-23-2022 16:45:10 |
+| [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i1uj) | 4.6 | 08-23-2022 18:45:09 |
+| [82 km NW of Ishikawa, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i1uw) | 4.6 | 08-23-2022 19:39:40 |
 | [0 km WNW of Týrnavos, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icyp) | 4.6 | 08-23-2022 06:36:23 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000iczj) | 4.5 | 08-23-2022 10:24:20 |
 | [99 km ESE of Ōfunato, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000id0q) | 4.5 | 08-23-2022 13:53:39 |
 | [98 km WSW of Lebu, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icxt) | 4.5 | 08-23-2022 03:09:18 |
+| [45 km E of Namie, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i1u1) | 4.5 | 08-23-2022 17:20:07 |
+| [Vanuatu region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i1vt) | 4.4 | 08-23-2022 21:29:20 |
 | [11 km ESE of Himarë, Albania](https://earthquake.usgs.gov/earthquakes/eventpage/us6000id0l) | 4.4 | 08-23-2022 13:38:31 |
-| [97 km SSW of Leava, Wallis and Futuna](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icxd) | 4.3 | 08-23-2022 01:33:16 |
-| [18 km W of Vallecitos de Zaragoza, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icxg) | 4.3 | 08-23-2022 01:58:42 |
+| [19 km SSW of Guayameo, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icxg) | 4.3 | 08-23-2022 01:58:44 |
 | [18 km NNW of Serrezuela, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icxx) | 4.3 | 08-23-2022 03:38:45 |
-| [11 km NNW of Cepitá, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icw1) | 4.3 | 08-22-2022 21:52:43 |
-| [86 km NW of Punta Arenas, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icx6) | 4.2 | 08-23-2022 00:35:27 |
-| [15 km SE of Kishtwār, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000icvq) | 4.2 | 08-22-2022 20:50:29 |
-| [9 km E of Pāhala, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv73118317) | 4.03 | 08-23-2022 05:11:30 |
-| [39 km SSE of Boca de Yuma, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022234001) | 3.85 | 08-22-2022 23:54:58 |
