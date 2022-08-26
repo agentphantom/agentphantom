@@ -4,7 +4,7 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i2fm) | 4.9 | 08-25-2022 15:40:55 |
+| [67 km NNE of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i2qa) | 5 | 08-26-2022 16:10:50 |
 | [northern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i2ik) | 4.8 | 08-26-2022 05:38:13 |
 | [92 km ESE of Phek, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i2i8) | 4.7 | 08-26-2022 04:52:17 |
 | [12 km WNW of Akune, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i2h1) | 4.6 | 08-25-2022 23:48:30 |
@@ -20,7 +20,7 @@
 | [9 km NE of Girdwood, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak022axozwr6) | 3.6 | 08-26-2022 05:19:34 |
 | [50 km S of Port Graham, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak022axslzwk) | 3.6 | 08-26-2022 11:26:27 |
 | [70 km N of Isabela, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71367978) | 3.42 | 08-25-2022 20:11:30 |
-| [23 km SSW of Mammoth, Wyoming](https://earthquake.usgs.gov/earthquakes/eventpage/uu60511437) | 3.36 | 08-26-2022 05:51:13 |
 | [74 km SW of Karluk, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak022axow76q) | 3.3 | 08-26-2022 05:02:02 |
 | [27 km E of Bairoil, Wyoming](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i2hj) | 3.3 | 08-26-2022 02:10:53 |
+| [10 km NW of Monteros, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i2kg) | 3.3 | 08-26-2022 12:43:05 |
 | [91 km N of Culebra, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71368018) | 3.25 | 08-25-2022 22:57:41 |
