@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
+| [111 km WNW of Kandrian, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4st) | 6.1 | 09-02-2022 22:39:51 |
+| [150 km SE of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4u0) | 5.4 | 09-02-2022 23:56:45 |
+| [15 km SSE of Palekastro, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4v6) | 5.3 | 09-03-2022 04:13:11 |
 | [266 km NNE of Bamboo Flat, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4kj) | 5.1 | 09-02-2022 07:13:04 |
-| [281 km WNW of Neiafu, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4jj) | 5 | 09-02-2022 04:32:30 |
-| [31 km SSW of Adak, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4iz) | 4.7 | 09-02-2022 02:45:31 |
-| [27 km SSE of Singkil, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4j9) | 4.7 | 09-02-2022 03:34:23 |
-| [132 km NE of Lospalos, Timor Leste](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4jc) | 4.6 | 09-02-2022 03:59:55 |
-| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4jg) | 4.5 | 09-02-2022 04:23:46 |
-| [Crete, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4kd) | 4.4 | 09-02-2022 06:49:52 |
+| [133 km SE of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4ts) | 5.1 | 09-02-2022 23:41:15 |
+| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4qk) | 5 | 09-02-2022 17:16:46 |
+| [Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4up) | 4.9 | 09-03-2022 02:16:47 |
+| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4r9) | 4.9 | 09-02-2022 18:28:47 |
+| [12 km E of Baghlān, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4qg) | 4.9 | 09-02-2022 17:00:11 |
+| [Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4vp) | 4.8 | 09-03-2022 05:57:23 |
+| [Kepulauan Babar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4qt) | 4.7 | 09-02-2022 17:44:14 |
+| [51 km W of Chara, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4v8) | 4.7 | 09-03-2022 04:36:20 |
+| [127 km ENE of Hihifo, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4s0) | 4.7 | 09-02-2022 20:15:02 |
+| [14 km NNE of Ōhara, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4s2) | 4.6 | 09-02-2022 20:24:39 |
+| [237 km ENE of Lospalos, Timor Leste](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4pz) | 4.5 | 09-02-2022 15:47:12 |
+| [215 km SSW of Severo-Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4vk) | 4.5 | 09-03-2022 05:20:37 |
+| [100 km SE of Ierápetra, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4kd) | 4.4 | 09-02-2022 06:49:52 |
 | [76 km NNE of Calama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4lq) | 4.3 | 09-02-2022 11:25:02 |
-| [73 km SSW of Ust’-Kamchatsk Staryy, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4jy) | 4.3 | 09-02-2022 05:22:31 |
-| [10 km WSW of San José, Costa Rica](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4je) | 4.1 | 09-02-2022 04:21:53 |
-| [western Texas](https://earthquake.usgs.gov/earthquakes/eventpage/tx2022reem) | 3.8 | 09-02-2022 04:55:15 |
-| [42 km S of Adak, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4jm) | 3.8 | 09-02-2022 02:56:22 |
-| [Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022245001) | 3.62 | 09-02-2022 06:43:18 |
-| [Puerto Rico region](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022245000) | 3.55 | 09-02-2022 02:48:39 |
-| [7 km WNW of Fox River, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak022b9dh1ae) | 3.5 | 09-02-2022 11:43:11 |
-| [5km NE of Pinnacles, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73774560) | 2.91 | 09-02-2022 08:23:29 |
-| [10 km NE of Stanley, Idaho](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i4lk) | 2.9 | 09-02-2022 10:37:24 |
-| [5km NE of Pinnacles, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73774585) | 2.87 | 09-02-2022 08:39:12 |
-| [Mona Passage](https://earthquake.usgs.gov/earthquakes/eventpage/pr71369293) | 2.84 | 09-02-2022 05:16:05 |
-| [14km W of Round Valley, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73774500) | 2.84 | 09-02-2022 05:00:11 |
+| [107 km N of Suárez, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022246001) | 3.86 | 09-03-2022 04:53:12 |
+| [5 km ENE of San Juan, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022246000) | 3.83 | 09-03-2022 03:04:03 |
