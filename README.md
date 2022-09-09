@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [Ionian Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii2v) | 5.5 | 09-08-2022 07:36:24 |
+| [46 km SW of Lixoúri, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii2v) | 5.5 | 09-08-2022 07:36:24 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii6j) | 5.4 | 09-08-2022 15:05:34 |
-| [108 km ESE of Hihifo, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii2q) | 5.3 | 09-08-2022 07:15:33 |
-| [56 km NNW of Norðurþing, Iceland](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii1h) | 5.1 | 09-08-2022 04:01:03 |
-| [136 km SSE of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii32) | 5.1 | 09-08-2022 07:58:52 |
-| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ihzz) | 5 | 09-07-2022 23:06:53 |
+| [24 km ENE of Atico, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000iiai) | 5.4 | 09-08-2022 21:59:41 |
+| [56 km NNW of Norðurþing, Iceland](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii1h) | 5.2 | 09-08-2022 04:01:03 |
+| [104 km ESE of Hihifo, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii2q) | 5.2 | 09-08-2022 07:15:33 |
+| [Nias region, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii32) | 5.1 | 09-08-2022 07:58:52 |
 | [southern Sumatra, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii8h) | 4.9 | 09-08-2022 17:52:49 |
 | [south of Java, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii2m) | 4.9 | 09-08-2022 07:01:18 |
-| [147 km WSW of Adak, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ihz6) | 4.8 | 09-07-2022 20:41:05 |
 | [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii2j) | 4.7 | 09-08-2022 06:56:46 |
 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii4h) | 4.7 | 09-08-2022 12:09:30 |
 | [Catanduanes, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii3e) | 4.7 | 09-08-2022 08:54:48 |
-| [134 km SSE of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ihzq) | 4.7 | 09-07-2022 22:26:33 |
-| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii11) | 4.6 | 09-08-2022 01:48:18 |
-| [64 km SSE of Gorontalo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ihz2) | 4.6 | 09-07-2022 20:11:12 |
+| [Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000iiat) | 4.6 | 09-08-2022 22:15:24 |
+| [56 km NNW of Norðurþing, Iceland](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii1s) | 4.6 | 09-08-2022 04:49:24 |
 | [55 km NNW of Norðurþing, Iceland](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii1w) | 4.6 | 09-08-2022 05:07:42 |
-| [116 km NW of Sola, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii0y) | 4.6 | 09-08-2022 01:19:36 |
-| [297 km WNW of Haveluloto, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii0w) | 4.5 | 09-08-2022 01:06:23 |
-| [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii08) | 4.4 | 09-07-2022 23:32:58 |
-| [48 km SE of Port-Vila, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ihyy) | 4.4 | 09-07-2022 19:59:14 |
+| [54 km NW of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000iib6) | 4.6 | 09-08-2022 23:22:30 |
+| [54 km NE of Luganville, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000iias) | 4.6 | 09-08-2022 22:13:32 |
+| [154 km ESE of Gorontalo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000iia2) | 4.6 | 09-08-2022 21:37:01 |
+| [40 km NNW of Ishqoshim, Tajikistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii38) | 4.4 | 09-08-2022 08:20:37 |
+| [144 km NE of Thang, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ii12) | 4.4 | 09-08-2022 01:50:51 |
+| [Flores Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000iib9) | 4.3 | 09-09-2022 00:06:32 |
