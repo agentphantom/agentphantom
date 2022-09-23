@@ -7,20 +7,20 @@
 | [Michoacan, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia36) | 6.8 | 09-22-2022 06:16:09 |
 | [59 km N of Picton, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia3y) | 5.2 | 09-22-2022 09:07:04 |
 | [113 km NNE of Hihifo, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia8t) | 5.2 | 09-22-2022 16:18:52 |
-| [68 km SSE of Hasaki, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia0q) | 5 | 09-21-2022 22:24:41 |
-| [near the east coast of Honshu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia0s) | 4.8 | 09-21-2022 22:36:51 |
-| [75 km NE of San Pedro de Atacama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia2m) | 4.7 | 09-22-2022 04:06:48 |
-| [226 km SSW of Waingapu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i9zl) | 4.7 | 09-21-2022 19:41:11 |
+| [296 km WNW of Haveluloto, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000iaal) | 4.8 | 09-22-2022 20:31:24 |
+| [northern Sumatra, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000iaa2) | 4.7 | 09-22-2022 19:36:20 |
+| [9 km N of Inashiki, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000iac2) | 4.7 | 09-23-2022 00:53:50 |
 | [3 km WSW of Abetone, Italy](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia8f) | 4.6 | 09-22-2022 15:47:57 |
+| [177 km WSW of Longyearbyen, Svalbard and Jan Mayen](https://earthquake.usgs.gov/earthquakes/eventpage/us7000iac9) | 4.6 | 09-23-2022 01:00:18 |
+| [144 km W of Itoman, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000iabm) | 4.6 | 09-22-2022 22:19:23 |
+| [144 km S of Burica, Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us7000iaa6) | 4.6 | 09-22-2022 19:50:34 |
+| [Tarapaca-Antofagasta border region, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000iabz) | 4.5 | 09-23-2022 00:28:37 |
 | [92 km SW of Basco, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia4g) | 4.5 | 09-22-2022 10:59:22 |
+| [86 km E of Yujing, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia9u) | 4.5 | 09-22-2022 18:54:22 |
+| [75 km NE of San Pedro de Atacama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia2m) | 4.5 | 09-22-2022 04:06:48 |
 | [59 km SW of Atocha, Bolivia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia3h) | 4.5 | 09-22-2022 07:32:08 |
+| [55 km NNE of Lae, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia9x) | 4.5 | 09-22-2022 19:22:05 |
 | [83 km S of Champerico, Guatemala](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia6n) | 4.4 | 09-22-2022 14:15:43 |
-| [207 km WNW of Abepura, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia0j) | 4.4 | 09-21-2022 21:50:38 |
+| [56 km N of Pārūn, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000iabv) | 4.4 | 09-22-2022 23:52:58 |
 | [1 km N of Bogliasco, Italy](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia6e) | 4.4 | 09-22-2022 13:40:00 |
-| [75 km W of Waingapu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia17) | 4.3 | 09-21-2022 23:59:37 |
-| [82 km NNE of Whakatane, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia2q) | 4.2 | 09-22-2022 04:28:16 |
-| [174 km ENE of Taltal, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia7a) | 4.2 | 09-22-2022 15:10:57 |
-| [105 km E of Iquique, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000i9zh) | 4.2 | 09-21-2022 19:42:07 |
-| [48 km SW of La Libertad, El Salvador](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia3p) | 4 | 09-22-2022 08:31:12 |
-| [32 km NNE of Punta Cana, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022265000) | 3.98 | 09-22-2022 02:57:09 |
-| [224 km W of Bandon, Oregon](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ia3v) | 3.9 | 09-22-2022 08:47:50 |
+| [31 km NW of La Puerta de San José, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000iaay) | 4.3 | 09-22-2022 21:08:05 |
