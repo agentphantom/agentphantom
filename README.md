@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ing5) | 5.4 | 09-26-2022 20:30:16 |
+| [Baja California Sur, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inv3) | 5.3 | 09-28-2022 01:18:25 |
 | [21 km WSW of Susuz, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inmr) | 5.3 | 09-27-2022 14:08:32 |
-| [111 km W of Panguna, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ingb) | 5.1 | 09-26-2022 21:11:32 |
 | [northern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inpf) | 5 | 09-27-2022 15:12:40 |
+| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inuv) | 4.9 | 09-28-2022 00:55:09 |
+| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000int8) | 4.9 | 09-27-2022 21:18:19 |
 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inm2) | 4.9 | 09-27-2022 11:59:49 |
-| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000infy) | 4.9 | 09-26-2022 19:39:47 |
+| [43 km ENE of Cortes, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inv0) | 4.9 | 09-28-2022 01:12:25 |
+| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000int6) | 4.8 | 09-27-2022 21:09:53 |
+| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000insf) | 4.8 | 09-27-2022 19:53:44 |
 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inmq) | 4.8 | 09-27-2022 13:46:49 |
 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inmi) | 4.8 | 09-27-2022 13:21:36 |
 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inkr) | 4.8 | 09-27-2022 08:47:39 |
+| [southern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inqf) | 4.7 | 09-27-2022 16:45:15 |
+| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inu0) | 4.7 | 09-27-2022 23:13:32 |
+| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inrw) | 4.7 | 09-27-2022 19:04:48 |
 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inmh) | 4.7 | 09-27-2022 13:07:35 |
 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inls) | 4.7 | 09-27-2022 10:59:20 |
 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000injz) | 4.7 | 09-27-2022 07:19:45 |
-| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inh6) | 4.7 | 09-26-2022 23:05:45 |
-| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ingy) | 4.7 | 09-26-2022 22:44:01 |
-| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000infx) | 4.7 | 09-26-2022 19:32:17 |
-| [298 km S of Kencong, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inh7) | 4.7 | 09-26-2022 23:17:35 |
-| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inq3) | 4.6 | 09-27-2022 15:55:52 |
-| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inlf) | 4.6 | 09-27-2022 10:34:57 |
-| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000injp) | 4.6 | 09-27-2022 06:01:16 |
-| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000injm) | 4.6 | 09-27-2022 06:10:40 |
+| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inis) | 4.7 | 09-27-2022 04:42:08 |
+| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000inus) | 4.6 | 09-28-2022 00:22:52 |
