@@ -11,7 +11,7 @@
 | [53 km SSE of Singkil, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000isg3) | 4.9 | 10-10-2022 10:18:38 |
 | [35 km WNW of Coquimbo, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000isgg) | 4.8 | 10-10-2022 11:19:02 |
 | [Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ishl) | 4.7 | 10-10-2022 12:17:48 |
-| [south of Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000isdt) | 4.6 | 10-10-2022 01:50:51 |
+| [74 km SSW of Unalaska, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000islv) | 4.7 | 10-11-2022 02:16:34 |
 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000isi2) | 4.6 | 10-10-2022 13:23:50 |
 | [Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000isle) | 4.6 | 10-10-2022 23:06:54 |
 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000isf8) | 4.5 | 10-10-2022 06:45:08 |
