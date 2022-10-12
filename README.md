@@ -17,10 +17,10 @@
 | [153 km SSW of Padangsidempuan, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000isnr) | 4.9 | 10-11-2022 07:53:25 |
 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000isrb) | 4.8 | 10-11-2022 14:32:38 |
 | [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000isnw) | 4.8 | 10-11-2022 08:17:45 |
-| [77 km SSW of Unalaska, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000islv) | 4.7 | 10-11-2022 02:16:34 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ist3) | 4.6 | 10-11-2022 19:11:49 |
 | [84 km E of Namie, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ispl) | 4.6 | 10-11-2022 11:27:58 |
+| [131 km WNW of Naha, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000isxf) | 4.6 | 10-12-2022 04:56:24 |
 | [81 km SSW of Unalaska, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000isur) | 4.5 | 10-11-2022 22:07:33 |
+| [149 km WSW of Tual, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000iswc) | 4.5 | 10-12-2022 02:09:27 |
+| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000isxp) | 4.4 | 10-12-2022 05:42:54 |
 | [70 km SE of La Placita de Morelos, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000isp7) | 4.4 | 10-11-2022 09:43:23 |
-| [52 km SE of Motomachi, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000issy) | 4.4 | 10-11-2022 18:57:36 |
-| [52 km NNW of Lae, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ispq) | 4.4 | 10-11-2022 12:24:34 |
