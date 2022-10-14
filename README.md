@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
+| [151 km ESE of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000itgv) | 6.4 | 10-13-2022 22:20:20 |
 | [76 km NE of Takaka, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us6000itam) | 5.1 | 10-13-2022 14:03:54 |
 | [196 km ESE of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000it8a) | 5 | 10-13-2022 06:20:41 |
-| [59 km SSE of Kimbe, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000it72) | 4.9 | 10-13-2022 01:20:54 |
+| [37 km W of Istok, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000itir) | 4.9 | 10-14-2022 00:53:53 |
 | [31 km S of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ita8) | 4.9 | 10-13-2022 12:58:14 |
+| [195 km ESE of Kirakira, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000itea) | 4.9 | 10-13-2022 17:30:15 |
+| [18 km NW of Baikunthpur, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000itig) | 4.9 | 10-13-2022 23:58:22 |
+| [south of the Kermadec Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000iti8) | 4.8 | 10-13-2022 23:36:17 |
+| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000itj1) | 4.8 | 10-14-2022 01:34:35 |
 | [18 km SE of Bonifacio Moreno (El Aguaje), Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000it9k) | 4.7 | 10-13-2022 11:46:21 |
+| [Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000itfx) | 4.6 | 10-13-2022 19:53:16 |
+| [91 km SE of Caburan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000itet) | 4.6 | 10-13-2022 18:16:58 |
 | [200 km ENE of Port Mathurin, Mauritius](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ital) | 4.6 | 10-13-2022 13:40:13 |
-| [56 km WSW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000it79) | 4.5 | 10-13-2022 01:55:50 |
-| [5 km ESE of Barone, Italy](https://earthquake.usgs.gov/earthquakes/eventpage/us6000it5n) | 4.3 | 10-12-2022 22:44:54 |
-| [196 km SSW of Kaş, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000it5z) | 4.1 | 10-12-2022 23:09:22 |
+| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000itfk) | 4.4 | 10-13-2022 19:41:29 |
+| [92 km SW of San Juan del Sur, Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us6000itiw) | 4.4 | 10-14-2022 01:29:52 |
+| [151 km WSW of Pistol River, Oregon](https://earthquake.usgs.gov/earthquakes/eventpage/us6000itdq) | 4.4 | 10-13-2022 17:19:04 |
+| [Unimak Island region, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000iti7) | 4 | 10-13-2022 23:37:31 |
 | [Mona Passage](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022286000) | 4 | 10-13-2022 04:59:28 |
-| [28 km WNW of The Bottom, Bonaire, Saint Eustatius and Saba ](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022285001) | 3.94 | 10-12-2022 21:50:57 |
+| [50 km N of Iquique, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000itdf) | 4 | 10-13-2022 16:44:58 |
 | [Dominican Republic region](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022286002) | 3.9 | 10-13-2022 08:08:43 |
-| [46 km ENE of Miches, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022286001) | 3.65 | 10-13-2022 07:31:40 |
-| [Puerto Rico region](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022286003) | 3.63 | 10-13-2022 11:08:25 |
-| [18 km SW of Ivanof Bay, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak022d575i1z) | 3.4 | 10-13-2022 12:51:53 |
-| [83 km WNW of Nikolski, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000it6i) | 3.2 | 10-12-2022 22:09:07 |
-| [4 km SSE of Dover, Oklahoma](https://earthquake.usgs.gov/earthquakes/eventpage/ok2022uapd) | 3.15 | 10-12-2022 22:22:16 |
-| [71 km N of San Antonio, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71376713) | 3.05 | 10-13-2022 13:35:26 |
-| [22 km SSW of Mammoth, Wyoming](https://earthquake.usgs.gov/earthquakes/eventpage/uu60520327) | 2.85 | 10-13-2022 11:11:03 |
-| [western Texas](https://earthquake.usgs.gov/earthquakes/eventpage/tx2022uanq) | 2.8 | 10-12-2022 21:35:48 |
