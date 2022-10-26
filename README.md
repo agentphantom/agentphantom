@@ -20,7 +20,7 @@
 | [northern Qinghai, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ikc3) | 4.5 | 10-25-2022 21:08:10 |
 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000iwa5) | 4.5 | 10-25-2022 06:54:06 |
 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ikc1) | 4.5 | 10-25-2022 20:59:08 |
+| [Peru-Ecuador border region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000iker) | 4.4 | 10-26-2022 03:06:11 |
 | [38 km SW of Sehwan, Pakistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000iwfw) | 4.4 | 10-25-2022 16:54:22 |
+| [85 km W of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ike6) | 4.1 | 10-26-2022 01:34:17 |
 | [53 km S of Boca de Yuma, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022298000) | 3.8 | 10-25-2022 08:52:29 |
-| [15km E of Seven Trees, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73799186) | 3.54 | 10-25-2022 22:08:37 |
-| [6 km NNW of Brenas, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71379683) | 3.12 | 10-25-2022 19:39:27 |
