@@ -6,21 +6,21 @@
 |:---|:---|:---|
 | [80 km SSW of Bahía de Kino, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imgl) | 6.1 | 11-04-2022 10:02:46 |
 | [43 km SW of La Libertad, El Salvador](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imeu) | 5.7 | 11-04-2022 04:26:11 |
-| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imat) | 5.4 | 11-03-2022 20:47:46 |
-| [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000im9n) | 5.3 | 11-03-2022 18:46:44 |
+| [257 km W of Haveluloto, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imm3) | 5.3 | 11-05-2022 00:15:02 |
 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000img0) | 5.1 | 11-04-2022 07:34:58 |
-| [southern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imax) | 5 | 11-03-2022 20:59:24 |
-| [65 km W of Iquique, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imhd) | 5 | 11-04-2022 14:39:02 |
+| [near the coast of Tarapaca, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imhd) | 5 | 11-04-2022 14:39:02 |
 | [105 km WNW of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imdx) | 5 | 11-04-2022 02:58:38 |
-| [80 km WSW of Ternate, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imb1) | 4.9 | 11-03-2022 21:29:48 |
-| [85 km NNE of Calama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imca) | 4.8 | 11-04-2022 00:37:58 |
-| [7 km ESE of Karabağlar, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imc7) | 4.8 | 11-04-2022 00:29:21 |
-| [southern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imbc) | 4.7 | 11-03-2022 21:08:47 |
+| [Melville Island region, Nunavut, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us7000iml4) | 4.8 | 11-04-2022 21:31:20 |
 | [Bathurst Island region, Nunavut, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imej) | 4.7 | 11-04-2022 03:52:34 |
-| [42 km ESE of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imc1) | 4.7 | 11-03-2022 23:58:04 |
-| [41 km ENE of Hinatuan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ima3) | 4.6 | 11-03-2022 19:21:59 |
+| [159 km NNE of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imjp) | 4.6 | 11-04-2022 16:58:29 |
 | [148 km W of Pangai, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imid) | 4.6 | 11-04-2022 15:17:09 |
+| [77 km NNE of Wabag, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imjr) | 4.5 | 11-04-2022 17:20:22 |
 | [33 km E of Palca, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imfm) | 4.5 | 11-04-2022 05:40:43 |
-| [168 km WSW of Waingapu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imfy) | 4.4 | 11-04-2022 07:18:47 |
-| [3 km ENE of Kamogawa, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imay) | 4.3 | 11-03-2022 20:16:34 |
-| [28 km S of Jurm, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imbm) | 4.3 | 11-03-2022 23:04:04 |
+| [south of Sumbawa, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imfy) | 4.4 | 11-04-2022 07:18:47 |
+| [near the east coast of Honshu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imgt) | 4.3 | 11-04-2022 10:50:51 |
+| [El Salvador](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imfp) | 4.2 | 11-04-2022 06:30:53 |
+| [32 km W of Saryaghash, Kazakhstan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000imlz) | 4.1 | 11-05-2022 00:08:51 |
+| [7 km ESE of La Parguera, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2022308000) | 3.82 | 11-04-2022 06:36:18 |
+| [21 km ENE of Honaunau-Napoopoo, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv73207067) | 3.74 | 11-04-2022 07:43:21 |
+| [6km W of Cobb, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73803326) | 3.19 | 11-04-2022 20:26:32 |
+| [35 km NW of Willow, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak022e5pjixd) | 3.1 | 11-04-2022 20:18:49 |
