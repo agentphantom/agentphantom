@@ -5,6 +5,7 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [Tonga region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip0l) | 7.3 | 11-11-2022 10:48:45 |
+| [11 km SE of Masagua, Guatemala](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip7p) | 5.8 | 11-12-2022 04:39:47 |
 | [southern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip1t) | 5.3 | 11-11-2022 14:31:52 |
 | [168 km SE of Itoman, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip48) | 5.3 | 11-11-2022 17:32:24 |
 | [228 km ENE of Neiafu, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip1c) | 5.1 | 11-11-2022 11:57:33 |
@@ -13,7 +14,6 @@
 | [191 km W of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip19) | 5 | 11-11-2022 11:39:28 |
 | [Vanuatu region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip16) | 4.9 | 11-11-2022 11:01:49 |
 | [Tonga region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip1v) | 4.9 | 11-11-2022 14:42:58 |
-| [3 km E of Bungahan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000inz0) | 4.9 | 11-11-2022 01:36:57 |
 | [144 km WNW of Tual, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip6a) | 4.8 | 11-11-2022 23:26:23 |
 | [eastern Sichuan, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip68) | 4.6 | 11-11-2022 23:13:42 |
 | [Bonin Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip4d) | 4.6 | 11-11-2022 18:02:08 |
