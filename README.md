@@ -14,13 +14,13 @@
 | [Vanuatu region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip16) | 4.9 | 11-11-2022 11:01:49 |
 | [Tonga region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip1v) | 4.9 | 11-11-2022 14:42:58 |
 | [3 km E of Bungahan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000inz0) | 4.9 | 11-11-2022 01:36:57 |
+| [144 km WNW of Tual, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip6a) | 4.8 | 11-11-2022 23:26:23 |
+| [eastern Sichuan, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip68) | 4.6 | 11-11-2022 23:13:42 |
+| [Bonin Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip4d) | 4.6 | 11-11-2022 18:02:08 |
+| [89 km ESE of Isangel, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip6e) | 4.6 | 11-11-2022 23:53:57 |
+| [42 km NNW of Bandar Abbas, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip4k) | 4.6 | 11-11-2022 18:44:08 |
 | [181 km E of Neiafu, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip21) | 4.6 | 11-11-2022 15:07:35 |
 | [153 km S of Tomohon, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip3n) | 4.6 | 11-11-2022 15:47:58 |
-| [New Britain region, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000invq) | 4.5 | 11-10-2022 18:58:15 |
-| [87 km S of Shikotan, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000inyx) | 4.5 | 11-11-2022 01:04:06 |
-| [16 km S of Magdalena, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000inyu) | 4.5 | 11-10-2022 23:16:08 |
+| [111 km SE of Biak, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip5u) | 4.6 | 11-11-2022 22:14:13 |
+| [165 km ENE of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip5e) | 4.5 | 11-11-2022 21:21:13 |
 | [148 km NE of Lospalos, Timor Leste](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip0g) | 4.5 | 11-11-2022 10:16:32 |
-| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000inwr) | 4.4 | 11-10-2022 21:50:20 |
-| [6 km WSW of Babushkin, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip03) | 4.4 | 11-11-2022 07:25:17 |
-| [43 km SSW of Mawlaik, Myanmar](https://earthquake.usgs.gov/earthquakes/eventpage/us7000inz1) | 4.2 | 11-11-2022 01:32:15 |
-| [52 km WSW of Tola, Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us7000inzd) | 4.1 | 11-11-2022 03:41:19 |
