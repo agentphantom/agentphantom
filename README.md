@@ -16,11 +16,11 @@
 | [175 km E of Neiafu, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ipbb) | 4.9 | 11-12-2022 14:09:21 |
 | [166 km ESE of Neiafu, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ipal) | 4.9 | 11-12-2022 11:50:50 |
 | [97 km SSW of Banjar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ipam) | 4.8 | 11-12-2022 12:29:33 |
-| [144 km WNW of Tual, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip6a) | 4.8 | 11-11-2022 23:26:23 |
+| [off the east coast of the North Island of New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ipd2) | 4.7 | 11-12-2022 22:21:40 |
 | [Bonin Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ipbq) | 4.7 | 11-12-2022 15:11:47 |
-| [eastern Sichuan, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip68) | 4.6 | 11-11-2022 23:13:42 |
 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ipa3) | 4.6 | 11-12-2022 10:52:59 |
-| [89 km ESE of Isangel, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip6e) | 4.6 | 11-11-2022 23:53:57 |
-| [42 km NNW of Bandar Abbas, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip4k) | 4.6 | 11-11-2022 18:44:08 |
 | [33 km WSW of Ashkāsham, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip8g) | 4.6 | 11-12-2022 07:08:11 |
-| [111 km SE of Biak, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip5u) | 4.6 | 11-11-2022 22:14:13 |
+| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip9y) | 4.4 | 11-12-2022 10:36:56 |
+| [150 km ENE of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ipcn) | 4.4 | 11-12-2022 21:08:40 |
+| [56 km ESE of Hengchun, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ip6v) | 4.3 | 11-12-2022 01:20:57 |
+| [145 km S of Burica, Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ipcj) | 4.3 | 11-12-2022 20:26:55 |
