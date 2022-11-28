@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [Easter Island region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isn8) | 5.6 | 11-27-2022 02:50:52 |
-| [137 km SSW of Severo-Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isns) | 5.4 | 11-27-2022 04:59:55 |
+| [274 km SSW of Lajes das Flores, Portugal](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isuh) | 5.9 | 11-28-2022 02:51:23 |
 | [Pacific-Antarctic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isrh) | 5.1 | 11-27-2022 14:04:10 |
 | [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isqh) | 5.1 | 11-27-2022 10:32:22 |
-| [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isnq) | 5.1 | 11-27-2022 04:44:12 |
-| [28 km ENE of Cortes, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isnn) | 5.1 | 11-27-2022 04:43:26 |
-| [near the coast of Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isq2) | 5 | 11-27-2022 08:32:37 |
-| [Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isn2) | 5 | 11-27-2022 01:59:21 |
-| [Tonga region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ismn) | 5 | 11-27-2022 01:57:14 |
 | [Mariana Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000issy) | 5 | 11-27-2022 20:52:01 |
+| [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isus) | 5 | 11-28-2022 02:56:38 |
+| [31 km SW of Masachapa, Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isq2) | 5 | 11-27-2022 08:32:37 |
 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000iss3) | 4.9 | 11-27-2022 18:07:48 |
 | [Easter Island region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000issz) | 4.9 | 11-27-2022 21:04:16 |
+| [72 km ENE of Norsup, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isuv) | 4.9 | 11-28-2022 03:39:14 |
 | [141 km W of Kashgar, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000issn) | 4.9 | 11-27-2022 19:58:42 |
 | [80 km ESE of Adak, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000issm) | 4.8 | 11-27-2022 19:55:01 |
 | [southeast of Easter Island](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isqn) | 4.7 | 11-27-2022 09:14:57 |
-| [near the east coast of the Kamchatka Peninsula, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isqm) | 4.7 | 11-27-2022 10:53:31 |
 | [Easter Island region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isu0) | 4.7 | 11-27-2022 23:40:49 |
-| [71 km S of Kawalu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isn0) | 4.6 | 11-27-2022 02:10:55 |
+| [66 km S of Ust’-Kamchatsk Staryy, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isqm) | 4.7 | 11-27-2022 10:53:31 |
 | [133 km SSE of Shizunai-furukawachō, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000istd) | 4.6 | 11-27-2022 21:40:46 |
-| [95 km SSW of Padang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isqv) | 4.5 | 11-27-2022 11:37:25 |
+| [Kepulauan Mentawai region, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isqv) | 4.5 | 11-27-2022 11:37:25 |
+| [63 km N of Pagudpud, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isr6) | 4.3 | 11-27-2022 12:31:51 |
+| [48 km NE of Jiufen, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000istn) | 4.3 | 11-27-2022 22:59:04 |
+| [142 km NE of Lospalos, Timor Leste](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isqg) | 4.3 | 11-27-2022 09:32:34 |
+| [42 km W of Santa Cruz, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000isrm) | 4.1 | 11-27-2022 15:29:38 |
