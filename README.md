@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
+| [49 km NE of Bandar-e Lengeh, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5sn) | 5.7 | 11-30-2022 15:17:41 |
 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5mn) | 5.5 | 11-29-2022 23:50:38 |
-| [20 km SW of Taupo, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5r4) | 5.4 | 11-30-2022 10:48:00 |
-| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000itb1) | 5.3 | 11-29-2022 15:54:45 |
+| [North Island of New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5r4) | 5.4 | 11-30-2022 10:48:00 |
 | [46 km ESE of Peace River, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5n4) | 5.3 | 11-30-2022 00:55:56 |
 | [Pacific-Antarctic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5nk) | 5.2 | 11-30-2022 01:07:37 |
-| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000itb7) | 5.1 | 11-29-2022 16:05:38 |
-| [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ita4) | 5 | 11-29-2022 13:33:27 |
-| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5l4) | 5 | 11-29-2022 19:31:56 |
-| [66 km ESE of Namie, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5pc) | 5 | 11-30-2022 03:45:59 |
-| [47 km NNW of Neiafu, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000it9p) | 5 | 11-29-2022 12:58:44 |
-| [128 km E of Nago, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000itb3) | 5 | 11-29-2022 15:57:17 |
+| [near the east coast of Honshu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5pc) | 5 | 11-30-2022 03:45:59 |
+| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5l4) | 5 | 11-29-2022 19:31:57 |
 | [45 km E of Peace River, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5mm) | 4.9 | 11-29-2022 23:45:07 |
 | [32 km W of Güiria, Venezuela](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5ns) | 4.9 | 11-30-2022 02:21:12 |
 | [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5np) | 4.8 | 11-30-2022 02:04:40 |
-| [14 km N of Néa Stíra, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5lc) | 4.8 | 11-29-2022 20:06:39 |
+| [Aegean Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5lc) | 4.8 | 11-29-2022 20:06:39 |
+| [194 km NNW of Ba, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5sp) | 4.8 | 11-30-2022 15:18:23 |
+| [181 km W of Abepura, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5s1) | 4.8 | 11-30-2022 13:30:13 |
 | [Revilla Gigedo Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5qu) | 4.7 | 11-30-2022 09:54:19 |
-| [29 km SSW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000itaj) | 4.7 | 11-29-2022 14:20:43 |
-| [Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5ni) | 4.6 | 11-30-2022 01:33:51 |
+| [Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5rq) | 4.6 | 11-30-2022 12:32:27 |
 | [94 km NNE of Calama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5n0) | 4.6 | 11-30-2022 00:35:32 |
 | [46 km NNE of Nanao, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5qe) | 4.6 | 11-30-2022 08:07:01 |
+| [44 km E of Peace River, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5my) | 4.6 | 11-29-2022 23:51:00 |
+| [154 km ESE of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5ni) | 4.6 | 11-30-2022 01:33:51 |
+| [42 km ESE of Peace River, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j5p3) | 4.5 | 11-30-2022 02:55:39 |
