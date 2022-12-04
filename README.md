@@ -12,15 +12,15 @@
 | [46 km E of Palca, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6n4) | 4.8 | 12-03-2022 11:45:29 |
 | [207 km SW of ‘Ohonua, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6ig) | 4.8 | 12-03-2022 04:36:09 |
 | [western Xizang](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6iu) | 4.6 | 12-03-2022 06:24:03 |
-| [74 km S of Hihifo, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6gl) | 4.6 | 12-02-2022 22:33:15 |
 | [198 km ENE of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6j0) | 4.6 | 12-03-2022 07:18:13 |
-| [92 km E of Codrington, Antigua and Barbuda](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6f4) | 4.5 | 12-02-2022 20:43:32 |
-| [71 km WNW of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6he) | 4.5 | 12-03-2022 00:40:59 |
-| [62 km SSW of Kawalu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6f5) | 4.5 | 12-02-2022 20:37:24 |
+| [Coquimbo, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6ie) | 4.5 | 12-03-2022 04:19:25 |
 | [29 km NNW of Āsmār, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6hi) | 4.5 | 12-03-2022 01:21:39 |
-| [15 km NE of Ljubinje, Bosnia and Herzegovina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6ey) | 4.5 | 12-02-2022 20:05:06 |
-| [89 km E of Codrington, Antigua and Barbuda](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6er) | 4.4 | 12-02-2022 19:45:29 |
-| [15 km NNE of El Zulia, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6gr) | 4.4 | 12-02-2022 23:09:22 |
+| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6px) | 4.4 | 12-03-2022 17:04:09 |
+| [Hebei, China](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6r7) | 4.4 | 12-03-2022 21:20:05 |
 | [12 km SSW of Ashkāsham, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6hx) | 4.4 | 12-03-2022 02:59:39 |
-| [southwestern Siberia, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6hg) | 4.3 | 12-03-2022 00:39:12 |
 | [Near the coast of Valparaiso, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6mi) | 4.3 | 12-03-2022 10:39:06 |
+| [37 km WNW of Añatuya, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6qe) | 4.3 | 12-03-2022 19:24:06 |
+| [236 km ENE of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6nu) | 4.3 | 12-03-2022 14:52:05 |
+| [63 km WSW of Filiatrá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6qw) | 4.2 | 12-03-2022 20:59:10 |
+| [Chile-Argentina border region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6qc) | 4.1 | 12-03-2022 19:14:16 |
+| [49 km NW of Shimokizukuri, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000j6q6) | 4.1 | 12-03-2022 18:29:56 |
