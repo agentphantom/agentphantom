@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [50 km SW of Panguna, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1bs) | 5.4 | 01-01-2023 03:16:16 |
-| [Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j19e) | 4.9 | 12-31-2022 15:10:35 |
-| [27 km N of Mazo Cruz, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1b1) | 4.8 | 12-31-2022 23:04:12 |
-| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j18u) | 4.7 | 12-31-2022 12:50:12 |
-| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j17s) | 4.7 | 12-31-2022 09:34:13 |
-| [20 km SSW of La Esperanza (El Zapotal), Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j19l) | 4.7 | 12-31-2022 15:38:55 |
-| [156 km WNW of Pathein, Myanmar](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1cd) | 4.7 | 01-01-2023 05:27:09 |
-| [Mid-Indian Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1ad) | 4.6 | 12-31-2022 18:28:42 |
-| [99 km S of Port-Vila, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j18y) | 4.6 | 12-31-2022 13:06:14 |
-| [35 km WNW of La Ligua, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j18l) | 4.5 | 12-31-2022 12:47:57 |
-| [133 km SSW of Puerto El Triunfo, El Salvador](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1a9) | 4.3 | 12-31-2022 18:24:27 |
-| [1 km W of Mojacar, Spain](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j178) | 4.2 | 12-31-2022 07:05:54 |
-| [16km N of Borrego Springs, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ci40151807) | 4.17 | 12-31-2022 12:12:26 |
-| [5 km ENE of Beri Khās, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1aj) | 4.1 | 12-31-2022 19:49:41 |
-| [14 km N of Khorramabad, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1a0) | 4.1 | 12-31-2022 17:05:40 |
-| [77 km N of Tierras Nuevas Poniente, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023001000) | 3.93 | 01-01-2023 03:29:31 |
-| [11km SSE of Lucerne Valley, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ci40151719) | 3.47 | 12-31-2022 11:41:09 |
-| [Puerto Rico region](https://earthquake.usgs.gov/earthquakes/eventpage/pr71390013) | 3.19 | 12-31-2022 13:31:34 |
-| [5km WNW of Allendale, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73827126) | 3.16 | 12-31-2022 09:02:23 |
-| [Central Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak022grzqwir) | 3 | 12-31-2022 21:14:58 |
+| [10 km ESE of Jayapura, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1g5) | 5.4 | 01-01-2023 18:24:34 |
+| [15km SE of Rio Dell, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73827571) | 5.35 | 01-01-2023 18:35:04 |
+| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1fq) | 5.3 | 01-01-2023 16:24:26 |
+| [187 km NE of Santa Cruz das Flores, Portugal](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1jv) | 5.3 | 01-02-2023 07:20:27 |
+| [northern Sumatra, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1l9) | 5.1 | 01-02-2023 10:39:59 |
+| [76 km SE of Ialibu, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1kp) | 4.9 | 01-02-2023 08:59:42 |
+| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1iv) | 4.7 | 01-02-2023 05:48:21 |
+| [197 km NNW of Santa Cruz da Graciosa, Portugal](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1gq) | 4.7 | 01-01-2023 18:55:10 |
+| [195 km NE of Santa Cruz das Flores, Portugal](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1jp) | 4.7 | 01-02-2023 07:10:12 |
+| [Mexico-Guatemala border region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1gs) | 4.6 | 01-01-2023 19:37:16 |
+| [42 km SSW of Koróni, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1in) | 4.6 | 01-02-2023 05:28:08 |
+| [Ceram Sea, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1gt) | 4.5 | 01-01-2023 19:35:38 |
+| [62 km WNW of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1jc) | 4.5 | 01-02-2023 06:45:13 |
+| [100 km SSW of Uyuni, Bolivia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1h7) | 4.5 | 01-01-2023 21:32:44 |
+| [Pagan region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1gz) | 4.4 | 01-01-2023 20:10:32 |
+| [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1hc) | 4.4 | 01-01-2023 21:55:08 |
+| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1hf) | 4.4 | 01-01-2023 22:19:27 |
+| [47 km SSE of Shizunai-furukawachō, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1im) | 4.4 | 01-02-2023 05:20:35 |
+| [25 km ENE of San Martín, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1li) | 4.4 | 01-02-2023 11:24:09 |
+| [73 km SSE of Nikolski, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1hy) | 4.3 | 01-02-2023 00:50:12 |
