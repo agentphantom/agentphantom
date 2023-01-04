@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [central Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1w3) | 5.6 | 01-03-2023 18:19:25 |
-| [Balleny Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1u9) | 5.6 | 01-03-2023 14:53:33 |
-| [Balleny Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1tt) | 5.5 | 01-03-2023 13:09:08 |
+| [central Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1w3) | 5.5 | 01-03-2023 18:19:25 |
 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1zj) | 5.4 | 01-04-2023 02:07:59 |
 | [Gilbert Islands, Kiribati region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1zi) | 5.4 | 01-04-2023 02:02:10 |
+| [near the north coast of Papua, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j22n) | 5.3 | 01-04-2023 12:16:59 |
 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1xn) | 5.3 | 01-03-2023 21:52:09 |
-| [22 km ENE of Jayapura, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1tl) | 5.1 | 01-03-2023 12:55:32 |
 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1yq) | 5 | 01-03-2023 23:58:42 |
-| [North Island of New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1vk) | 5 | 01-03-2023 16:39:23 |
-| [6 km NNE of Jayapura, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1vz) | 5 | 01-03-2023 17:55:44 |
 | [11 km NNE of Jayapura, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1zc) | 4.9 | 01-04-2023 01:39:42 |
 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1zl) | 4.7 | 01-04-2023 02:25:04 |
 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1y8) | 4.6 | 01-03-2023 22:30:32 |
 | [Kepulauan Mentawai region, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1zs) | 4.6 | 01-04-2023 03:22:06 |
-| [92 km SSW of Acajutla, El Salvador](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1tw) | 4.6 | 01-03-2023 13:55:56 |
-| [146 km WNW of Nabire, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1um) | 4.6 | 01-03-2023 15:46:16 |
-| [146 km WNW of Nabire, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1ug) | 4.6 | 01-03-2023 15:31:33 |
-| [San Juan, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1tg) | 4.5 | 01-03-2023 12:26:10 |
 | [Near Islands, Aleutian Islands, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j21j) | 4.5 | 01-04-2023 11:06:22 |
 | [140 km W of Castelo Branco, Portugal](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1wq) | 4.5 | 01-03-2023 20:20:31 |
+| [97 km SE of Atlasovo, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1yk) | 4.4 | 01-03-2023 23:10:37 |
+| [244 km NNW of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j23n) | 4.4 | 01-04-2023 17:03:38 |
+| [232 km NNW of Nurota, Uzbekistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1yn) | 4.4 | 01-03-2023 23:31:50 |
+| [Dominican Republic region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j23e) | 4.3 | 01-04-2023 16:44:21 |
+| [67 km S of Calama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j22x) | 4.3 | 01-04-2023 15:29:37 |
+| [southern Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1xi) | 4.2 | 01-03-2023 21:42:32 |
+| [54 km S of Koróni, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1wx) | 4.1 | 01-03-2023 20:49:03 |
+| [47 km SW of Andalgalá, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000j1z9) | 4 | 01-04-2023 01:27:34 |
