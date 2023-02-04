@@ -4,18 +4,18 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
+| [37 km ESE of Kainantu, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlds) | 5.7 | 02-04-2023 12:22:36 |
 | [Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlc7) | 5.2 | 02-04-2023 05:09:36 |
-| [38 km E of Luganville, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jl7u) | 5.1 | 02-03-2023 17:54:29 |
 | [12 km NNE of Turangi, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jl9z) | 5 | 02-03-2023 23:14:20 |
-| [164 km NW of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jl7m) | 4.9 | 02-03-2023 17:23:40 |
 | [106 km SSW of Żurrieq, Malta](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlch) | 4.9 | 02-04-2023 06:04:14 |
 | [6 km NNE of Abepura, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlbq) | 4.8 | 02-04-2023 02:48:46 |
+| [64 km NE of Khandūd, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jldt) | 4.7 | 02-04-2023 12:23:26 |
 | [19 km SW of Sarpol-e Z̄ahāb, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlbp) | 4.7 | 02-04-2023 02:45:46 |
+| [145 km SW of Jiquilillo, Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jle9) | 4.7 | 02-04-2023 12:48:41 |
 | [71 km NNW of Kandrian, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlap) | 4.6 | 02-03-2023 23:58:12 |
 | [34 km WNW of Mendoza, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlb9) | 4.5 | 02-04-2023 02:00:03 |
 | [103 km WSW of Pimentel, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlbd) | 4.5 | 02-04-2023 01:46:35 |
 | [46 km ESE of Angoram, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jldk) | 4.4 | 02-04-2023 11:43:35 |
-| [7 km WSW of Methóni, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jl5y) | 4.3 | 02-03-2023 12:44:15 |
 | [52 km SSW of Jiquilillo, Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlc8) | 4.3 | 02-04-2023 05:30:38 |
 | [50 km S of Jurm, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jl9j) | 4.3 | 02-03-2023 21:22:52 |
 | [30 km NE of Shwebo, Myanmar](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlcr) | 4.3 | 02-04-2023 07:34:41 |
