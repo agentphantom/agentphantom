@@ -13,14 +13,14 @@
 | [23 km NE of Musabeyli, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlnn) | 5.6 | 02-06-2023 01:26:49 |
 | [16 km S of Nurdağı, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlm9) | 5.6 | 02-06-2023 01:36:28 |
 | [2 km S of Tut, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlmh) | 5.5 | 02-06-2023 02:03:36 |
+| [12 km NE of Gölbaşı, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlsq) | 5.3 | 02-06-2023 15:14:34 |
 | [21 km E of Nurdağı, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlmn) | 5.2 | 02-06-2023 02:23:14 |
 | [20 km ESE of Göksun, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlqr) | 5.2 | 02-06-2023 11:05:35 |
+| [15 km NNW of Çelikhan, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlsu) | 5.2 | 02-06-2023 15:33:32 |
 | [Kermadec Islands, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlmq) | 5.1 | 02-06-2023 02:22:27 |
 | [6 km ESE of Hasanbeyli, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlmf) | 5.1 | 02-06-2023 01:58:23 |
+| [3 km ENE of Kahramanmaraş, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jls3) | 5.1 | 02-06-2023 13:39:11 |
 | [eastern Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlnf) | 5 | 02-06-2023 04:18:46 |
+| [7 km SE of Nurhak, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jls6) | 5 | 02-06-2023 13:44:51 |
 | [6 km W of Pazarcık, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlqy) | 5 | 02-06-2023 11:01:34 |
-| [96 km NNW of Pototano, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlpc) | 4.9 | 02-06-2023 07:11:34 |
-| [8 km N of Çağlayancerit, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlqx) | 4.9 | 02-06-2023 11:11:41 |
-| [7 km SW of Pazarcık, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlpv) | 4.8 | 02-06-2023 08:52:37 |
-| [23 km SW of Pazarcık, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlmy) | 4.8 | 02-06-2023 02:01:45 |
-| [18 km N of Sincik, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jln9) | 4.8 | 02-06-2023 03:45:48 |
+| [6 km SSW of Göksun, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlta) | 5 | 02-06-2023 16:43:29 |
