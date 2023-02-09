@@ -14,13 +14,13 @@
 | [66 km S of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jmgd) | 4.8 | 02-08-2023 10:49:59 |
 | [44 km WNW of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jmgi) | 4.8 | 02-08-2023 11:28:49 |
 | [27 km W of Konde, Tanzania](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jmiw) | 4.7 | 02-08-2023 15:32:40 |
-| [near the coast of Oaxaca, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jmen) | 4.6 | 02-08-2023 02:24:16 |
-| [Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jmff) | 4.6 | 02-08-2023 04:52:02 |
 | [267 km S of Burica, Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jmfr) | 4.6 | 02-08-2023 06:26:36 |
-| [16 km E of Göksun, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jmfk) | 4.6 | 02-08-2023 05:52:37 |
 | [14 km ESE of Nurhak, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jmgg) | 4.6 | 02-08-2023 11:24:01 |
 | [near the north coast of Papua, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jmjh) | 4.5 | 02-08-2023 17:48:10 |
 | [eastern Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jmjj) | 4.5 | 02-08-2023 17:57:23 |
 | [19 km NNE of Musabeyli, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jmg9) | 4.5 | 02-08-2023 10:26:23 |
 | [13 km SW of Yeşilyurt, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jmkh) | 4.5 | 02-08-2023 20:12:06 |
-| [Turkey-Syria border region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jmfn) | 4.4 | 02-08-2023 06:09:01 |
+| [eastern Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jmm7) | 4.4 | 02-09-2023 01:38:14 |
+| [8 km NNE of Gölbaşı, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jmma) | 4.4 | 02-09-2023 01:44:19 |
+| [41 km SSW of Nemuro, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jmfs) | 4.4 | 02-08-2023 06:39:01 |
+| [4 km W of Doğanşehir, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jmge) | 4.3 | 02-08-2023 11:00:20 |
