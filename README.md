@@ -15,12 +15,12 @@
 | [Nias region, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jq7k) | 4.9 | 02-20-2023 01:33:29 |
 | [Mid-Indian Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jq5z) | 4.9 | 02-19-2023 20:16:29 |
 | [159 km NW of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jq6k) | 4.9 | 02-19-2023 23:12:21 |
-| [35 km SSW of Jiquilillo, Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jq2k) | 4.8 | 02-19-2023 07:54:32 |
-| [Mid-Indian Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jq40) | 4.7 | 02-19-2023 12:21:05 |
 | [5 km S of Palu, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jq73) | 4.7 | 02-20-2023 00:37:30 |
 | [158 km NW of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jq6y) | 4.7 | 02-20-2023 00:01:18 |
-| [eastern Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jq3c) | 4.6 | 02-19-2023 12:04:33 |
-| [Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jq2b) | 4.6 | 02-19-2023 07:11:39 |
+| [227 km NNW of Manado, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jq9p) | 4.6 | 02-20-2023 09:47:26 |
 | [137 km NNE of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jq6e) | 4.6 | 02-19-2023 22:09:12 |
 | [98 km W of Kirakira, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jq49) | 4.5 | 02-19-2023 14:21:37 |
-| [8 km NNW of Ccolo, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jq2z) | 4.5 | 02-19-2023 10:05:29 |
+| [59 km WNW of Leni, Italy](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jq7g) | 4.5 | 02-20-2023 01:11:16 |
+| [5 km E of Palu, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jq74) | 4.5 | 02-20-2023 00:39:03 |
+| [3 km ESE of San Juan, Costa Rica](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jq6i) | 4.5 | 02-19-2023 22:56:53 |
+| [129 km NNW of Neiafu, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jq6p) | 4.5 | 02-19-2023 23:21:18 |
