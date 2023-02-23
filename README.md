@@ -5,22 +5,22 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [67 km W of Murghob, Tajikistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqxc) | 6.8 | 02-23-2023 00:37:40 |
-| [Kepulauan Babar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqrr) | 5.6 | 02-22-2023 09:34:04 |
+| [Off the coast of Valparaiso, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqzy) | 5.5 | 02-23-2023 10:23:38 |
 | [86 km W of Murghob, Tajikistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqxg) | 5 | 02-23-2023 00:55:14 |
 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqyg) | 4.9 | 02-23-2023 03:36:09 |
 | [60 km W of Murghob, Tajikistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqxr) | 4.9 | 02-23-2023 01:35:57 |
-| [southern Xinjiang, China](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqsi) | 4.8 | 02-22-2023 10:25:52 |
-| [Nepal](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqqz) | 4.8 | 02-22-2023 08:00:23 |
-| [64 km W of Murghob, Tajikistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqxx) | 4.8 | 02-23-2023 02:07:46 |
-| [259 km WNW of Haveluloto, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqr1) | 4.8 | 02-22-2023 08:04:14 |
-| [Irkutskaya Oblast', Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqx2) | 4.7 | 02-22-2023 23:06:22 |
+| [Tajikistan-Xinjiang border region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqxx) | 4.8 | 02-23-2023 02:07:46 |
 | [77 km WNW of Murghob, Tajikistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqxy) | 4.7 | 02-23-2023 02:18:00 |
-| [88 km SW of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqsz) | 4.6 | 02-22-2023 12:01:40 |
+| [65 km W of Murghob, Tajikistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqzk) | 4.7 | 02-23-2023 08:01:02 |
+| [22 km SW of Quiches, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqzb) | 4.7 | 02-23-2023 06:18:13 |
+| [122 km WSW of Ikey, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqx2) | 4.7 | 02-22-2023 23:06:22 |
 | [6 km WNW of Liloan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqwn) | 4.6 | 02-22-2023 22:05:53 |
 | [103 km W of Murghob, Tajikistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqxl) | 4.6 | 02-23-2023 01:06:05 |
-| [8 km NW of Hani, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqqq) | 4.4 | 02-22-2023 07:09:44 |
-| [52 km WNW of Ovalle, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqyb) | 4.4 | 02-23-2023 03:18:57 |
+| [northern East Pacific Rise](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqzl) | 4.5 | 02-23-2023 08:27:11 |
+| [Tajikistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqze) | 4.5 | 02-23-2023 06:50:49 |
+| [offshore Coquimbo, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqyb) | 4.4 | 02-23-2023 03:18:57 |
 | [17 km E of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqwd) | 4.4 | 02-22-2023 21:18:44 |
 | [79 km WSW of Constitución, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqvf) | 4.3 | 02-22-2023 18:18:25 |
-| [western Texas](https://earthquake.usgs.gov/earthquakes/eventpage/tx2023drpm) | 4.2 | 02-22-2023 07:44:10 |
-| [7 km W of Doğanşehir, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqqy) | 4.1 | 02-22-2023 07:56:55 |
+| [83 km W of Coquimbo, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqup) | 4 | 02-22-2023 15:51:39 |
+| [78 km WNW of Cauquenes, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqv1) | 4 | 02-22-2023 17:47:55 |
+| [Mona Passage, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023053000) | 3.76 | 02-22-2023 15:18:06 |
