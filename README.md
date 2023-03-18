@@ -5,16 +5,16 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [North Island of New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkvz) | 5.3 | 03-17-2023 15:46:01 |
-| [114 km WSW of Qamdo, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000jktb) | 5.1 | 03-17-2023 10:39:39 |
 | [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl0m) | 5 | 03-18-2023 03:44:10 |
 | [96 km ESE of Pondaguitan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkwd) | 5 | 03-17-2023 16:11:39 |
-| [160 km SSW of Srandakan, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000jktt) | 5 | 03-17-2023 12:05:25 |
 | [Luzon, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku9) | 4.9 | 03-17-2023 13:56:04 |
 | [Hindu Kush region, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzj) | 4.9 | 03-18-2023 00:00:54 |
-| [63 km NW of Finschhafen, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000jktc) | 4.9 | 03-17-2023 10:47:51 |
 | [22 km W of Davila, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku5) | 4.9 | 03-17-2023 13:23:29 |
+| [84 km S of Panguna, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl26) | 4.8 | 03-18-2023 10:05:20 |
 | [7 km WNW of Kawerau, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkus) | 4.8 | 03-17-2023 15:31:07 |
 | [North Island of New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkyc) | 4.7 | 03-17-2023 19:58:06 |
+| [Halmahera, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1j) | 4.7 | 03-18-2023 07:14:40 |
+| [57 km N of Colchani, Bolivia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1c) | 4.7 | 03-18-2023 06:50:07 |
 | [138 km E of Murghob, Tajikistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkxk) | 4.7 | 03-17-2023 18:19:10 |
 | [13 km E of Mangili, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000jky8) | 4.7 | 03-17-2023 19:37:59 |
 | [103 km ENE of Tadine, New Caledonia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl02) | 4.7 | 03-18-2023 01:14:03 |
