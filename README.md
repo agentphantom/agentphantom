@@ -4,13 +4,14 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [New Guinea, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/pt23092000) | 7.3 | 04-02-2023 18:04:12 |
+| [New Guinea, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1id) | 7 | 04-02-2023 18:04:10 |
+| [South China Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ki) | 5.5 | 04-02-2023 19:32:24 |
 | [Flores Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1gl) | 5.5 | 04-02-2023 08:40:54 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1fb) | 4.9 | 04-02-2023 02:16:31 |
+| [Simeulue, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1k9) | 4.9 | 04-02-2023 18:53:07 |
 | [Vancouver Island, Canada region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1f5) | 4.6 | 04-02-2023 01:08:33 |
 | [San Juan, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1f8) | 4.6 | 04-02-2023 01:37:47 |
 | [Salta, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1hi) | 4.6 | 04-02-2023 13:17:50 |
-| [100 km SW of Zhaotong, China](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1eq) | 4.6 | 04-01-2023 21:54:52 |
 | [Ecuador](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1hb) | 4.5 | 04-02-2023 12:32:42 |
 | [Ceram Sea, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1h3) | 4.5 | 04-02-2023 11:06:47 |
 | [Bougainville region, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1fe) | 4.5 | 04-02-2023 02:49:32 |
@@ -20,7 +21,6 @@
 | [Kepulauan Tanimbar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1hn) | 4.4 | 04-02-2023 14:01:48 |
 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1g4) | 4.4 | 04-02-2023 05:57:21 |
 | [off the coast of Costa Rica](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1he) | 4.3 | 04-02-2023 13:00:47 |
-| [near the coast of Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1dy) | 4.3 | 04-01-2023 19:03:00 |
+| [New Guinea, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1lt) | 4.3 | 04-02-2023 23:13:05 |
 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1gv) | 4.3 | 04-02-2023 09:24:53 |
-| [off the coast of Oregon](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1et) | 4.2 | 04-01-2023 22:53:38 |
-| [central Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ek) | 4.2 | 04-01-2023 21:24:39 |
+| [Revilla Gigedo Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1fi) | 4 | 04-02-2023 03:09:58 |
