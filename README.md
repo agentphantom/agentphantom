@@ -7,6 +7,7 @@
 | [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kd0n) | 7.7 | 05-19-2023 02:57:06 |
 | [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kd1f) | 5.9 | 05-19-2023 03:06:24 |
 | [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kd2a) | 5.7 | 05-19-2023 03:10:44 |
+| [159 km NNW of Qandala, Somalia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kd6s) | 5.7 | 05-19-2023 15:15:03 |
 | [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kd2w) | 5.5 | 05-19-2023 07:13:39 |
 | [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kd1z) | 5.5 | 05-19-2023 04:54:04 |
 | [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kd1p) | 5.4 | 05-19-2023 04:09:23 |
@@ -23,4 +24,3 @@
 | [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kd4f) | 5.1 | 05-19-2023 10:44:12 |
 | [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kd2j) | 5.1 | 05-19-2023 06:08:21 |
 | [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kd23) | 5.1 | 05-19-2023 04:33:07 |
-| [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kd1x) | 5.1 | 05-19-2023 04:50:14 |
