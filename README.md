@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [117 km SSE of Lata, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5md) | 5.4 | 06-01-2023 22:52:45 |
 | [Guam region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5p3) | 5.2 | 06-02-2023 05:25:36 |
+| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5u2) | 5.1 | 06-02-2023 15:42:39 |
+| [197 km SSW of Houma, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5ux) | 5.1 | 06-02-2023 17:39:19 |
 | [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5nz) | 5 | 06-02-2023 04:31:31 |
+| [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5u3) | 4.9 | 06-02-2023 15:53:55 |
 | [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5qy) | 4.9 | 06-02-2023 11:46:32 |
+| [23 km WNW of Andalgalá, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5yb) | 4.9 | 06-03-2023 00:11:48 |
+| [77 km SSW of Port-Vila, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5sd) | 4.8 | 06-02-2023 13:53:31 |
+| [37 km SW of Bandar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5si) | 4.8 | 06-02-2023 14:16:31 |
 | [176 km S of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5qj) | 4.8 | 06-02-2023 10:26:55 |
-| [Pagan region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5mc) | 4.6 | 06-01-2023 22:51:26 |
-| [169 km S of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5iz) | 4.6 | 06-01-2023 15:27:27 |
-| [61 km ESE of Sarangani, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5ly) | 4.5 | 06-01-2023 21:38:56 |
-| [Kepulauan Babar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5mt) | 4.4 | 06-01-2023 23:33:42 |
-| [95 km W of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5n4) | 4.3 | 06-01-2023 23:47:58 |
-| [69 km W of Aykol, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5j5) | 4.3 | 06-01-2023 16:00:14 |
-| [Revilla Gigedo Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5j7) | 4 | 06-01-2023 16:00:50 |
-| [7 km S of Cold Springs, Nevada](https://earthquake.usgs.gov/earthquakes/eventpage/nn00860639) | 4 | 06-02-2023 00:23:05 |
-| [Puerto Rico region](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023153001) | 3.91 | 06-02-2023 08:45:07 |
-| [Wyoming](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5pl) | 3.9 | 06-02-2023 08:14:47 |
-| [143 km N of Suárez, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023153000) | 3.81 | 06-02-2023 05:43:38 |
-| [6 km NW of El Moro, Colorado](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5k7) | 3.4 | 06-01-2023 18:55:44 |
-| [Puerto Rico region](https://earthquake.usgs.gov/earthquakes/eventpage/pr71411998) | 3.39 | 06-02-2023 00:06:00 |
-| [62 km N of Charlotte Amalie, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr71412048) | 3.27 | 06-02-2023 07:52:11 |
-| [6 km S of Cold Springs, Nevada](https://earthquake.usgs.gov/earthquakes/eventpage/nn00860645) | 3.1 | 06-02-2023 00:28:07 |
+| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5xj) | 4.6 | 06-02-2023 22:08:22 |
+| [9 km NNW of Bato Bato, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5uy) | 4.6 | 06-02-2023 17:40:06 |
+| [63 km S of Sarangani, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5x7) | 4.6 | 06-02-2023 21:40:14 |
+| [237 km E of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5ub) | 4.6 | 06-02-2023 16:00:54 |
+| [103 km NNW of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5vc) | 4.6 | 06-02-2023 18:58:50 |
+| [236 km NNE of Lospalos, Timor Leste](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5xa) | 4.5 | 06-02-2023 21:57:15 |
+| [off the coast of Central America](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5nw) | 4.4 | 06-02-2023 04:30:40 |
+| [Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5tz) | 4.4 | 06-02-2023 15:13:24 |
+| [11 km S of Gorontalo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5uv) | 4.4 | 06-02-2023 17:33:10 |
+| [near the coast of Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k5tx) | 4.3 | 06-02-2023 15:13:22 |
