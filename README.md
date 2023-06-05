@@ -6,21 +6,21 @@
 |:---|:---|:---|
 | [Balleny Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6bx) | 5.8 | 06-05-2023 02:45:58 |
 | [west of Macquarie Island](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6bc) | 5.3 | 06-05-2023 00:37:53 |
+| [151 km SSW of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6fw) | 5.2 | 06-05-2023 15:41:40 |
 | [Ryukyu Islands, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6at) | 5 | 06-04-2023 22:10:32 |
 | [18 km NW of Lluta, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6du) | 5 | 06-05-2023 11:55:30 |
-| [65 km ENE of Bitung, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k69i) | 4.9 | 06-04-2023 14:55:27 |
+| [156 km S of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6fx) | 4.8 | 06-05-2023 15:49:08 |
 | [Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6df) | 4.7 | 06-05-2023 09:41:35 |
+| [97 km SW of Tambolaka, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6eg) | 4.7 | 06-05-2023 13:08:48 |
 | [Andaman Islands, India region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6bt) | 4.6 | 06-05-2023 02:09:45 |
+| [8 km SE of Göksun, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6ge) | 4.6 | 06-05-2023 16:40:47 |
 | [169 km N of Las Khorey, Somalia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6bp) | 4.6 | 06-05-2023 01:43:55 |
-| [off the east coast of Honshu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k69f) | 4.5 | 06-04-2023 13:59:13 |
+| [13 km NNW of Upahuacho, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6e9) | 4.6 | 06-05-2023 12:43:17 |
 | [Molucca Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6dz) | 4.5 | 06-05-2023 12:04:11 |
-| [Guam region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6bk) | 4.5 | 06-05-2023 01:12:27 |
-| [79 km E of Onagawa Chō, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6bw) | 4.4 | 06-05-2023 02:35:06 |
+| [12 km N of Yigo Village, Guam](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6bk) | 4.5 | 06-05-2023 01:12:27 |
+| [near the east coast of Honshu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6bw) | 4.4 | 06-05-2023 02:35:06 |
 | [222 km SSW of Dunhuang, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6al) | 4.4 | 06-04-2023 20:39:08 |
-| [106 km SSW of Singaparna, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k69c) | 4.4 | 06-04-2023 13:48:41 |
+| [10 km ENE of Huambo, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6ek) | 4.3 | 06-05-2023 13:25:13 |
 | [72 km WSW of Duncan Town, Bahamas](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6d4) | 4.2 | 06-05-2023 07:20:38 |
-| [Tarapaca, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6a1) | 4.1 | 06-04-2023 18:09:02 |
+| [21 km SSW of Tacna, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6gk) | 4.2 | 06-05-2023 16:54:48 |
 | [Haiti region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6ag) | 4.1 | 06-04-2023 20:06:28 |
-| [140 km N of Suárez, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023155001) | 3.76 | 06-04-2023 23:16:09 |
-| [132 km N of Suárez, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023156000) | 3.75 | 06-05-2023 09:44:44 |
-| [Puerto Rico region](https://earthquake.usgs.gov/earthquakes/eventpage/pr71412303) | 3.44 | 06-04-2023 12:48:13 |
