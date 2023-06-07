@@ -8,8 +8,7 @@
 | [280 km E of Vao, New Caledonia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6qq) | 5.2 | 06-06-2023 21:48:03 |
 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6rl) | 5.1 | 06-07-2023 00:00:25 |
 | [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/usd000jtzp) | 4.9 | 06-06-2023 21:43:48 |
-| [9 km NE of Les Abricots, Haiti](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6lb) | 4.9 | 06-06-2023 09:11:23 |
-| [67 km SW of Banjar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6kz) | 4.8 | 06-06-2023 07:23:06 |
+| [near the south coast of Myanmar](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6tu) | 4.8 | 06-07-2023 09:53:50 |
 | [Molucca Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6m9) | 4.7 | 06-06-2023 14:17:39 |
 | [4 km SSE of Fântânele, Romania](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6nx) | 4.7 | 06-06-2023 17:26:51 |
 | [142 km ENE of Hasaki, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6nh) | 4.7 | 06-06-2023 16:10:33 |
@@ -19,6 +18,7 @@
 | [77 km NNW of Neiafu, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6m2) | 4.5 | 06-06-2023 13:16:23 |
 | [17 km SSE of Uñon, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6p0) | 4.5 | 06-06-2023 17:53:21 |
 | [108 km ESE of Takahagi, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6nv) | 4.5 | 06-06-2023 17:08:03 |
+| [Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6tq) | 4.4 | 06-07-2023 09:49:42 |
 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6qt) | 4.4 | 06-06-2023 21:50:12 |
 | [119 km NW of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6ni) | 4.4 | 06-06-2023 16:23:44 |
 | [116 km SSW of Severo-Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k6nk) | 4.4 | 06-06-2023 16:25:56 |
