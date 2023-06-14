@@ -18,9 +18,9 @@
 | [12 km WNW of Cabra, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k85s) | 4.9 | 06-13-2023 12:57:48 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k8a1) | 4.8 | 06-13-2023 23:15:59 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k89j) | 4.8 | 06-13-2023 21:43:53 |
+| [40 km W of Aitape, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k8cd) | 4.8 | 06-14-2023 05:10:38 |
 | [70 km NE of Aksu, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k88z) | 4.7 | 06-13-2023 20:17:56 |
 | [Volcano Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k853) | 4.6 | 06-13-2023 07:45:57 |
 | [22 km ENE of Bhadarwāh, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k89b) | 4.6 | 06-13-2023 20:50:56 |
 | [118 km S of Puerto San José, Guatemala](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k857) | 4.6 | 06-13-2023 09:31:53 |
 | [Catamarca, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k84u) | 4.5 | 06-13-2023 07:35:18 |
-| [79 km SSW of Puerto El Triunfo, El Salvador](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k84v) | 4.5 | 06-13-2023 07:36:14 |
