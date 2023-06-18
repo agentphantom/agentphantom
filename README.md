@@ -4,14 +4,14 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [237 km SSW of ‘Ohonua, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k96l) | 6 | 06-17-2023 11:26:21 |
-| [northwest of the Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k96n) | 5.7 | 06-17-2023 11:36:00 |
 | [Samoa Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k98q) | 5.7 | 06-17-2023 18:44:57 |
-| [65 km N of Namuac, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k96f) | 5.5 | 06-17-2023 10:15:21 |
-| [Tonga region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k99n) | 5.4 | 06-17-2023 23:16:23 |
+| [290 km SSW of ‘Ohonua, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k99n) | 5.4 | 06-17-2023 23:16:23 |
+| [40 km ENE of Luganville, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k9ce) | 5.3 | 06-18-2023 09:59:29 |
 | [277 km S of ‘Ohonua, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k99p) | 5.3 | 06-17-2023 23:14:02 |
-| [Hokkaido, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k96r) | 5 | 06-17-2023 11:42:40 |
+| [59 km N of Karluk, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0237rn9mb0) | 5 | 06-18-2023 09:14:31 |
+| [36 km NE of Archidona, Ecuador](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k9bu) | 5 | 06-18-2023 09:10:28 |
 | [278 km SSW of ‘Ohonua, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k98h) | 4.9 | 06-17-2023 17:20:22 |
+| [south of the Kermadec Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k9be) | 4.8 | 06-18-2023 06:56:16 |
 | [19 km E of Teno, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k99e) | 4.8 | 06-17-2023 22:31:37 |
 | [82 km WNW of Talara, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k984) | 4.7 | 06-17-2023 16:17:48 |
 | [Molucca Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000k99m) | 4.6 | 06-17-2023 23:11:28 |
