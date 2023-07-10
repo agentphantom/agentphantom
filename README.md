@@ -15,12 +15,12 @@
 | [Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kr53) | 4.8 | 07-09-2023 15:25:41 |
 | [Volcano Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kr6t) | 4.7 | 07-09-2023 19:32:31 |
 | [12 km ESE of Kishtwār, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kr8m) | 4.7 | 07-10-2023 00:08:53 |
-| [Taiwan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kr2m) | 4.6 | 07-09-2023 07:52:54 |
-| [97 km E of Hengchun, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kr2t) | 4.6 | 07-09-2023 08:16:36 |
+| [Volcano Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kra8) | 4.6 | 07-10-2023 08:14:22 |
 | [2 km N of Narutō, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kr76) | 4.6 | 07-09-2023 19:52:22 |
 | [10 km NW of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kr7w) | 4.6 | 07-09-2023 22:11:33 |
+| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000krau) | 4.4 | 07-10-2023 11:41:06 |
 | [93 km WSW of Masachapa, Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kr58) | 4.4 | 07-09-2023 16:19:30 |
-| [27 km SE of Shinmachi, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kr3e) | 4.4 | 07-09-2023 11:44:02 |
-| [220 km W of Gorontalo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kr34) | 4.2 | 07-09-2023 09:44:16 |
+| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000krae) | 4.3 | 07-10-2023 08:45:19 |
 | [21 km ESE of Murindó, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kr6p) | 4.2 | 07-09-2023 19:23:09 |
 | [Hindu Kush region, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kr67) | 4.1 | 07-09-2023 18:40:06 |
+| [153 km NNE of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023190001) | 3.92 | 07-09-2023 21:03:03 |
