@@ -5,22 +5,22 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [Pulau-Pulau Sula, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh0v) | 5.1 | 07-20-2023 03:31:33 |
-| [Rat Islands, Aleutian Islands, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kgzy) | 5 | 07-19-2023 23:56:06 |
 | [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh0t) | 5 | 07-20-2023 03:24:48 |
-| [157 km NNE of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kgzn) | 5 | 07-19-2023 23:08:06 |
+| [Kepulauan Sula, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh75) | 4.9 | 07-20-2023 18:30:20 |
+| [80 km NE of Sanana, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000khaz) | 4.9 | 07-21-2023 00:33:27 |
 | [138 km SSW of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh1j) | 4.9 | 07-20-2023 07:03:32 |
-| [130 km WNW of Neiafu, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kgzi) | 4.9 | 07-19-2023 22:38:29 |
 | [Mariana Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh0n) | 4.7 | 07-20-2023 02:44:28 |
 | [89 km NNE of Sanana, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh32) | 4.7 | 07-20-2023 09:15:58 |
 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh2y) | 4.6 | 07-20-2023 08:57:08 |
+| [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh6q) | 4.6 | 07-20-2023 18:10:17 |
+| [113 km W of Ternate, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh5t) | 4.6 | 07-20-2023 15:19:06 |
+| [north of Svalbard](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh92) | 4.4 | 07-20-2023 22:33:21 |
 | [near the east coast of Honshu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh0y) | 4.4 | 07-20-2023 04:08:12 |
-| [Chile-Bolivia border region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh0a) | 4.3 | 07-20-2023 00:49:53 |
+| [116 km NE of San Pedro de Atacama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh0x) | 4.3 | 07-20-2023 03:57:51 |
+| [11 km ESE of Jaipur, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh99) | 4.3 | 07-20-2023 22:39:45 |
+| [Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh8f) | 4.2 | 07-20-2023 21:41:09 |
+| [Chile-Bolivia border region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh6a) | 4.2 | 07-20-2023 17:19:54 |
+| [southern Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us7000khb0) | 4.1 | 07-21-2023 00:38:56 |
 | [Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023201000) | 4.05 | 07-20-2023 06:56:22 |
+| [19 km WSW of Gonbad-e Kāvūs, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh0s) | 4 | 07-20-2023 03:05:54 |
 | [168 km NNE of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023201001) | 3.84 | 07-20-2023 07:39:49 |
-| [136 km N of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023201002) | 3.73 | 07-20-2023 08:33:40 |
-| [75 km WSW of Atka, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak023972yyto) | 3.7 | 07-19-2023 19:32:27 |
-| [Central Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak023972vvz7) | 3.4 | 07-19-2023 19:15:12 |
-| [91 km SSW of Sand Point, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kh10) | 3.4 | 07-20-2023 04:42:37 |
-| [61 km NW of San Antonio, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71418603) | 3.37 | 07-20-2023 13:13:48 |
-| [48 km WSW of Stella, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71418498) | 3.23 | 07-20-2023 01:32:42 |
-| [47 km WSW of Stella, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71418513) | 3.21 | 07-20-2023 01:54:42 |
