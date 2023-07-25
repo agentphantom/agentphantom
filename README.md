@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000khw8) | 6 | 07-24-2023 02:49:57 |
-| [49 km W of Pante Makasar, Timor Leste](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ki3q) | 5.5 | 07-25-2023 00:25:11 |
-| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000khx0) | 5 | 07-24-2023 05:02:47 |
-| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000khwz) | 5 | 07-24-2023 05:01:40 |
+| [Timor region, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ki3q) | 5.5 | 07-25-2023 00:25:10 |
+| [Central Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ki5u) | 5.5 | 07-25-2023 05:44:50 |
+| [296 km SSW of Severo-Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ki52) | 5.1 | 07-25-2023 01:36:43 |
 | [29 km ENE of Machalí, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000khxt) | 4.9 | 07-24-2023 08:24:06 |
-| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000khx3) | 4.7 | 07-24-2023 02:56:28 |
+| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ki5p) | 4.8 | 07-25-2023 05:11:28 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000khyv) | 4.5 | 07-24-2023 13:02:18 |
 | [56 km S of Sand Point, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000khyj) | 4.5 | 07-24-2023 12:04:19 |
-| [near the east coast of Honshu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000khxb) | 4.4 | 07-24-2023 06:37:00 |
-| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ki0m) | 4.4 | 07-24-2023 17:26:35 |
 | [84 km E of Falam, Myanmar](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ki2c) | 4.4 | 07-24-2023 20:14:30 |
-| [4 km W of Moriya, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000khwm) | 4.4 | 07-24-2023 04:02:07 |
-| [253 km SSE of Tateyama, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000khvz) | 4.4 | 07-24-2023 01:16:55 |
-| [San Juan, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ki34) | 4.3 | 07-24-2023 22:08:44 |
-| [55 km SSW of Chirilagua, El Salvador](https://earthquake.usgs.gov/earthquakes/eventpage/us7000khwt) | 4.2 | 07-24-2023 04:41:37 |
+| [19 km SE of Onagawa Chō, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000khxb) | 4.4 | 07-24-2023 06:37:00 |
+| [102 km SSW of Maitum, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ki0m) | 4.4 | 07-24-2023 17:26:35 |
+| [65 km SW of Villa Basilio Nievas, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ki34) | 4.3 | 07-24-2023 22:08:44 |
 | [56 km S of Intipucá, El Salvador](https://earthquake.usgs.gov/earthquakes/eventpage/us7000khxg) | 4.1 | 07-24-2023 06:53:37 |
-| [117 km NNE of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023205000) | 3.88 | 07-24-2023 04:55:11 |
-| [Puerto Rico region](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023205001) | 3.73 | 07-24-2023 12:40:41 |
+| [134 km N of San Juan, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023205001) | 3.73 | 07-24-2023 12:40:41 |
+| [Fox Islands, Aleutian Islands, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ki4g) | 3.7 | 07-25-2023 00:18:33 |
 | [83 km SSW of Sand Point, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ki11) | 3.7 | 07-24-2023 18:44:07 |
-| [77 km SW of Nikolski, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0239gotfgl) | 3.6 | 07-25-2023 00:18:33 |
+| [Mona Passage, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71419128) | 3.27 | 07-24-2023 08:32:08 |
+| [12km WSW of Delta, B.C., MX](https://earthquake.usgs.gov/earthquakes/eventpage/ci39620202) | 3.02 | 07-24-2023 07:31:02 |
+| [56 km E of Chenega, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0239f7yabe) | 3 | 07-24-2023 11:39:05 |
+| [9 km WSW of Rio Dell, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73916121) | 2.91 | 07-24-2023 10:47:11 |
+| [278 km WNW of Bandon, Oregon](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ki35) | 2.8 | 07-24-2023 22:24:53 |
