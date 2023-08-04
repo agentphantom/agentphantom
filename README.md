@@ -5,22 +5,22 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [266 km S of Burica, Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxfl) | 5.9 | 08-03-2023 01:25:21 |
+| [82 km SSW of Sand Point, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxme) | 5.6 | 08-03-2023 19:33:51 |
+| [Java, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxp7) | 5.5 | 08-04-2023 00:31:44 |
+| [southeast of Easter Island](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxpn) | 5.2 | 08-04-2023 00:44:48 |
+| [7 km ESE of Palmira, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxnn) | 5.1 | 08-03-2023 22:09:36 |
+| [south of the Kermadec Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxn3) | 4.9 | 08-03-2023 20:26:44 |
 | [Kermadec Islands, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxjb) | 4.9 | 08-03-2023 14:08:11 |
 | [292 km SSE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxif) | 4.9 | 08-03-2023 11:39:04 |
+| [219 km ENE of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxmt) | 4.8 | 08-03-2023 20:31:23 |
 | [53 km S of Palekastro, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxfq) | 4.7 | 08-03-2023 02:18:48 |
 | [36 km N of Adi Keyh, Eritrea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxhj) | 4.6 | 08-03-2023 10:11:12 |
+| [167 km ESE of Saipan, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxl7) | 4.6 | 08-03-2023 15:45:13 |
 | [150 km NW of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxi9) | 4.6 | 08-03-2023 08:19:24 |
 | [66 km W of Illapel, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxh9) | 4.5 | 08-03-2023 09:07:15 |
-| [15 km W of Bashanet, Tanzania](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxea) | 4.5 | 08-02-2023 22:00:08 |
-| [38 km S of Massawa, Eritrea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxe0) | 4.4 | 08-02-2023 20:33:13 |
+| [228 km NNE of Palu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxlu) | 4.5 | 08-03-2023 18:05:53 |
+| [14 km SE of Adi Keyh, Eritrea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxnz) | 4.4 | 08-03-2023 23:15:36 |
 | [124 km N of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxgh) | 4.4 | 08-03-2023 05:39:20 |
 | [7 km N of Lae, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxji) | 4.3 | 08-03-2023 14:39:20 |
-| [141 km E of Yuzhno-Sakhalinsk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxe5) | 4.3 | 08-02-2023 21:06:24 |
 | [29 km SSW of Pasaco, Guatemala](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxgi) | 4.2 | 08-03-2023 05:46:36 |
 | [16 km NNE of Sincik, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000kxg6) | 4.2 | 08-03-2023 04:56:18 |
-| [Gulf of Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0239u7war1) | 3.3 | 08-02-2023 18:29:08 |
-| [45 km W of Lake Minchumina, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0239ua8rns) | 3.2 | 08-02-2023 22:23:15 |
-| [41 km WSW of Carlsbad, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ci39628458) | 3.09 | 08-03-2023 07:29:59 |
-| [51 km N of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr71420298) | 3.03 | 08-03-2023 06:11:33 |
-| [44 km NW of San Antonio, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71420343) | 2.9 | 08-03-2023 10:05:12 |
-| [Puerto Rico region](https://earthquake.usgs.gov/earthquakes/eventpage/pr71420348) | 2.73 | 08-03-2023 10:53:20 |
