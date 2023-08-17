@@ -9,18 +9,18 @@
 | [154 km S of Severo-Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knrv) | 5.3 | 08-16-2023 15:02:40 |
 | [Santa Cruz Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knlh) | 5.2 | 08-16-2023 04:09:05 |
 | [30 km NNE of Türkmenbaşy, Turkmenistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knkw) | 5.2 | 08-16-2023 01:37:31 |
-| [central Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knkc) | 4.9 | 08-15-2023 23:40:20 |
+| [181 km S of Severo-Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knu9) | 5 | 08-16-2023 18:43:47 |
+| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knt7) | 4.9 | 08-16-2023 16:39:59 |
 | [Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knrz) | 4.9 | 08-16-2023 15:11:51 |
 | [West Chile Rise](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knnp) | 4.8 | 08-16-2023 10:32:06 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knkv) | 4.7 | 08-16-2023 01:22:21 |
 | [155 km S of Severo-Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knm1) | 4.7 | 08-16-2023 07:34:35 |
 | [81 km SSW of Nikolski, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knnl) | 4.6 | 08-16-2023 09:50:27 |
+| [137 km NW of Ternate, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knvy) | 4.6 | 08-16-2023 22:53:09 |
+| [212 km NNE of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knv6) | 4.5 | 08-16-2023 21:08:54 |
 | [200 km S of Sarangani, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knl2) | 4.4 | 08-16-2023 02:31:02 |
-| [46 km NNE of San Pedro de Atacama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knkf) | 4.1 | 08-15-2023 23:48:11 |
+| [20 km NE of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knwd) | 4.3 | 08-16-2023 23:47:18 |
+| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knwe) | 4.2 | 08-16-2023 23:49:44 |
+| [229 km W of Adak, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knwc) | 4 | 08-16-2023 22:19:36 |
 | [Kenai Peninsula, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak023ah9zcn5) | 3.7 | 08-16-2023 12:51:42 |
-| [50 km ESE of Boca de Yuma, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023228001) | 3.62 | 08-16-2023 04:02:50 |
-| [111 km N of Brenas, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023228000) | 3.59 | 08-16-2023 03:54:58 |
-| [237 km W of Langlois, Oregon](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knj7) | 3.1 | 08-15-2023 19:37:43 |
-| [7 km SW of Volcano, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv73528192) | 3.04 | 08-15-2023 21:37:39 |
-| [145 km SW of Adak, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knk4) | 3 | 08-15-2023 21:36:51 |
-| [8 km WSW of Thayne, Wyoming](https://earthquake.usgs.gov/earthquakes/eventpage/us7000knk2) | 2.9 | 08-15-2023 22:39:05 |
+| [63 km SE of King Salmon, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak023aheqaue) | 3.7 | 08-16-2023 20:49:01 |
