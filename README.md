@@ -13,14 +13,14 @@
 | [New Britain region, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kt33) | 4.6 | 09-03-2023 23:57:54 |
 | [64 km SSE of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kt1g) | 4.6 | 09-03-2023 16:16:18 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kt2v) | 4.5 | 09-03-2023 23:21:05 |
+| [17 km WNW of Güiria, Venezuela](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kt3e) | 4.5 | 09-04-2023 01:22:03 |
 | [Norwegian Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kt1t) | 4.4 | 09-03-2023 17:44:29 |
+| [Hindu Kush region, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kt3g) | 4.4 | 09-04-2023 01:38:49 |
 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kt1f) | 4.4 | 09-03-2023 16:14:57 |
 | [84 km S of Ust’-Kamchatsk Staryy, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ksyq) | 4.4 | 09-03-2023 06:28:02 |
 | [59 km WNW of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kt0r) | 4.4 | 09-03-2023 12:32:05 |
+| [191 km SSE of Alo, Wallis and Futuna](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kt47) | 4.3 | 09-04-2023 04:20:09 |
+| [151 km NNE of Darya Boyi, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kt3u) | 4.3 | 09-04-2023 02:53:19 |
 | [73 km NNE of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023246000) | 4.28 | 09-03-2023 07:49:43 |
-| [Iceland](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ksxx) | 4.2 | 09-03-2023 02:22:22 |
 | [4 km S of Ashkāsham, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kt2l) | 4.1 | 09-03-2023 21:43:45 |
 | [100 km NNE of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023246004) | 3.9 | 09-03-2023 21:26:38 |
-| [Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023246005) | 3.89 | 09-03-2023 22:23:48 |
-| [80 km ENE of Christiansted, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023246001) | 3.89 | 09-03-2023 12:13:36 |
-| [Fox Islands, Aleutian Islands, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000kt1l) | 3.6 | 09-03-2023 14:00:07 |
