@@ -15,12 +15,12 @@
 | [121 km S of Isangel, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lcx7) | 5.3 | 10-04-2023 21:01:46 |
 | [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lczr) | 5.2 | 10-05-2023 04:00:00 |
 | [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lcys) | 5.2 | 10-05-2023 01:05:09 |
-| [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lcvk) | 5.2 | 10-04-2023 17:22:41 |
 | [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ld0z) | 5.1 | 10-05-2023 06:48:23 |
 | [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lcyc) | 5.1 | 10-04-2023 23:47:20 |
 | [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ld09) | 5 | 10-05-2023 05:41:15 |
 | [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lcw3) | 5 | 10-04-2023 18:30:17 |
 | [146 km SW of Ambon, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lczv) | 5 | 10-05-2023 04:25:45 |
-| [127 km WNW of Höfn, Iceland](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lcv0) | 5 | 10-04-2023 16:11:59 |
+| [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ld4n) | 4.9 | 10-05-2023 14:53:10 |
+| [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ld3f) | 4.9 | 10-05-2023 12:01:05 |
 | [76 km E of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ld1n) | 4.9 | 10-05-2023 08:53:14 |
-| [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ld1m) | 4.8 | 10-05-2023 08:50:55 |
+| [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ld3e) | 4.8 | 10-05-2023 11:56:35 |
