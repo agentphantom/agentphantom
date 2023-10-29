@@ -12,15 +12,15 @@
 | [Pagan region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l750) | 5.3 | 10-28-2023 08:08:12 |
 | [52 km SSW of Covenant Life, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak023dtut7mp) | 5.3 | 10-28-2023 03:44:10 |
 | [50 km SSW of Covenant Life, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak023dtuk2yv) | 5.1 | 10-28-2023 03:01:49 |
+| [24 km NNW of Herāt, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l78n) | 5 | 10-28-2023 19:27:39 |
+| [Tonga region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l79f) | 4.9 | 10-28-2023 22:14:58 |
 | [281 km E of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l772) | 4.9 | 10-28-2023 14:03:58 |
+| [Vanuatu region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l79a) | 4.8 | 10-28-2023 21:42:56 |
 | [79 km ENE of La Tirana, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l75k) | 4.8 | 10-28-2023 09:59:22 |
-| [66 km E of Tuensang, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l70z) | 4.8 | 10-27-2023 23:23:49 |
-| [12 km ESE of Santa María Chimalapa, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l6yb) | 4.8 | 10-27-2023 18:39:31 |
+| [Tarapaca-Antofagasta border region, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l78j) | 4.7 | 10-28-2023 19:17:37 |
 | [Bay of Bengal](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l76c) | 4.7 | 10-28-2023 11:09:16 |
-| [87 km ENE of Khandūd, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l76e) | 4.5 | 10-28-2023 11:23:08 |
+| [Hindu Kush region, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l76e) | 4.5 | 10-28-2023 11:23:08 |
+| [Democratic Republic of the Congo](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l775) | 4.5 | 10-28-2023 14:34:01 |
+| [294 km SW of Severo-Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l79e) | 4.5 | 10-28-2023 21:59:14 |
 | [23 km NNW of Herāt, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l73z) | 4.5 | 10-28-2023 05:45:07 |
-| [183 km SE of Kabalo, Democratic Republic of the Congo](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l775) | 4.5 | 10-28-2023 14:34:01 |
-| [178 km ESE of Modisi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l70d) | 4.5 | 10-27-2023 21:50:29 |
 | [149 km WSW of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l71r) | 4.5 | 10-28-2023 01:20:19 |
-| [29 km S of Jurm, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l6ym) | 4.4 | 10-27-2023 19:13:34 |
-| [112 km NNE of Bangkalan, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l70s) | 4.4 | 10-27-2023 22:59:07 |
