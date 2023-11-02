@@ -17,10 +17,10 @@
 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l85q) | 4.8 | 11-01-2023 20:55:52 |
 | [99 km SSE of Bīrjand, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l81l) | 4.7 | 11-01-2023 10:39:46 |
 | [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l841) | 4.6 | 11-01-2023 16:53:40 |
+| [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l88f) | 4.6 | 11-02-2023 02:39:45 |
 | [94 km ESE of Lata, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l80p) | 4.6 | 11-01-2023 06:29:38 |
 | [58 km NE of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l83l) | 4.6 | 11-01-2023 15:36:54 |
 | [Hindu Kush region, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l87l) | 4.4 | 11-01-2023 22:43:56 |
+| [Salta, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l88m) | 4.3 | 11-02-2023 03:35:56 |
+| [94 km NW of Vallenar, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l887) | 4 | 11-02-2023 00:55:11 |
 | [21 km WNW of Glacier View, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak023e0o5q4j) | 3.8 | 11-01-2023 15:53:07 |
-| [Fox Islands, Aleutian Islands, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak023e0qz7j9) | 3.7 | 11-01-2023 20:27:21 |
-| [13 km W of Stanley, Idaho](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l7zl) | 3.5 | 11-01-2023 02:39:00 |
-| [30 km SSW of Glacier View, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak023e0jc723) | 3.1 | 11-01-2023 07:43:45 |
