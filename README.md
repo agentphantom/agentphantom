@@ -8,7 +8,6 @@
 | [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9ku) | 6.7 | 11-08-2023 13:02:06 |
 | [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9h2) | 6.7 | 11-08-2023 04:52:52 |
 | [150 km ESE of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9ip) | 5.6 | 11-08-2023 08:16:29 |
-| [Pagan region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9eg) | 5.4 | 11-07-2023 18:15:34 |
 | [277 km SSE of Amahai, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9nq) | 5.3 | 11-08-2023 17:25:02 |
 | [Kermadec Islands, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9kx) | 5.2 | 11-08-2023 13:06:58 |
 | [Coalson Draw, Texas](https://earthquake.usgs.gov/earthquakes/eventpage/tx2023vxae) | 5.2 | 11-08-2023 10:27:49 |
@@ -20,7 +19,8 @@
 | [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9ns) | 4.8 | 11-08-2023 17:40:08 |
 | [Azerbaijan-Iran border region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9ht) | 4.8 | 11-08-2023 05:18:48 |
 | [285 km W of Tual, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9lh) | 4.8 | 11-08-2023 14:18:59 |
-| [136 km WNW of Tumxuk, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9el) | 4.8 | 11-07-2023 18:52:01 |
-| [126 km WNW of Tumxuk, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9ej) | 4.8 | 11-07-2023 18:15:05 |
 | [Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9ni) | 4.7 | 11-08-2023 16:46:35 |
 | [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9ji) | 4.7 | 11-08-2023 10:43:38 |
+| [Antofagasta, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9qs) | 4.7 | 11-08-2023 23:45:50 |
+| [84 km ESE of Masohi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9ic) | 4.7 | 11-08-2023 07:23:42 |
+| [Mariana Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000l9la) | 4.6 | 11-08-2023 13:56:20 |
