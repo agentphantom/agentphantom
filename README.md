@@ -5,22 +5,22 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [98 km E of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lq00) | 6.7 | 11-22-2023 04:47:33 |
-| [Halmahera, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lpyx) | 6 | 11-22-2023 02:48:53 |
+| [94 km W of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lpyx) | 6 | 11-22-2023 02:48:51 |
 | [New Britain region, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lq23) | 5 | 11-22-2023 11:49:57 |
-| [63 km S of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lpx6) | 5 | 11-21-2023 21:30:54 |
-| [32 km SSE of Madang, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lpwb) | 4.9 | 11-21-2023 19:44:16 |
-| [Antofagasta, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lq0y) | 4.8 | 11-22-2023 07:21:03 |
-| [106 km E of Macas, Ecuador](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lq4i) | 4.8 | 11-22-2023 17:45:03 |
-| [91 km W of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lpzx) | 4.5 | 11-22-2023 04:38:35 |
+| [Peru-Ecuador border region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lq4i) | 4.8 | 11-22-2023 17:45:03 |
+| [52 km SSW of Calama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lq0y) | 4.8 | 11-22-2023 07:21:03 |
+| [87 km NNW of Hirara, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lq6l) | 4.5 | 11-22-2023 23:34:51 |
+| [77 km W of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lq5y) | 4.4 | 11-22-2023 21:33:54 |
+| [Salta, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lpzx) | 4.3 | 11-22-2023 04:38:35 |
 | [Rat Islands, Aleutian Islands, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lq28) | 4.3 | 11-22-2023 13:00:42 |
-| [111 km N of San Juan, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023325000) | 4.02 | 11-21-2023 22:18:13 |
-| [51 km E of Chenega, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak023extp14m) | 3.3 | 11-21-2023 20:21:32 |
+| [229 km E of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lq6g) | 4.3 | 11-22-2023 22:39:15 |
+| [99 km SSW of Uyuni, Bolivia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lq6a) | 4.1 | 11-22-2023 22:22:19 |
+| [Nepal](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lq54) | 3.8 | 11-22-2023 19:34:26 |
 | [3 km NNW of Guayanilla, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023326000) | 3.27 | 11-22-2023 15:32:11 |
-| [5 km NNW of Ferndale, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73965951) | 3.26 | 11-22-2023 15:49:00 |
-| [63 km SSW of Whites City, New Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/tx2023wvjv) | 3.2 | 11-21-2023 18:34:40 |
-| [Island of Hawaii, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv73657512) | 3.18 | 11-22-2023 10:46:25 |
-| [59 km NNW of Karluk, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak023ez71vlf) | 3.1 | 11-22-2023 03:11:37 |
+| [11 km SW of Volcano, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv73657512) | 3.18 | 11-22-2023 10:46:25 |
+| [8 km NNW of Ferndale, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73965951) | 3.17 | 11-22-2023 15:49:00 |
+| [Alaska Peninsula](https://earthquake.usgs.gov/earthquakes/eventpage/ak023ez71vlf) | 3.1 | 11-22-2023 03:11:37 |
+| [57 km W of Nanwalek, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak023ezhqt3i) | 2.9 | 11-22-2023 21:07:30 |
 | [26 km NNE of Isabela, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71431783) | 2.82 | 11-22-2023 11:53:51 |
-| [11 km SW of Volcano, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv73657507) | 2.66 | 11-22-2023 10:38:36 |
-| [6 km SSW of Volcano, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv73656162) | 2.65 | 11-21-2023 20:18:55 |
-| [Puerto Rico region](https://earthquake.usgs.gov/earthquakes/eventpage/pr71431753) | 2.62 | 11-22-2023 01:29:08 |
+| [62 km NNW of Petersville, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak023ezgm0nl) | 2.8 | 11-22-2023 19:17:00 |
+| [6 km S of Volcano, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv73658117) | 2.73 | 11-22-2023 20:23:32 |
