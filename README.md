@@ -13,14 +13,14 @@
 | [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqg3) | 5.1 | 11-24-2023 10:41:17 |
 | [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqfw) | 5.1 | 11-24-2023 10:30:47 |
 | [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqfv) | 5.1 | 11-24-2023 10:13:04 |
-| [Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqcc) | 5 | 11-23-2023 20:07:34 |
+| [Pagan region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqkm) | 5 | 11-24-2023 21:01:18 |
 | [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqg4) | 5 | 11-24-2023 11:00:31 |
-| [south of Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqge) | 4.9 | 11-24-2023 11:53:06 |
+| [western Indian-Antarctic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqjh) | 4.9 | 11-24-2023 17:12:43 |
+| [Revilla Gigedo Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqk3) | 4.9 | 11-24-2023 19:26:03 |
+| [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqjz) | 4.9 | 11-24-2023 18:43:15 |
 | [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqfk) | 4.9 | 11-24-2023 09:21:43 |
 | [74 km ENE of Finschhafen, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqgh) | 4.9 | 11-24-2023 11:34:00 |
+| [214 km S of Burica, Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqge) | 4.9 | 11-24-2023 11:53:06 |
+| [203 km ESE of Tadine, New Caledonia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lql2) | 4.9 | 11-24-2023 21:50:05 |
 | [southeast of the Loyalty Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqem) | 4.8 | 11-24-2023 06:23:34 |
 | [south of Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqgf) | 4.8 | 11-24-2023 11:58:47 |
-| [south of Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqg0) | 4.8 | 11-24-2023 10:37:01 |
-| [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqhz) | 4.8 | 11-24-2023 14:11:26 |
-| [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqif) | 4.7 | 11-24-2023 16:04:53 |
-| [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqg2) | 4.6 | 11-24-2023 10:21:55 |
