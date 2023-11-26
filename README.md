@@ -8,19 +8,19 @@
 | [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqpw) | 5.5 | 11-25-2023 15:10:53 |
 | [86 km ESE of Palora, Ecuador](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqpg) | 5.1 | 11-25-2023 12:59:53 |
 | [67 km NW of Madang, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqmd) | 5.1 | 11-25-2023 04:48:00 |
-| [Pagan region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqkm) | 5 | 11-24-2023 21:01:18 |
 | [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqmy) | 5 | 11-25-2023 06:20:42 |
-| [Revilla Gigedo Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqk3) | 4.9 | 11-24-2023 19:26:03 |
-| [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqlk) | 4.9 | 11-25-2023 00:52:30 |
-| [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqjz) | 4.9 | 11-24-2023 18:43:15 |
-| [203 km ESE of Tadine, New Caledonia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lql2) | 4.9 | 11-24-2023 21:50:05 |
+| [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqrh) | 4.9 | 11-25-2023 20:54:06 |
 | [south of Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqp7) | 4.8 | 11-25-2023 12:22:13 |
 | [Santa Cruz Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqpu) | 4.8 | 11-25-2023 14:31:50 |
 | [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqpy) | 4.8 | 11-25-2023 15:20:27 |
-| [127 km SW of Fakfak, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqky) | 4.7 | 11-24-2023 21:37:40 |
 | [57 km SSE of Palca, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqpf) | 4.5 | 11-25-2023 12:56:54 |
-| [Jujuy, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqle) | 4.3 | 11-25-2023 00:12:16 |
+| [south of Sumbawa, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqrz) | 4.4 | 11-25-2023 22:23:46 |
 | [85 km SSE of Yonakuni, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqnz) | 4.2 | 11-25-2023 11:01:07 |
 | [59 km E of Hami, China](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqp6) | 4.2 | 11-25-2023 12:06:52 |
-| [Puerto Rico region](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023329000) | 3.5 | 11-25-2023 00:56:43 |
+| [Chile-Bolivia border region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqq5) | 4.1 | 11-25-2023 16:13:04 |
 | [3 km NNW of Bennington, Kansas](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqn6) | 3.4 | 11-25-2023 07:05:50 |
+| [22 km SSW of Woodruff, Utah](https://earthquake.usgs.gov/earthquakes/eventpage/uu60555092) | 3.26 | 11-25-2023 16:20:05 |
+| [61 km S of Whites City, New Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/tx2023xceu) | 3.2 | 11-25-2023 12:00:23 |
+| [114 km SSW of McCarthy, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak023f4f6u3w) | 3.2 | 11-25-2023 19:11:29 |
+| [14 km SSW of Ferndale, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc73967296) | 3.11 | 11-25-2023 18:18:54 |
+| [67 km N of Brenas, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71432188) | 3.03 | 11-25-2023 21:49:05 |
