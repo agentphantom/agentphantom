@@ -14,7 +14,6 @@
 | [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lr01) | 5 | 11-27-2023 06:34:53 |
 | [78 km WNW of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqx4) | 5 | 11-26-2023 20:44:32 |
 | [Andaman Islands, India region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqwy) | 4.9 | 11-26-2023 19:24:22 |
-| [68 km WSW of Ollagüe, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqvd) | 4.9 | 11-26-2023 13:33:30 |
 | [110 km E of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lr19) | 4.8 | 11-27-2023 11:47:34 |
 | [Salta, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqyt) | 4.7 | 11-27-2023 02:36:27 |
 | [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lr18) | 4.7 | 11-27-2023 11:33:46 |
@@ -22,5 +21,6 @@
 | [128 km SE of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lr12) | 4.7 | 11-27-2023 10:44:09 |
 | [southern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqxl) | 4.6 | 11-26-2023 22:56:59 |
 | [near the north coast of Papua, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqwz) | 4.5 | 11-26-2023 20:06:28 |
-| [Norwegian Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqvz) | 4.5 | 11-26-2023 15:56:54 |
+| [near the east coast of Honshu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqwl) | 4.5 | 11-26-2023 18:25:10 |
 | [65 km WNW of Vallenar, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000lqxj) | 4.5 | 11-26-2023 23:06:13 |
+| [130 km N of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023331001) | 4.23 | 11-27-2023 15:44:40 |
