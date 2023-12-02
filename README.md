@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
+| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lff4) | 7.6 | 12-02-2023 14:37:03 |
+| [47 km NE of Barcelona, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfi0) | 6.4 | 12-02-2023 16:03:43 |
+| [44 km NE of Barcelona, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfjr) | 6.2 | 12-02-2023 17:40:12 |
 | [Tarapaca, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfbb) | 5.8 | 12-02-2023 07:55:40 |
+| [66 km ENE of Barcelona, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfgr) | 5.8 | 12-02-2023 15:06:46 |
+| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfif) | 5.7 | 12-02-2023 16:19:47 |
+| [59 km ENE of Barcelona, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfj2) | 5.7 | 12-02-2023 16:53:09 |
+| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfia) | 5.6 | 12-02-2023 16:17:01 |
+| [west of Macquarie Island](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfev) | 5.5 | 12-02-2023 14:02:10 |
+| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfhj) | 5.5 | 12-02-2023 15:31:27 |
 | [Kepulauan Babar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfcp) | 5.5 | 12-02-2023 12:01:01 |
 | [10 km ENE of Rāmganj, Bangladesh](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfaa) | 5.5 | 12-02-2023 03:35:32 |
-| [76 km SSW of Laojunmiao, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lf3c) | 5.4 | 12-01-2023 14:55:56 |
-| [43 km NE of Anse-Bertrand, Guadeloupe](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfbg) | 5.2 | 12-02-2023 08:48:24 |
-| [185 km S of Dampit, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfap) | 5.2 | 12-02-2023 05:37:25 |
-| [Seram, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lf74) | 5.1 | 12-01-2023 17:58:56 |
-| [Antofagasta, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfbl) | 5.1 | 12-02-2023 09:31:32 |
-| [137 km WSW of Buala, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfac) | 5.1 | 12-02-2023 03:51:24 |
-| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfai) | 5 | 12-02-2023 05:03:54 |
-| [Myanmar-China border region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lf6x) | 5 | 12-01-2023 17:36:35 |
-| [58 km NE of Beauséjour, Guadeloupe](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfa4) | 4.9 | 12-02-2023 03:00:45 |
-| [129 km WNW of Iñapari, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lf9t) | 4.9 | 12-02-2023 02:23:18 |
-| [Seram, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lf7b) | 4.7 | 12-01-2023 18:50:05 |
-| [Jujuy, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfc2) | 4.5 | 12-02-2023 11:02:53 |
-| [84 km S of Attu Station, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lf75) | 4.5 | 12-01-2023 17:54:39 |
-| [55 km N of Beauséjour, Guadeloupe](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfbs) | 4.5 | 12-02-2023 10:29:13 |
-| [eastern Honshu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lf9b) | 4.4 | 12-02-2023 00:35:38 |
-| [Leeward Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfa2) | 4.4 | 12-02-2023 02:58:37 |
-| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lf2x) | 4.4 | 12-01-2023 12:40:17 |
+| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfir) | 5.4 | 12-02-2023 16:34:58 |
+| [40 km NE of Barcelona, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfh8) | 5.4 | 12-02-2023 15:22:04 |
+| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfj4) | 5.3 | 12-02-2023 17:02:02 |
+| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfhs) | 5.3 | 12-02-2023 15:46:24 |
+| [62 km ENE of Hinatuan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfga) | 5.3 | 12-02-2023 15:00:08 |
+| [58 km NE of Barcelona, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfhr) | 5.3 | 12-02-2023 15:42:48 |
+| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfhw) | 5.2 | 12-02-2023 15:50:41 |
+| [65 km ENE of Barcelona, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfi8) | 5.2 | 12-02-2023 16:13:22 |
