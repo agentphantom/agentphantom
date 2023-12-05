@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [35 km ENE of Aras-asan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfxx) | 6.9 | 12-03-2023 19:49:37 |
-| [42 km E of Aras-asan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg1q) | 5.7 | 12-04-2023 05:08:35 |
-| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg0q) | 5.5 | 12-04-2023 01:07:50 |
-| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg1v) | 5.4 | 12-04-2023 05:15:42 |
+| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg1q) | 5.7 | 12-04-2023 05:08:35 |
+| [57 km NE of Barcelona, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg0q) | 5.5 | 12-04-2023 01:07:49 |
+| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lga8) | 5.4 | 12-05-2023 00:34:30 |
 | [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg1m) | 5.4 | 12-04-2023 04:59:01 |
 | [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg1b) | 5.4 | 12-04-2023 04:17:24 |
-| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfzh) | 5.4 | 12-03-2023 21:43:41 |
-| [28 km E of Aras-asan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfz0) | 5.4 | 12-03-2023 20:30:19 |
+| [44 km ENE of Barcelona, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg1v) | 5.4 | 12-04-2023 05:15:42 |
+| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg17) | 5.2 | 12-04-2023 02:38:18 |
 | [65 km SSW of Khuzdar, Pakistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg3s) | 5.2 | 12-04-2023 12:19:23 |
-| [58 km ENE of Hinatuan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg17) | 5.2 | 12-04-2023 02:38:18 |
-| [western Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg2l) | 5.1 | 12-04-2023 07:42:19 |
-| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfxr) | 5.1 | 12-03-2023 19:11:02 |
-| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg1k) | 5.1 | 12-04-2023 04:43:49 |
-| [67 km ESE of Marihatag, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg03) | 5.1 | 12-03-2023 22:42:19 |
-| [48 km NE of Barcelona, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg0a) | 5.1 | 12-03-2023 23:25:12 |
-| [48 km ENE of Hinatuan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg13) | 5.1 | 12-04-2023 02:11:03 |
+| [7 km NNW of Mudanya, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg2l) | 5.1 | 12-04-2023 07:42:19 |
+| [58 km ENE of Barcelona, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg1k) | 5.1 | 12-04-2023 04:43:49 |
+| [53 km ENE of Hinatuan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg13) | 5 | 12-04-2023 02:11:03 |
 | [49 km ENE of Hinatuan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg28) | 5 | 12-04-2023 06:08:30 |
-| [36 km ENE of Aras-asan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfyx) | 5 | 12-03-2023 20:18:52 |
 | [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg2z) | 4.9 | 12-04-2023 09:29:40 |
-| [Mindanao, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg0m) | 4.9 | 12-04-2023 00:44:26 |
+| [Kepulauan Talaud, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg5t) | 4.9 | 12-04-2023 18:21:33 |
+| [155 km SSE of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg9j) | 4.9 | 12-04-2023 22:37:42 |
+| [Philippine Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg1f) | 4.8 | 12-04-2023 04:21:28 |
+| [191 km SW of Nikolski, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg35) | 4.8 | 12-04-2023 10:19:02 |
+| [South Indian Ocean](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg4w) | 4.7 | 12-04-2023 15:11:24 |
+| [73 km WNW of Bulolo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg3g) | 4.7 | 12-04-2023 11:00:14 |
+| [51 km ENE of Hinatuan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lg55) | 4.7 | 12-04-2023 16:23:46 |
