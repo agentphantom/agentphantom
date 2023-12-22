@@ -16,11 +16,11 @@
 | [76 km N of Gorontalo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lkqw) | 4.8 | 12-21-2023 21:11:03 |
 | [70 km SSE of Hasaki, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/usd0010b49) | 4.8 | 12-21-2023 14:17:23 |
 | [26 km SW of Ovalle, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lkq0) | 4.7 | 12-21-2023 19:09:05 |
+| [213 km SSW of Pelabuhanratu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lkse) | 4.7 | 12-22-2023 01:41:55 |
 | [116 km SE of Adak, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lkpk) | 4.6 | 12-21-2023 17:03:45 |
+| [37 km E of Noda, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lksf) | 4.5 | 12-22-2023 01:45:59 |
+| [228 km E of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lku1) | 4.4 | 12-22-2023 05:56:37 |
+| [223 km E of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lkt0) | 4.4 | 12-22-2023 03:18:43 |
 | [Kepulauan Babar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lkrg) | 4.3 | 12-21-2023 22:40:52 |
 | [61 km WSW of Gerāsh, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lkjq) | 4.3 | 12-21-2023 08:20:53 |
 | [260 km SW of Severo-Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lkpc) | 4.3 | 12-21-2023 15:40:26 |
-| [48 km SW of Primo Tapia, B.C., MX](https://earthquake.usgs.gov/earthquakes/eventpage/ci40449327) | 3.24 | 12-21-2023 21:29:27 |
-| [55 km NW of Ninilchik, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak023gbgys2j) | 3.2 | 12-21-2023 22:14:18 |
-| [7 km E of Assaria, Kansas](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lkkf) | 3.1 | 12-21-2023 11:45:28 |
-| [34 km SE of Mina, Nevada](https://earthquake.usgs.gov/earthquakes/eventpage/nn00870445) | 2.9 | 12-21-2023 21:40:44 |
