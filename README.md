@@ -4,11 +4,12 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [south of Africa](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lkxb) | 6.1 | 12-22-2023 17:36:31 |
+| [105 km SSE of Vilyuchinsk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll46) | 5.7 | 12-23-2023 17:48:06 |
+| [33 km E of Barcelona, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll30) | 5.3 | 12-23-2023 14:22:28 |
 | [65 km NE of Samaná, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023356000) | 5.25 | 12-22-2023 18:30:13 |
+| [53 km E of Aras-asan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll3y) | 5.2 | 12-23-2023 16:38:37 |
 | [104 km NNE of Hihifo, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lkzp) | 5.2 | 12-22-2023 22:57:25 |
-| [180 km SE of Hihifo, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lkwj) | 5 | 12-22-2023 15:19:12 |
-| [153 km E of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lkxi) | 5 | 12-22-2023 17:43:36 |
+| [Komandorskiye Ostrova, Russia region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll3j) | 4.9 | 12-23-2023 15:31:03 |
 | [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll0u) | 4.9 | 12-23-2023 03:48:37 |
 | [122 km NNE of Kimbe, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll2n) | 4.9 | 12-23-2023 11:48:16 |
 | [102 km NNE of Finschhafen, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll29) | 4.9 | 12-23-2023 09:56:43 |
@@ -16,11 +17,10 @@
 | [106 km E of Modisi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll24) | 4.8 | 12-23-2023 09:09:16 |
 | [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll2b) | 4.7 | 12-23-2023 10:15:20 |
 | [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll21) | 4.7 | 12-23-2023 08:37:38 |
-| [133 km S of Isangel, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lkw9) | 4.7 | 12-22-2023 14:56:45 |
+| [56 km SE of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll3i) | 4.7 | 12-23-2023 15:07:44 |
 | [37 km WSW of Ahar, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll0i) | 4.6 | 12-23-2023 02:27:21 |
 | [64 km ENE of Barcelona, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lky9) | 4.5 | 12-22-2023 19:07:09 |
-| [62 km NE of Takaka, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lkw3) | 4.5 | 12-22-2023 14:27:10 |
+| [197 km E of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll38) | 4.5 | 12-23-2023 14:45:45 |
+| [16 km NNW of Uñon, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll2p) | 4.4 | 12-23-2023 11:26:52 |
 | [57 km WSW of Abra Pampa, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lky5) | 4.2 | 12-22-2023 19:02:44 |
-| [115 km SE of Adak, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lkvu) | 4.1 | 12-22-2023 12:45:56 |
-| [42 km NE of Miches, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023356002) | 3.95 | 12-22-2023 19:45:58 |
-| [152 km N of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2023356003) | 3.95 | 12-22-2023 23:51:28 |
+| [112 km SE of Adak, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak023geik3cl) | 4.1 | 12-23-2023 06:21:44 |
