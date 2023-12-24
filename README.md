@@ -16,11 +16,11 @@
 | [59 km WSW of Cañete, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll6j) | 5.1 | 12-24-2023 03:32:48 |
 | [34 km ENE of Hinatuan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll6e) | 5.1 | 12-24-2023 03:02:06 |
 | [Komandorskiye Ostrova, Russia region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll3j) | 4.9 | 12-23-2023 15:31:03 |
-| [122 km NNE of Kimbe, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll2n) | 4.9 | 12-23-2023 11:48:16 |
-| [102 km NNE of Finschhafen, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll29) | 4.9 | 12-23-2023 09:56:43 |
+| [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll8d) | 4.9 | 12-24-2023 11:46:29 |
 | [113 km SSW of Isangel, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll6d) | 4.8 | 12-24-2023 02:54:39 |
 | [107 km SSW of Isangel, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll4w) | 4.8 | 12-23-2023 21:17:34 |
-| [106 km E of Modisi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll24) | 4.8 | 12-23-2023 09:09:16 |
-| [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll2b) | 4.7 | 12-23-2023 10:15:20 |
-| [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll21) | 4.7 | 12-23-2023 08:37:38 |
 | [56 km SE of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll3i) | 4.7 | 12-23-2023 15:07:44 |
+| [11 km NNE of Hinatuan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll7t) | 4.7 | 12-24-2023 08:51:57 |
+| [76 km WNW of Vallenar, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll4d) | 4.6 | 12-23-2023 18:48:24 |
+| [61 km NNE of Pototano, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll6z) | 4.6 | 12-24-2023 06:00:52 |
+| [197 km E of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ll38) | 4.5 | 12-23-2023 14:45:45 |
