@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
+| [42 km NE of Anamizu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0xl) | 7.5 | 01-01-2024 07:10:09 |
+| [4 km SSW of Anamizu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0xm) | 6.2 | 01-01-2024 07:18:42 |
+| [8 km NNE of Anamizu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0xt) | 5.6 | 01-01-2024 07:56:48 |
+| [55 km NE of Anamizu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0ya) | 5.6 | 01-01-2024 09:08:17 |
+| [55 km NE of Anamizu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0y9) | 5.5 | 01-01-2024 09:03:49 |
+| [42 km NE of Anamizu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0xj) | 5.5 | 01-01-2024 07:06:05 |
 | [southwest of Africa](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0u8) | 5.4 | 12-31-2023 15:16:51 |
+| [98 km SE of Gorontalo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0xq) | 5.4 | 01-01-2024 07:52:42 |
 | [80 km ENE of Baiyin, China](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0ty) | 5.3 | 12-31-2023 14:27:37 |
+| [58 km ENE of Anamizu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0xn) | 5.2 | 01-01-2024 07:39:49 |
+| [51 km NE of Anamizu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0ye) | 5.2 | 01-01-2024 09:30:21 |
+| [51 km NW of Jōetsu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0yg) | 5.1 | 01-01-2024 09:45:24 |
+| [24 km WSW of Anamizu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0xw) | 5.1 | 01-01-2024 08:07:11 |
+| [58 km ENE of Anamizu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0xu) | 5 | 01-01-2024 08:02:45 |
+| [21 km WSW of Anamizu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0yf) | 5 | 01-01-2024 09:40:00 |
+| [6 km N of Anamizu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0xp) | 4.9 | 01-01-2024 07:48:14 |
+| [38 km ENE of Anamizu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0xy) | 4.9 | 01-01-2024 08:22:11 |
 | [104 km ESE of Tatsugō, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0u0) | 4.9 | 12-31-2023 14:37:38 |
 | [66 km NE of Pototano, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0x9) | 4.8 | 01-01-2024 05:22:54 |
-| [277 km N of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0u9) | 4.8 | 12-31-2023 15:23:16 |
-| [16 km NW of Sumedang Utara, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0tt) | 4.8 | 12-31-2023 13:34:21 |
-| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0wc) | 4.7 | 01-01-2024 01:43:14 |
-| [87 km NE of Sainte-Marie, Martinique](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0ti) | 4.7 | 12-31-2023 11:31:53 |
-| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0x8) | 4.6 | 01-01-2024 05:18:59 |
-| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0ur) | 4.6 | 12-31-2023 17:04:47 |
-| [273 km N of Saipan, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0w6) | 4.6 | 01-01-2024 00:37:08 |
-| [250 km N of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0t7) | 4.6 | 12-31-2023 10:19:12 |
-| [23 km SSW of Kodāri̇̄, Nepal](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0uh) | 4.6 | 12-31-2023 16:36:23 |
-| [31 km ENE of Çukurca, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0ug) | 4.5 | 12-31-2023 16:37:54 |
-| [138 km SE of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0x6) | 4.5 | 01-01-2024 04:49:01 |
-| [87 km SSW of Puerto El Triunfo, El Salvador](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0wp) | 4.4 | 01-01-2024 03:26:20 |
-| [57 km ESE of Petropavlovsk-Kamchatsky, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0tk) | 4.4 | 12-31-2023 12:04:00 |
-| [33 km SE of Hakkâri, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0uq) | 4.4 | 12-31-2023 17:06:04 |
-| [241 km S of Longyearbyen, Svalbard and Jan Mayen](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0wm) | 4.4 | 01-01-2024 03:03:59 |
-| [113 km S of Akureyri, Iceland](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0uz) | 4.4 | 12-31-2023 18:05:31 |
+| [57 km NNW of Itoigawa, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m0y1) | 4.8 | 01-01-2024 08:29:03 |
