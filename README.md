@@ -12,7 +12,7 @@
 | [177 km S of ‘Ohonua, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m4aw) | 4.9 | 01-17-2024 22:10:52 |
 | [126 km SSW of Abepura, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m48n) | 4.9 | 01-17-2024 18:29:38 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m4c1) | 4.8 | 01-18-2024 03:10:32 |
-| [86 km N of Baukau, Timor Leste](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m45s) | 4.7 | 01-17-2024 10:15:22 |
+| [north of Franz Josef Land](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m4dj) | 4.7 | 01-18-2024 06:15:45 |
 | [35 km SW of Meulaboh, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m47u) | 4.7 | 01-17-2024 15:18:06 |
 | [12 km NE of Labuan Bajo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m4c2) | 4.7 | 01-18-2024 03:35:56 |
 | [291 km SSW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m4bs) | 4.6 | 01-18-2024 01:38:29 |
@@ -20,7 +20,7 @@
 | [79 km SE of La Tirana, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m4aa) | 4.4 | 01-17-2024 21:21:10 |
 | [off the west coast of northern Sumatra](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m4a6) | 4.2 | 01-17-2024 20:16:39 |
 | [75 km N of Charlotte Amalie, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2024017003) | 4.02 | 01-17-2024 23:11:11 |
-| [56 km SE of Boca de Yuma, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2024017002) | 3.97 | 01-17-2024 08:04:32 |
-| [101 km N of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2024017001) | 3.85 | 01-17-2024 07:19:10 |
-| [62 km WNW of Port Alexander, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak024s9jjvp) | 3.7 | 01-17-2024 09:08:17 |
 | [1 km NNE of Coupeville, Washington](https://earthquake.usgs.gov/earthquakes/eventpage/uw61980351) | 3.2600000000000002 | 01-18-2024 03:47:41 |
+| [7 km NNE of Utuado, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71437088) | 3.12 | 01-17-2024 15:10:05 |
+| [259 km W of Adak, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m48p) | 3 | 01-17-2024 18:39:26 |
+| [247 km ESE of Chiniak, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak024ttpe14) | 3 | 01-18-2024 03:41:29 |
