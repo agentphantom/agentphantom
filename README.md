@@ -19,8 +19,8 @@
 | [118 km SSE of Kyzyl-Suu, Kyrgyzstan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lt09) | 5 | 01-22-2024 18:50:43 |
 | [39 km SSE of La Tirana, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000m5ef) | 4.9 | 01-22-2024 13:16:49 |
 | [134 km WNW of Aykol, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lt16) | 4.9 | 01-22-2024 21:16:44 |
+| [127 km SSE of Kyzyl-Suu, Kyrgyzstan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lt5h) | 4.9 | 01-23-2024 09:07:13 |
 | [120 km WNW of Aykol, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lt0u) | 4.9 | 01-22-2024 20:29:31 |
 | [116 km WNW of Aykol, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lt11) | 4.9 | 01-22-2024 20:57:13 |
 | [Carlsberg Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lsz5) | 4.8 | 01-22-2024 17:27:25 |
 | [130 km SSE of Kyzyl-Suu, Kyrgyzstan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lt2g) | 4.8 | 01-22-2024 23:56:20 |
-| [12 km SSW of Piedecuesta, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lt0d) | 4.8 | 01-22-2024 19:05:50 |
