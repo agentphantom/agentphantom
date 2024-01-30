@@ -5,10 +5,11 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [122 km WNW of Aykol, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000luuy) | 5.7 | 01-29-2024 22:27:41 |
-| [114 km ENE of Barcelona, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lunx) | 5.1 | 01-29-2024 07:37:21 |
 | [west of Macquarie Island](https://earthquake.usgs.gov/earthquakes/eventpage/us7000luvu) | 4.9 | 01-30-2024 00:41:20 |
 | [59 km SE of Hasaki, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lutd) | 4.8 | 01-29-2024 20:03:04 |
+| [66 km WSW of Masachapa, Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us7000luyc) | 4.7 | 01-30-2024 10:36:39 |
 | [99 km N of Charlotte Amalie, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2024029005) | 4.6 | 01-29-2024 20:00:52 |
+| [56 km E of Aras-asan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000luxb) | 4.6 | 01-30-2024 06:47:46 |
 | [38 km S of Shizunai-furukawachō, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000luqg) | 4.6 | 01-29-2024 15:19:18 |
 | [274 km NNE of Ama, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lus7) | 4.6 | 01-29-2024 16:57:12 |
 | [12 km WNW of San Agustín, El Salvador](https://earthquake.usgs.gov/earthquakes/eventpage/us7000luun) | 4.6 | 01-29-2024 21:38:33 |
@@ -17,7 +18,6 @@
 | [93 km N of Charlotte Amalie, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2024029002) | 4.44 | 01-29-2024 16:57:29 |
 | [269 km NE of Lospalos, Timor Leste](https://earthquake.usgs.gov/earthquakes/eventpage/us7000luqp) | 4.4 | 01-29-2024 16:05:00 |
 | [123 km WNW of Aykol, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000luvc) | 4.4 | 01-29-2024 23:17:08 |
-| [1 km S of Aghajari, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us7000lup1) | 4.4 | 01-29-2024 08:27:23 |
 | [113 km WNW of Aykol, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000luue) | 4.3 | 01-29-2024 21:03:22 |
 | [13 km NW of Iray, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000luvn) | 4.2 | 01-30-2024 00:13:56 |
 | [125 km W of Aykol, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000luwf) | 4.1 | 01-30-2024 03:52:36 |
