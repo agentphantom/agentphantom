@@ -15,12 +15,12 @@
 | [Mariana Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000m08f) | 4.7 | 02-19-2024 19:21:46 |
 | [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000m07u) | 4.7 | 02-19-2024 17:07:49 |
 | [109 km SE of Lata, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000m068) | 4.6 | 02-19-2024 15:27:11 |
-| [68 km W of Palaióchora, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000m044) | 4.4 | 02-19-2024 05:55:03 |
-| [105 km ENE of Kuqa, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000m03m) | 4.4 | 02-19-2024 03:08:15 |
+| [1 km NNE of Jordán, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000m0a2) | 4.6 | 02-20-2024 01:38:03 |
+| [140 km SW of Abepura, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000m0ah) | 4.5 | 02-20-2024 03:46:53 |
+| [30 km S of Padam, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000m09y) | 4.3 | 02-20-2024 01:05:59 |
 | [130 km NE of Lospalos, Timor Leste](https://earthquake.usgs.gov/earthquakes/eventpage/us7000m06j) | 4.3 | 02-19-2024 16:45:55 |
-| [13 km WSW of Juan Adrián, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/us7000m043) | 4.2 | 02-19-2024 05:52:09 |
 | [121 km S of Unalaska, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0242at29hc) | 4.2 | 02-19-2024 07:04:02 |
+| [7 km ENE of Tpig, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000m0az) | 4.1 | 02-20-2024 05:48:01 |
+| [50 km N of Camiña, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000m0aj) | 4.1 | 02-20-2024 03:52:00 |
+| [17 km NW of Turangi, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us7000m0ac) | 4.1 | 02-20-2024 02:43:31 |
 | [94 km SSW of Atka, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000m05m) | 4 | 02-19-2024 11:28:42 |
-| [96 km NNW of San Antonio, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2024050000) | 3.78 | 02-19-2024 16:26:17 |
-| [131 km S of Unalaska, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0242at1faf) | 3.5 | 02-19-2024 07:00:09 |
-| [85 km NNE of Punta Cana, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr71440613) | 3.42 | 02-19-2024 22:17:57 |
