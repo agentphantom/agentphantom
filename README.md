@@ -14,13 +14,13 @@
 | [30 km W of Agios Georgis, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkf2) | 4.8 | 03-22-2024 05:20:40 |
 | [south of the Kermadec Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkgr) | 4.7 | 03-22-2024 10:33:04 |
 | [northern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkk4) | 4.6 | 03-22-2024 17:31:00 |
+| [175 km WNW of Farasān, Saudi Arabia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkmh) | 4.6 | 03-22-2024 23:57:26 |
 | [153 km ESE of Akutan, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkf7) | 4.6 | 03-22-2024 05:36:30 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mker) | 4.5 | 03-22-2024 04:43:15 |
-| [87 km W of Ternate, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkds) | 4.5 | 03-22-2024 00:19:32 |
+| [3 km E of Gifu-shi, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkmf) | 4.5 | 03-22-2024 23:31:50 |
+| [185 km WNW of Farasān, Saudi Arabia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkly) | 4.5 | 03-22-2024 23:10:32 |
 | [106 km N of Paciran, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkgc) | 4.5 | 03-22-2024 09:19:27 |
 | [42 km E of Hachinohe, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkfa) | 4.4 | 03-22-2024 05:44:02 |
-| [Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkbn) | 4.3 | 03-21-2024 18:52:14 |
-| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkcs) | 4.2 | 03-21-2024 22:37:01 |
+| [12 km W of Agía Kyriakí, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkkw) | 4.4 | 03-22-2024 19:45:33 |
+| [60 km ENE of Anamizu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkk5) | 4.3 | 03-22-2024 17:56:03 |
 | [84 km W of San Antonio, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkha) | 4.2 | 03-22-2024 13:39:23 |
-| [41 km WSW of Coquimbo, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkc9) | 4.1 | 03-21-2024 21:16:59 |
-| [257 km WNW of Ozernovskiy, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mkdz) | 4.1 | 03-22-2024 02:06:46 |
