@@ -14,13 +14,13 @@
 | [North Pacific Ocean](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbw0) | 4.7 | 04-13-2024 10:37:54 |
 | [34 km S of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbwf) | 4.7 | 04-13-2024 12:38:48 |
 | [34 km E of Sulat, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbvk) | 4.7 | 04-13-2024 09:10:49 |
-| [211 km ENE of Olonkinbyen, Svalbard and Jan Mayen](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbt9) | 4.7 | 04-12-2024 22:18:40 |
 | [2 km WSW of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbwq) | 4.7 | 04-13-2024 14:26:36 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbun) | 4.6 | 04-13-2024 04:38:20 |
-| [northern East Pacific Rise](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbsq) | 4.6 | 04-12-2024 19:27:51 |
-| [33 km E of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbsu) | 4.6 | 04-12-2024 20:02:52 |
-| [31 km WSW of Pizitou, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbru) | 4.6 | 04-12-2024 18:44:36 |
+| [156 km WNW of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbxb) | 4.6 | 04-13-2024 17:46:59 |
 | [118 km E of Bitung, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbx2) | 4.6 | 04-13-2024 15:50:17 |
 | [western Xizang](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbuu) | 4.5 | 04-13-2024 05:44:05 |
-| [93 km NE of Masohi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbu0) | 4.4 | 04-13-2024 00:24:25 |
+| [0 km ENE of Cagamotan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbxz) | 4.5 | 04-13-2024 19:32:31 |
+| [86 km SSE of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbx6) | 4.4 | 04-13-2024 16:29:51 |
 | [19 km ENE of Istiaía, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbu8) | 4.3 | 04-13-2024 02:23:14 |
+| [85 km WNW of Ollagüe, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbxq) | 4.2 | 04-13-2024 19:10:06 |
+| [15 km ENE of Istiaía, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mbxa) | 4.2 | 04-13-2024 16:54:09 |
