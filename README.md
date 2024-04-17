@@ -6,12 +6,12 @@
 |:---|:---|:---|
 | [78 km ESE of Inarajan Village, Guam](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcej) | 5.5 | 04-16-2024 14:58:55 |
 | [40 km SE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcjj) | 5.2 | 04-16-2024 23:01:23 |
-| [93 km E of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mccx) | 5 | 04-16-2024 07:56:45 |
+| [Balleny Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcm3) | 5 | 04-17-2024 08:04:42 |
 | [24 km E of Union, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcg7) | 5 | 04-16-2024 16:06:14 |
-| [133 km ESE of Ust’-Kamchatsk Staryy, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcdg) | 5 | 04-16-2024 10:37:21 |
+| [16 km SE of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcmb) | 5 | 04-17-2024 09:17:10 |
 | [90 km E of Loreto, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mckg) | 4.9 | 04-17-2024 01:45:14 |
+| [78 km ENE of Loreto, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcmt) | 4.9 | 04-17-2024 11:58:07 |
 | [34 km NNW of Kuqa, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcld) | 4.9 | 04-17-2024 04:22:33 |
-| [142 km ESE of Ust’-Kamchatsk Staryy, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcdb) | 4.9 | 04-16-2024 10:37:11 |
 | [Bonin Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcid) | 4.8 | 04-16-2024 20:19:16 |
 | [57 km S of Bintuni, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcl5) | 4.6 | 04-17-2024 03:56:00 |
 | [11 km WNW of Yamada, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mchq) | 4.6 | 04-16-2024 18:21:30 |
