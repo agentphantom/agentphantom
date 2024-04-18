@@ -5,22 +5,22 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [17 km WSW of Uwajima, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcpi) | 6.3 | 04-17-2024 14:14:45 |
-| [40 km SE of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcjj) | 5.2 | 04-16-2024 23:01:23 |
+| [19 km ESE of Cárdenas, Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcrs) | 5.5 | 04-17-2024 21:21:54 |
+| [272 km W of Houma, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcru) | 5.4 | 04-17-2024 21:31:48 |
 | [Balleny Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcm3) | 5 | 04-17-2024 08:04:42 |
 | [16 km SE of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcmb) | 5 | 04-17-2024 09:17:10 |
 | [western Xizang](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcmw) | 4.9 | 04-17-2024 12:21:56 |
 | [90 km E of Loreto, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mckg) | 4.9 | 04-17-2024 01:45:14 |
 | [78 km ENE of Loreto, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcmt) | 4.9 | 04-17-2024 11:58:07 |
 | [34 km NNW of Kuqa, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcld) | 4.9 | 04-17-2024 04:22:33 |
-| [Bonin Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcid) | 4.8 | 04-16-2024 20:19:16 |
+| [203 km WSW of Port McNeill, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcrx) | 4.9 | 04-17-2024 21:46:15 |
 | [77 km ENE of Loreto, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcpe) | 4.7 | 04-17-2024 13:52:46 |
 | [57 km S of Bintuni, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcl5) | 4.6 | 04-17-2024 03:56:00 |
-| [11 km WNW of Yamada, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mchq) | 4.6 | 04-16-2024 18:21:30 |
-| [72 km WNW of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mciz) | 4.5 | 04-16-2024 21:30:43 |
-| [88 km ESE of Loreto, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcjt) | 4.4 | 04-16-2024 23:50:15 |
-| [60 km WNW of Hicks Bay, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mchr) | 4.4 | 04-16-2024 18:30:12 |
+| [10 km W of Sulusaray, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcs6) | 4.6 | 04-17-2024 22:07:00 |
 | [59 km E of Loreto, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mclg) | 4.4 | 04-17-2024 05:12:48 |
-| [22 km ENE of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mchx) | 4.4 | 04-16-2024 18:59:49 |
-| [14 km SE of Nueva Concepción, Guatemala](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mci1) | 4.4 | 04-16-2024 19:36:33 |
-| [14 km N of Sincik, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcit) | 4.3 | 04-16-2024 21:09:50 |
-| [127 km NNW of Fannūj, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mciq) | 4.3 | 04-16-2024 20:59:49 |
+| [58 km E of Loreto, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcs4) | 4.4 | 04-17-2024 22:00:59 |
+| [4 km NE of Curití, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcrm) | 4.4 | 04-17-2024 20:50:01 |
+| [229 km E of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcq7) | 4.3 | 04-17-2024 15:35:31 |
+| [120 km WSW of Nikolski, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mckj) | 4.3 | 04-17-2024 01:48:27 |
+| [118 km WNW of Aykol, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcsp) | 4.3 | 04-18-2024 00:23:36 |
+| [10 km WNW of Sulusaray, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mcsk) | 4.1 | 04-17-2024 23:35:47 |
