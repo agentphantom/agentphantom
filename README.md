@@ -23,4 +23,4 @@
 | [27 km S of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mt1u) | 5.2 | 04-22-2024 21:14:46 |
 | [23 km SSE of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mt1g) | 5.2 | 04-22-2024 20:03:06 |
 | [170 km NNE of Colonia, Micronesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mdu9) | 5.2 | 04-22-2024 11:40:13 |
-| [101 km SSW of Trenggalek, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mdtk) | 5.2 | 04-22-2024 11:10:49 |
+| [14 km S of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mt40) | 5.2 | 04-23-2024 02:21:00 |
