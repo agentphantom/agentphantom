@@ -11,9 +11,8 @@
 | [58 km WNW of Kirakira, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000muwk) | 4.8 | 04-29-2024 14:38:26 |
 | [237 km SE of Alo, Wallis and Futuna](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mv1i) | 4.7 | 04-29-2024 20:21:52 |
 | [168 km SSE of Vilyuchinsk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mv1s) | 4.7 | 04-29-2024 20:22:12 |
-| [Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000musk) | 4.6 | 04-29-2024 02:43:01 |
 | [77 km NW of Gunungsitoli, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000muvz) | 4.6 | 04-29-2024 13:29:47 |
-| [122 km ESE of ‘Ohonua, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mutn) | 4.6 | 04-29-2024 05:56:40 |
+| [7 km N of El Carril, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mv3f) | 4.6 | 04-30-2024 02:09:43 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mv30) | 4.5 | 04-30-2024 00:14:22 |
 | [46 km ENE of Ambunti, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000muvv) | 4.5 | 04-29-2024 13:08:51 |
 | [4 km SSW of La Paz, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000muwa) | 4.5 | 04-29-2024 14:11:18 |
@@ -24,3 +23,4 @@
 | [47 km E of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000muxb) | 4.3 | 04-29-2024 16:14:41 |
 | [286 km E of Levuka, Fiji](https://earthquake.usgs.gov/earthquakes/eventpage/us6000muwz) | 4.3 | 04-29-2024 15:50:51 |
 | [147 km NW of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mv2n) | 4.3 | 04-29-2024 22:40:59 |
+| [7 km SSE of Eşelniţa, Romania](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mv4b) | 4.2 | 04-30-2024 05:42:05 |
