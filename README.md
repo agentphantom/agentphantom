@@ -11,16 +11,16 @@
 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvnj) | 5.2 | 05-02-2024 08:02:31 |
 | [south of the Kermadec Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvv8) | 5.1 | 05-02-2024 23:37:02 |
 | [96 km SSW of Nikolski, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvms) | 5.1 | 05-02-2024 07:01:49 |
-| [27 km WNW of Chinchaypujio, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvky) | 5.1 | 05-02-2024 02:16:10 |
-| [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvm5) | 5 | 05-02-2024 05:53:52 |
+| [211 km WSW of Tofino, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvw9) | 5 | 05-03-2024 03:03:28 |
 | [122 km SE of Sanana, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvpv) | 4.9 | 05-02-2024 11:59:06 |
-| [95 km ENE of Hengchun, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvks) | 4.8 | 05-02-2024 02:07:27 |
 | [42 km ENE of Lakatoro, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvmx) | 4.8 | 05-02-2024 07:07:22 |
 | [14 km W of Kigoma, Tanzania](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvnr) | 4.8 | 05-02-2024 08:27:09 |
 | [99 km SSW of Nikolski, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvpi) | 4.7 | 05-02-2024 11:05:28 |
-| [42 km SSE of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvls) | 4.7 | 05-02-2024 03:40:34 |
-| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvv1) | 4.5 | 05-02-2024 21:52:23 |
-| [127 km SW of Bam, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvlu) | 4.5 | 05-02-2024 04:23:44 |
+| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvv1) | 4.5 | 05-02-2024 21:52:22 |
 | [107 km SSW of Nikolski, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvn5) | 4.5 | 05-02-2024 07:04:25 |
 | [6 km ESE of Tingloy, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvtw) | 4.4 | 05-02-2024 19:28:52 |
 | [217 km E of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvqw) | 4.4 | 05-02-2024 15:13:06 |
+| [15 km SE of Riohacha, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvna) | 4.3 | 05-02-2024 07:34:56 |
+| [11 km ESE of Demak, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvq9) | 4.2 | 05-02-2024 13:06:20 |
+| [98 km SSW of Nikolski, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvp3) | 4 | 05-02-2024 07:41:49 |
+| [93 km SSW of Nikolski, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mvnd) | 4 | 05-02-2024 07:42:22 |
