@@ -5,22 +5,22 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [17 km WSW of Brisas Barra de Suchiate, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000my20) | 6.4 | 05-12-2024 11:39:14 |
+| [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000my4x) | 5.9 | 05-12-2024 18:43:19 |
 | [Kermadec Islands, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mxzs) | 5.4 | 05-12-2024 03:26:19 |
-| [109 km ENE of Luganville, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mxys) | 5.2 | 05-11-2024 18:27:07 |
+| [83 km NW of Modisi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000my6q) | 5.2 | 05-13-2024 00:28:13 |
+| [115 km SW of Lata, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000my6p) | 5.2 | 05-13-2024 00:24:49 |
 | [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000my11) | 4.9 | 05-12-2024 06:31:50 |
 | [65 km NNW of Dibulla, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000my1s) | 4.9 | 05-12-2024 10:19:07 |
+| [42 km NE of Turmi, Ethiopia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000my68) | 4.9 | 05-12-2024 21:36:09 |
+| [9 km NNW of Delta, B.C., MX](https://earthquake.usgs.gov/earthquakes/eventpage/ci40746912) | 4.86 | 05-12-2024 18:22:42 |
 | [20 km S of Klyuchi, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000my1u) | 4.8 | 05-12-2024 11:02:26 |
-| [5 km NNW of Diriamba, Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mxz9) | 4.7 | 05-12-2024 00:10:49 |
 | [south of the Kermadec Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000my03) | 4.6 | 05-12-2024 04:01:01 |
 | [63 km NNW of Dibulla, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mxzf) | 4.6 | 05-12-2024 01:01:01 |
+| [8 km NW of Delta, B.C., MX](https://earthquake.usgs.gov/earthquakes/eventpage/ci40747088) | 4.58 | 05-12-2024 19:04:00 |
 | [265 km N of Saipan, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000my1i) | 4.5 | 05-12-2024 09:58:16 |
 | [156 km WSW of Emiliano Zapata, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000my1g) | 4.5 | 05-12-2024 09:55:27 |
+| [76 km NNE of Puerto Ocopa, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000my59) | 4.4 | 05-12-2024 19:11:59 |
+| [33 km S of San Martín, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000my6r) | 4.4 | 05-13-2024 00:33:52 |
+| [31 km WSW of Brisas Barra de Suchiate, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000my6f) | 4.4 | 05-12-2024 23:00:03 |
+| [102 km E of Ust’-Kamchatsk Staryy, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000my5w) | 4.4 | 05-12-2024 20:11:15 |
 | [Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000my16) | 4.3 | 05-12-2024 07:05:40 |
-| [147 km NE of Lospalos, Timor Leste](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mxyy) | 4.3 | 05-11-2024 20:52:57 |
-| [6 km SSE of Salina Cruz, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mxz0) | 4.2 | 05-11-2024 20:43:46 |
-| [29 km NNE of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mxyu) | 4.2 | 05-11-2024 19:07:33 |
-| [23 km SSE of Onagawa Chō, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000my40) | 4.2 | 05-12-2024 16:37:10 |
-| [50 km SE of Boca de Yuma, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2024133000) | 3.84 | 05-12-2024 15:54:36 |
-| [28 km WSW of Salamatof, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak024644im5i) | 3.7 | 05-12-2024 10:14:57 |
-| [22 km S of Wai‘ōhinu, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv74228422) | 3.53 | 05-12-2024 05:59:24 |
-| [60 km NE of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr71448373) | 3.4 | 05-11-2024 18:39:43 |
