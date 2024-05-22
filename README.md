@@ -5,17 +5,17 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [80 km ESE of Gorontalo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n07e) | 5.4 | 05-22-2024 05:49:14 |
-| [260 km ESE of Biak, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n004) | 5.4 | 05-21-2024 08:31:58 |
-| [Pacific-Antarctic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n00r) | 5.3 | 05-21-2024 11:09:54 |
-| [201 km N of Sola, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n00g) | 5.3 | 05-21-2024 09:50:44 |
-| [73 km NE of Calama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n003) | 5.2 | 05-21-2024 08:21:10 |
-| [54 km W of Mosquera, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n077) | 5.1 | 05-22-2024 05:34:23 |
+| [64 km W of Mosquera, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n077) | 5.2 | 05-22-2024 05:34:20 |
+| [27 km SE of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n082) | 5.1 | 05-22-2024 08:00:40 |
 | [267 km ESE of Tadine, New Caledonia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n00z) | 4.9 | 05-21-2024 12:58:23 |
+| [65 km NW of Salahonda, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n08a) | 4.7 | 05-22-2024 08:44:14 |
+| [55 km WNW of Sinabang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n078) | 4.6 | 05-22-2024 05:27:05 |
+| [51 km NNE of Lae, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n08i) | 4.5 | 05-22-2024 09:28:35 |
+| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n08q) | 4.4 | 05-22-2024 09:42:07 |
 | [41 km WSW of Yonakuni, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n06r) | 4.4 | 05-22-2024 03:09:02 |
-| [33 km E of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000mzzt) | 4.4 | 05-21-2024 06:46:46 |
+| [227 km SSE of Tabiauan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n08k) | 4.4 | 05-22-2024 09:32:25 |
 | [188 km W of Santa Genoveva de Docordó, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n073) | 4.4 | 05-22-2024 04:51:26 |
 | [87 km E of Tomioka, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n05q) | 4.3 | 05-21-2024 20:46:22 |
-| [33 km WSW of Dabeiba, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n00i) | 4.3 | 05-21-2024 09:58:18 |
 | [Greenland Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n05j) | 4.1 | 05-21-2024 20:24:50 |
 | [150 km SSW of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n013) | 4 | 05-21-2024 13:17:11 |
 | [31 km SE of Atka, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0246j1r3ce) | 3.9 | 05-21-2024 12:52:13 |
