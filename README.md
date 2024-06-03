@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
+| [38 km NE of Anamizu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mppu) | 5.8 | 06-02-2024 21:31:38 |
 | [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mpk7) | 5.2 | 06-02-2024 03:41:11 |
+| [139 km SSW of Gizo, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mpp7) | 5.2 | 06-02-2024 18:40:31 |
 | [41 km NNW of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mpls) | 5 | 06-02-2024 09:22:04 |
 | [28 km SSE of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mpjr) | 5 | 06-02-2024 01:27:23 |
 | [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mpnr) | 4.9 | 06-02-2024 17:22:39 |
+| [45 km NE of Anamizu, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mppw) | 4.9 | 06-02-2024 21:40:19 |
 | [284 km NE of Dawson City, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mpmr) | 4.9 | 06-02-2024 14:02:42 |
+| [206 km WSW of Abepura, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mppx) | 4.9 | 06-02-2024 21:43:41 |
 | [92 km SSE of Mawlaik, Myanmar](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mplk) | 4.8 | 06-02-2024 08:44:59 |
-| [52 km NE of Lae, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mpii) | 4.8 | 06-01-2024 21:52:39 |
 | [60 km SSE of Bitung, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mpl5) | 4.7 | 06-02-2024 06:47:27 |
 | [105 km WSW of Rabaul, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mpjx) | 4.7 | 06-02-2024 02:13:33 |
-| [96 km SSW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mpjb) | 4.6 | 06-01-2024 23:57:12 |
-| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mpje) | 4.5 | 06-02-2024 00:27:57 |
-| [74 km NW of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mpie) | 4.5 | 06-01-2024 21:12:42 |
+| [Pagan region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mpng) | 4.6 | 06-02-2024 16:34:45 |
 | [62 km ENE of Khorugh, Tajikistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mplf) | 4.4 | 06-02-2024 08:23:11 |
 | [34 km S of Kárystos, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mplm) | 4.4 | 06-02-2024 08:53:44 |
 | [Arctic Ocean](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mpke) | 4.3 | 06-02-2024 04:22:47 |
+| [Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mpqe) | 4.2 | 06-02-2024 22:19:44 |
 | [5 km NE of Staryy Urukh, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mpjz) | 4.2 | 06-02-2024 02:48:02 |
-| [17 km NNE of Calama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mpj6) | 4.2 | 06-01-2024 23:48:04 |
-| [55 km NW of Toyah, Texas](https://earthquake.usgs.gov/earthquakes/eventpage/tx2024kuso) | 3.6 | 06-02-2024 15:27:51 |
-| [53 km S of Whites City, New Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/tx2024ktol) | 3.5 | 06-02-2024 00:04:18 |
-| [14 km ESE of Esperanza, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2024153000) | 3.47 | 06-01-2024 22:27:06 |
+| [15 km N of Lubuklinggau, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mppf) | 4.2 | 06-02-2024 19:27:22 |
+| [123 km N of Suárez, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2024154001) | 3.85 | 06-02-2024 20:06:18 |
