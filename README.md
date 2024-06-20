@@ -5,8 +5,9 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mtdy) | 5.7 | 06-19-2024 10:08:01 |
+| [60 km NNE of Isangel, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mtj4) | 5 | 06-20-2024 03:22:53 |
 | [Mid-Indian Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mtfj) | 4.8 | 06-19-2024 15:04:45 |
-| [27 km N of Mehtar Lām, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mtch) | 4.8 | 06-19-2024 04:17:39 |
+| [51 km ENE of Noda, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mtjg) | 4.7 | 06-20-2024 05:37:57 |
 | [180 km S of Tuapejat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mtgv) | 4.7 | 06-19-2024 19:27:45 |
 | [249 km SSW of Banjar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mthe) | 4.5 | 06-19-2024 20:28:55 |
 | [Rat Islands, Aleutian Islands, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mtgj) | 4.4 | 06-19-2024 18:42:02 |
@@ -23,4 +24,3 @@
 | [79 km NNE of Arecibo, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71453293) | 3.05 | 06-19-2024 10:01:37 |
 | [75 km N of Tierras Nuevas Poniente, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71453458) | 3.01 | 06-19-2024 20:26:43 |
 | [38 km W of Pole Ojea, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71453388) | 2.98 | 06-19-2024 17:14:31 |
-| [11 km NE of Stanley, Idaho](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mted) | 2.9 | 06-19-2024 11:11:36 |
