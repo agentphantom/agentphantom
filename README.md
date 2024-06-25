@@ -4,9 +4,10 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [51 km NNE of Port-Olry, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mu8s) | 6.3 | 06-24-2024 08:03:38 |
-| [Kepulauan Babar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mua7) | 5.3 | 06-24-2024 09:55:02 |
+| [204 km SSE of Katsuura, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n82p) | 5.4 | 06-25-2024 08:30:59 |
 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000muc2) | 5.1 | 06-24-2024 13:36:06 |
+| [126 km ENE of ‘Ohonua, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n82d) | 5.1 | 06-25-2024 06:45:33 |
+| [Falkland Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n82m) | 5 | 06-25-2024 08:20:46 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n828) | 4.9 | 06-25-2024 05:56:51 |
 | [76 km NE of Sanana, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n820) | 4.9 | 06-25-2024 04:27:57 |
 | [12 km SW of Savaştepe, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n80m) | 4.7 | 06-24-2024 22:36:44 |
@@ -19,8 +20,7 @@
 | [275 km SE of Kushimoto, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n80l) | 4 | 06-24-2024 22:34:28 |
 | [15 km SW of Salvaleón de Higüey, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2024177000) | 3.98 | 06-25-2024 04:08:20 |
 | [23 km SW of Lamont, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ci40809680) | 3.45 | 06-25-2024 01:04:55 |
-| [34 km N of Punta Cana, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr71453908) | 3.31 | 06-24-2024 12:02:10 |
-| [7 km WNW of Cobb, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc75026372) | 3.3 | 06-24-2024 12:22:23 |
 | [99 km SE of Boca de Yuma, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr71453978) | 3.28 | 06-25-2024 01:35:00 |
-| [34 km NNE of Punta Cana, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr71453918) | 3.13 | 06-24-2024 12:20:43 |
-| [4 km SSE of Highland Park, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ci40808720) | 2.93 | 06-24-2024 12:07:18 |
+| [21 km SSE of Waikoloa, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv74291586) | 2.72000003 | 06-25-2024 06:58:39 |
+| [2 km WSW of Pāhala, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv74291166) | 2.71 | 06-25-2024 01:04:25 |
+| [34 km SE of Midland, Texas](https://earthquake.usgs.gov/earthquakes/eventpage/tx2024miuo) | 2.7 | 06-24-2024 13:53:47 |
