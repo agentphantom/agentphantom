@@ -5,7 +5,6 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9gl) | 5.2 | 06-30-2024 18:23:20 |
-| [239 km SSW of Singaparna, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9fs) | 5.2 | 06-30-2024 16:06:29 |
 | [Balleny Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9iu) | 5.1 | 07-01-2024 02:38:03 |
 | [198 km SE of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9k8) | 5 | 07-01-2024 10:16:23 |
 | [149 km ESE of Saipan, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9jh) | 5 | 07-01-2024 05:12:03 |
@@ -18,9 +17,10 @@
 | [Balleny Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9kg) | 4.6 | 07-01-2024 11:54:40 |
 | [72 km WSW of Murghob, Tajikistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9k9) | 4.6 | 07-01-2024 10:20:59 |
 | [24 km N of Pucallpa, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9hb) | 4.6 | 06-30-2024 20:47:39 |
+| [192 km NW of Qalansīyah, Yemen](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9m4) | 4.6 | 07-01-2024 17:10:59 |
 | [55 km S of San Pedro de Atacama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9ke) | 4.5 | 07-01-2024 11:37:41 |
+| [135 km N of Lae, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9le) | 4.5 | 07-01-2024 15:22:40 |
 | [72 km SW of Tari, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9i3) | 4.4 | 06-30-2024 23:03:49 |
-| [40 km SW of Palimbang, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9ft) | 4.4 | 06-30-2024 16:06:37 |
+| [252 km SSW of Singaparna, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9hh) | 4.4 | 06-30-2024 20:52:00 |
+| [55 km WNW of Mendoza, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9kn) | 4.3 | 07-01-2024 13:04:10 |
 | [17 km NNE of Finschhafen, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9hk) | 4.3 | 06-30-2024 21:08:57 |
-| [276 km WSW of Tual, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9fd) | 4.2 | 06-30-2024 15:00:03 |
-| [232 km SE of Attu Station, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9ha) | 3.8 | 06-30-2024 20:16:25 |
