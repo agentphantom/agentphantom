@@ -5,12 +5,12 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [Bonin Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9pu) | 5.3 | 07-01-2024 22:44:53 |
+| [east of the North Island of New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9ss) | 5.1 | 07-02-2024 09:17:35 |
 | [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9rg) | 5 | 07-02-2024 02:46:03 |
-| [198 km SE of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9k8) | 5 | 07-01-2024 10:16:23 |
-| [Balleny Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9kg) | 4.6 | 07-01-2024 11:54:40 |
-| [72 km WSW of Murghob, Tajikistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9k9) | 4.6 | 07-01-2024 10:20:59 |
+| [east of the North Island of New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9s3) | 4.8 | 07-02-2024 06:05:10 |
 | [192 km NW of Qalansīyah, Yemen](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9m4) | 4.6 | 07-01-2024 17:10:59 |
-| [55 km S of San Pedro de Atacama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9ke) | 4.5 | 07-01-2024 11:37:41 |
+| [183 km SE of Kokopo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9sv) | 4.6 | 07-02-2024 10:06:00 |
+| [183 km N of Hirara, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9s8) | 4.6 | 07-02-2024 06:23:51 |
 | [206 km NW of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9rn) | 4.5 | 07-02-2024 03:30:47 |
 | [19 km WNW of Honoria, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9rs) | 4.5 | 07-02-2024 03:46:11 |
 | [135 km N of Lae, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9le) | 4.5 | 07-01-2024 15:22:40 |
@@ -22,5 +22,5 @@
 | [Rat Islands, Aleutian Islands, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9qt) | 3.2 | 07-01-2024 23:07:11 |
 | [16 km NW of Progreso, B.C., MX](https://earthquake.usgs.gov/earthquakes/eventpage/ci40816568) | 3.1 | 07-02-2024 01:52:44 |
 | [4 km ENE of Little America, Wyoming](https://earthquake.usgs.gov/earthquakes/eventpage/uu80075061) | 3.08 | 07-01-2024 12:30:10 |
+| [16 km S of Camarillo, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ci40816784) | 3.08 | 07-02-2024 08:31:57 |
 | [1 km NNE of Manatí, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71454428) | 3.04 | 07-02-2024 01:05:38 |
-| [279 km SE of Attu Station, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000n9qu) | 3 | 07-01-2024 23:48:56 |
