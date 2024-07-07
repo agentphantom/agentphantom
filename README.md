@@ -15,12 +15,12 @@
 | [163 km SW of Tual, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mxe5) | 4.7 | 07-06-2024 08:26:25 |
 | [Greenland Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mxg9) | 4.4 | 07-06-2024 16:07:45 |
 | [43 km SSW of Gongdanglegi Kulon, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mxfe) | 4.4 | 07-06-2024 13:26:47 |
-| [38 km SE of Palca, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mxd4) | 4.4 | 07-06-2024 02:46:25 |
+| [26 km NNW of Cartagena, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mxjb) | 4.4 | 07-07-2024 04:29:27 |
 | [96 km ESE of Iwaki, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mxds) | 4.3 | 07-06-2024 06:42:20 |
 | [82 km NNW of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mxh8) | 4.3 | 07-06-2024 21:31:11 |
-| [29 km SE of Cahuacho, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mxdg) | 4.3 | 07-06-2024 04:00:49 |
+| [40 km E of Farkhār, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mxje) | 4.3 | 07-07-2024 05:11:25 |
+| [244 km WSW of Tofino, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mxeq) | 4.2 | 07-06-2024 11:01:06 |
 | [21 km W of Acacia Bay, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mxfp) | 4.2 | 07-06-2024 15:03:40 |
 | [Rat Islands, Aleutian Islands, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mxgp) | 4.1 | 07-06-2024 18:13:29 |
 | [30 km SSE of Puerto Ángel, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mxh2) | 4.1 | 07-06-2024 20:17:25 |
 | [71 km ENE of San Vicente, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000mxi9) | 3.8 | 07-07-2024 00:47:28 |
-| [32 km SSW of Hawthorne, Nevada](https://earthquake.usgs.gov/earthquakes/eventpage/nn00880450) | 3.8 | 07-06-2024 11:14:53 |
