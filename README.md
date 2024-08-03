@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
+| [18 km ENE of Barcelona, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhqc) | 6.8 | 08-02-2024 22:23:01 |
+| [32 km E of Barcelona, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhqj) | 5.3 | 08-02-2024 22:31:14 |
 | [southeast Indian Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhid) | 5.1 | 08-02-2024 06:56:07 |
-| [2 km W of Campana, Italy](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhfg) | 5.1 | 08-01-2024 19:43:20 |
+| [204 km ESE of Yigo Village, Guam](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhpc) | 5.1 | 08-02-2024 20:28:00 |
+| [50 km WSW of Gizo, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhnm) | 5 | 08-02-2024 19:07:46 |
 | [154 km W of Houma, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhi9) | 5 | 08-02-2024 06:37:08 |
-| [4 km NW of Yalina, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhf7) | 4.6 | 08-01-2024 19:19:01 |
+| [28 km NE of Kinablangan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhr3) | 4.9 | 08-02-2024 22:46:02 |
+| [60 km ENE of Santa Maria, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhri) | 4.8 | 08-02-2024 23:36:10 |
+| [101 km ENE of Kurchum, Kazakhstan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhn0) | 4.8 | 08-02-2024 18:15:58 |
+| [116 km E of Yamada, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhqb) | 4.7 | 08-02-2024 22:16:12 |
 | [39 km SW of Rabaul, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhhr) | 4.6 | 08-02-2024 03:08:35 |
-| [50 km W of Yomitan, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhfa) | 4.5 | 08-01-2024 19:16:28 |
+| [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhm7) | 4.5 | 08-02-2024 17:00:37 |
+| [24 km NE of Taytayan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhrw) | 4.5 | 08-02-2024 23:44:35 |
 | [156 km ESE of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhjs) | 4.5 | 08-02-2024 13:50:24 |
 | [39 km NNE of Qiziltepa, Uzbekistan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhi4) | 4.4 | 08-02-2024 05:39:37 |
-| [54 km ESE of Sarangani, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhg8) | 4.3 | 08-01-2024 20:47:48 |
+| [28 km ENE of Santa Maria, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhrc) | 4.4 | 08-02-2024 23:05:32 |
+| [27 km E of Lata, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhp6) | 4.4 | 08-02-2024 19:59:47 |
 | [22 km SE of Molina, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhin) | 4.2 | 08-02-2024 08:06:22 |
 | [215 km WSW of Tofino, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhir) | 4.1 | 08-02-2024 08:19:25 |
 | [158 km S of False Pass, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhie) | 3.8 | 08-02-2024 07:05:56 |
-| [64 km SE of Unalaska, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhhq) | 3.7 | 08-02-2024 03:04:58 |
-| [69 km NNW of Arctic Village, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0249vlz5dt) | 3.2 | 08-02-2024 02:40:43 |
-| [48 km NNW of San Antonio, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71456828) | 3.18 | 08-02-2024 05:19:50 |
-| [9 km WSW of Hoback, Wyoming](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhj5) | 3.1 | 08-02-2024 10:05:49 |
-| [57 km S of Whites City, New Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhla) | 2.9 | 08-02-2024 15:18:38 |
-| [56 km S of Whites City, New Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/tx2024pcfh) | 2.9 | 08-02-2024 15:58:45 |
-| [5 km NNW of Central, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0249vkmalw) | 2.9 | 08-02-2024 00:12:49 |
-| [39 km ESE of Sturgeon Bay, Wisconsin](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nhkd) | 2.9 | 08-02-2024 14:18:57 |
