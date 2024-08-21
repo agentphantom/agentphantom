@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
+| [65 km NE of Shikotan, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n83y) | 5.2 | 08-20-2024 08:24:23 |
 | [4 km W of Bāramūla, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n823) | 5.1 | 08-20-2024 01:15:55 |
 | [4 km NW of Bāramūla, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n826) | 5.1 | 08-20-2024 01:22:27 |
-| [84 km ENE of Kinablangan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n7xg) | 4.9 | 08-19-2024 15:32:43 |
-| [66 km E of Barcelona, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n802) | 4.8 | 08-19-2024 19:42:22 |
-| [6 km SW of Shiranuka, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n81b) | 4.7 | 08-19-2024 23:02:12 |
-| [116 km ESE of Petropavlovsk-Kamchatsky, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n7vx) | 4.7 | 08-19-2024 07:24:15 |
-| [22 km E of Severomuysk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n7z8) | 4.6 | 08-19-2024 17:19:22 |
-| [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n80j) | 4.5 | 08-19-2024 20:29:00 |
-| [144 km ESE of Petropavlovsk-Kamchatsky, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n813) | 4.5 | 08-19-2024 22:23:07 |
-| [124 km ESE of Petropavlovsk-Kamchatsky, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n7zk) | 4.5 | 08-19-2024 17:26:57 |
-| [10 km E of Kırıkhan, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n81t) | 3.7 | 08-20-2024 00:57:42 |
-| [246 km SE of Chiniak, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n7wi) | 3.6 | 08-19-2024 11:37:21 |
-| [276 km SSW of Adak, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak024anwp3rf) | 3.5 | 08-19-2024 13:46:42 |
-| [59 km NNE of Luquillo, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71457763) | 3.29 | 08-19-2024 08:28:37 |
-| [97 km W of Elfin Cove, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n7xd) | 3.1 | 08-19-2024 15:27:52 |
-| [5 km S of Volcano, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv74412001) | 3.02 | 08-20-2024 05:46:48 |
-| [6 km S of Volcano, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv74410506) | 2.99 | 08-19-2024 13:17:00 |
-| [8 km SSE of Volcano, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv74410716) | 2.82 | 08-19-2024 15:22:30 |
-| [46 km ESE of Pedro Bay, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak024apet5cj) | 2.8 | 08-20-2024 04:35:24 |
-| [24 km WSW of Fort Davis, Texas](https://earthquake.usgs.gov/earthquakes/eventpage/tx2024qgun) | 2.8 | 08-19-2024 09:44:53 |
+| [46 km W of Finschhafen, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n8by) | 5 | 08-20-2024 21:09:11 |
+| [19 km ESE of Simao, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n89f) | 4.7 | 08-20-2024 15:04:39 |
+| [153 km W of Pangai, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n86i) | 4.7 | 08-20-2024 11:32:29 |
+| [51 km SW of La Libertad, El Salvador](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n83h) | 4.5 | 08-20-2024 07:34:39 |
+| [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n851) | 4.4 | 08-20-2024 10:03:43 |
+| [68 km E of Gorontalo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n899) | 4.3 | 08-20-2024 14:52:52 |
+| [66 km SW of Tanjung Selor, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n8d3) | 4.3 | 08-21-2024 00:01:17 |
+| [12 km SSW of Cabeza de Toro, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000n8cz) | 4.3 | 08-20-2024 23:55:55 |
+| [30 km WNW of Hawaiian Ocean View, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv74413311) | 3.88 | 08-20-2024 13:52:10 |
+| [11 km NE of Pāhala, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv74413611) | 3.78 | 08-20-2024 15:32:20 |
+| [50 km NNW of San Antonio, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2024233000) | 3.56 | 08-20-2024 06:24:24 |
+| [6 km S of Volcano, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv74414281) | 3.37 | 08-20-2024 19:22:25 |
+| [50 km ESE of Mud Bay, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak024apmmyun) | 3.3 | 08-20-2024 17:50:08 |
+| [8 km S of Volcano, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv74413246) | 3.27 | 08-20-2024 13:33:31 |
+| [92 km SSW of Alberto Oviedo Mota, B.C., MX](https://earthquake.usgs.gov/earthquakes/eventpage/ci40708095) | 3.24 | 08-20-2024 03:00:36 |
+| [6 km S of Volcano, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv74413136) | 3.24 | 08-20-2024 12:46:17 |
+| [8 km S of Volcano, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv74413931) | 3.21 | 08-20-2024 17:22:05 |
