@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [154 km ESE of Neiafu, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nhjw) | 6.6 | 10-01-2024 20:05:33 |
-| [69 km ENE of Panganiban, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nhk8) | 5.9 | 10-01-2024 21:19:49 |
-| [southern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nhlb) | 5.5 | 10-02-2024 01:09:07 |
-| [68 km E of Aras-asan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nhld) | 4.9 | 10-02-2024 01:20:37 |
+| [Prince Edward Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nw77) | 5 | 10-03-2024 01:50:31 |
+| [south of the Kermadec Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nw66) | 4.7 | 10-02-2024 21:05:37 |
 | [Volcano Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nhpl) | 4.7 | 10-02-2024 10:13:45 |
 | [94 km SSW of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nw47) | 4.7 | 10-02-2024 16:20:49 |
-| [58 km S of Hihifo, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nhkj) | 4.7 | 10-01-2024 21:59:27 |
-| [48 km S of Labuha, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nhke) | 4.7 | 10-01-2024 21:37:58 |
+| [4 km NE of San Julian, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nw6t) | 4.7 | 10-02-2024 23:27:09 |
+| [20 km W of Villa El Carmen, Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nw5b) | 4.6 | 10-02-2024 19:41:01 |
 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nhnl) | 4.5 | 10-02-2024 08:11:53 |
 | [54 km S of Acajutla, El Salvador](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nhpp) | 4.5 | 10-02-2024 10:51:09 |
 | [45 km ENE of Palca, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nhn6) | 4.4 | 10-02-2024 06:49:11 |
-| [41 km SSE of Camiña, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nhk1) | 4.4 | 10-01-2024 20:41:25 |
-| [101 km SW of Corinto, Nicaragua](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nhmq) | 4.4 | 10-02-2024 05:03:22 |
+| [25 km WSW of Cabeza de Toro, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nw51) | 4.4 | 10-02-2024 19:03:24 |
+| [85 km WSW of Monywa, Myanmar](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nw74) | 4.2 | 10-03-2024 01:09:15 |
 | [188 km SW of Port McNeill, Canada](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nhqw) | 4.1 | 10-02-2024 15:35:52 |
-| [11 km NNW of Avenal, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc75069176) | 4.02 | 10-02-2024 00:45:18 |
-| [131 km ESE of Chiniak, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak024cohojvf) | 3.8 | 10-02-2024 02:27:54 |
-| [75 km N of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2024276000) | 3.57 | 10-02-2024 05:43:15 |
-| [2 km SE of Ontario, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ci40749799) | 3.54 | 10-01-2024 19:56:21 |
-| [11 km NNW of Avenal, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc75069216) | 3.38 | 10-02-2024 02:06:16 |
+| [off the coast of Oregon](https://earthquake.usgs.gov/earthquakes/eventpage/us6000nw6j) | 4 | 10-02-2024 22:24:52 |
+| [25 km SE of Emajagua, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2024277000) | 3.67 | 10-03-2024 05:32:24 |
+| [7 km WSW of Volcano, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv74485927) | 3.27999997 | 10-02-2024 20:52:38 |
 | [31 km NNE of Punta Cana, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr71461588) | 3.24 | 10-02-2024 14:56:40 |
+| [34 km WSW of Ackerly, Texas](https://earthquake.usgs.gov/earthquakes/eventpage/tx2024tkmw) | 3.2 | 10-03-2024 02:43:17 |
+| [94 km E of King Salmon, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak024couda8b) | 3.1 | 10-02-2024 23:58:45 |
+| [35 km ENE of Ferry, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak024cq5qqbr) | 3.1 | 10-03-2024 03:15:36 |
+| [6 km NW of Walker, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc75069561) | 3.02 | 10-02-2024 19:33:33 |
