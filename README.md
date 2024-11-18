@@ -12,15 +12,15 @@
 | [southern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nsbu) | 5 | 11-17-2024 23:05:55 |
 | [Southwest Indian Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nscv) | 5 | 11-18-2024 04:57:11 |
 | [west of Macquarie Island](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nscz) | 4.9 | 11-18-2024 05:24:16 |
-| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nsac) | 4.8 | 11-17-2024 14:14:02 |
 | [161 km NW of Abepura, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nsbt) | 4.8 | 11-17-2024 23:01:10 |
+| [154 km SSE of Kuqa, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nsd4) | 4.7 | 11-18-2024 06:06:54 |
 | [114 km ENE of Lhasa, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nsd6) | 4.7 | 11-18-2024 07:01:59 |
 | [Volcano Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nsdb) | 4.6 | 11-18-2024 07:25:11 |
+| [17 km WSW of Quilca, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nsf4) | 4.6 | 11-18-2024 13:04:47 |
+| [15 km NE of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nsf7) | 4.6 | 11-18-2024 13:27:22 |
+| [99 km E of Lhasa, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nsei) | 4.5 | 11-18-2024 07:06:27 |
 | [96 km SSW of Alo, Wallis and Futuna](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nsb2) | 4.4 | 11-17-2024 19:02:56 |
 | [78 km NNE of San Pedro de Atacama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nsct) | 4.4 | 11-18-2024 05:06:32 |
 | [254 km S of Lembar, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nsb3) | 4.4 | 11-17-2024 19:18:44 |
 | [2 km NNE of Imām Şāḩib, Afghanistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nsbe) | 4.4 | 11-17-2024 20:45:07 |
-| [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nsax) | 4.2 | 11-17-2024 18:07:09 |
 | [111 km SW of Nikolski, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak024eu9b5eh) | 3.8 | 11-18-2024 04:57:45 |
-| [138 km NNE of Vieques, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71466048) | 3.36 | 11-18-2024 02:56:59 |
-| [75 km NE of Punta Cana, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr71466023) | 3.32 | 11-17-2024 23:45:08 |
