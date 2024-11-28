@@ -11,6 +11,7 @@
 | [42 km ENE of Bacolod, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nug7) | 5 | 11-27-2024 08:59:10 |
 | [19 km SSE of Tubajon, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuhy) | 4.9 | 11-27-2024 12:33:14 |
 | [15 km SSW of Khorugh, Tajikistan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuj7) | 4.7 | 11-27-2024 17:31:02 |
+| [227 km W of Bandon, Oregon](https://earthquake.usgs.gov/earthquakes/eventpage/us7000num7) | 4.6 | 11-28-2024 01:52:31 |
 | [13 km ENE of Hualien City, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuil) | 4.6 | 11-27-2024 15:32:23 |
 | [11 km NE of Salcedo, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nujz) | 4.6 | 11-27-2024 18:04:59 |
 | [65 km SSW of Sola, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuir) | 4.5 | 11-27-2024 15:46:01 |
@@ -18,9 +19,8 @@
 | [126 km WNW of Tumxuk, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuks) | 4.5 | 11-27-2024 20:31:40 |
 | [79 km W of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuj2) | 4.3 | 11-27-2024 16:44:50 |
 | [64 km S of Calama, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nufp) | 4.3 | 11-27-2024 08:19:29 |
+| [38 km ESE of Phek, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000numd) | 4.3 | 11-28-2024 01:52:58 |
 | [31 km W of Hakui, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuis) | 4.3 | 11-27-2024 15:32:53 |
 | [29 km WNW of Moirāng, India](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuhz) | 4.3 | 11-27-2024 12:50:08 |
 | [108 km WSW of Constitución, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuhu) | 4.2 | 11-27-2024 12:09:50 |
 | [43 km E of Ollagüe, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nulz) | 4.1 | 11-28-2024 00:15:44 |
-| [150 km W of Puerto, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000null) | 4.1 | 11-27-2024 23:27:07 |
-| [5 km W of Mammoth Lakes, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc75091226) | 3.67 | 11-27-2024 08:55:38 |
