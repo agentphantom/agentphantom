@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
-| [Kermadec Islands, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuun) | 4.9 | 11-28-2024 23:25:24 |
-| [Kermadec Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuta) | 4.9 | 11-28-2024 18:41:43 |
+| [230 km WSW of Santiago de Cao, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nv14) | 5.2 | 11-30-2024 00:36:00 |
+| [64 km SW of Gazipaşa, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nv00) | 4.8 | 11-29-2024 19:13:15 |
+| [35 km WNW of Hakui, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nv16) | 4.8 | 11-30-2024 00:52:29 |
 | [174 km SW of Labuan, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuyl) | 4.8 | 11-29-2024 16:13:18 |
-| [173 km SE of Shinmachi, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nutf) | 4.8 | 11-28-2024 19:28:47 |
-| [24 km WSW of Isangel, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuus) | 4.6 | 11-28-2024 23:26:45 |
-| [195 km W of Bengkulu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuub) | 4.6 | 11-28-2024 21:55:24 |
+| [257 km SE of Pondaguitan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nv09) | 4.6 | 11-29-2024 20:39:23 |
+| [86 km SSW of Modisi, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuzz) | 4.5 | 11-29-2024 18:57:04 |
+| [163 km NNW of Sola, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nv0e) | 4.5 | 11-29-2024 21:20:55 |
 | [38 km SSW of Dompu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuvk) | 4.4 | 11-29-2024 05:49:49 |
 | [298 km WNW of Houma, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuv8) | 4.4 | 11-29-2024 03:05:39 |
 | [68 km WSW of Jimbaran, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuvg) | 4.3 | 11-29-2024 04:49:41 |
-| [5 km NNE of Parenti, Italy](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuuw) | 4.3 | 11-28-2024 23:54:54 |
+| [46 km ESE of Severo-Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nv0s) | 4.3 | 11-29-2024 22:46:19 |
 | [96 km SE of Petropavlovsk-Kamchatsky, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuxi) | 4.2 | 11-29-2024 14:28:11 |
-| [34 km SSE of Boca de Yuma, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2024333000) | 3.73 | 11-28-2024 19:35:00 |
-| [101 km NNE of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr71467158) | 3.39 | 11-28-2024 22:06:22 |
+| [135 km NNE of Vieques, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2024334000) | 3.79 | 11-29-2024 21:03:25 |
 | [8 km NW of Prague, Oklahoma](https://earthquake.usgs.gov/earthquakes/eventpage/ok2024xkww) | 3.24 | 11-29-2024 06:14:25 |
 | [101 km N of Arctic Village, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak024fcig342) | 3.1 | 11-29-2024 08:31:33 |
-| [23 km SE of San Clemente Is. (SE tip), CA](https://earthquake.usgs.gov/earthquakes/eventpage/ci40989656) | 2.92 | 11-28-2024 21:45:50 |
-| [21 km SSE of Waimea, Hawaii](https://earthquake.usgs.gov/earthquakes/eventpage/hv74545307) | 2.71 | 11-28-2024 18:29:17 |
+| [6 km SSE of Indios, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71467213) | 2.93 | 11-29-2024 21:44:30 |
 | [8 km ENE of Falls City, Texas](https://earthquake.usgs.gov/earthquakes/eventpage/tx2024xloa) | 2.7 | 11-29-2024 14:54:21 |
 | [7 km N of Smiths Ferry, Idaho](https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuvw) | 2.7 | 11-29-2024 08:49:51 |
-| [12 km NNE of Dixon Lane-Meadow Creek, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc75092171) | 2.67 | 11-28-2024 19:05:26 |
+| [26 km NNW of Willow, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak024fcq4zyq) | 2.6 | 11-29-2024 21:23:24 |
+| [52 km ENE of Pedro Bay, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak024fcfwccz) | 2.5 | 11-29-2024 04:03:23 |
