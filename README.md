@@ -6,9 +6,8 @@
 |:---|:---|:---|
 | [Kuril Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pfw7) | 6.8 | 12-27-2024 12:47:37 |
 | [34 km SE of Union, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pfz1) | 5.5 | 12-27-2024 18:42:58 |
+| [southern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pg43) | 5.3 | 12-28-2024 08:34:06 |
 | [40 km E of Tomioka, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pfz8) | 5.3 | 12-27-2024 19:10:07 |
-| [143 km SSW of Merizo Village, Guam](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pfvi) | 5.3 | 12-27-2024 09:30:55 |
-| [Maug Islands region, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pfvu) | 5.2 | 12-27-2024 10:43:47 |
 | [southern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pg3f) | 5 | 12-28-2024 05:09:39 |
 | [southern Mid-Atlantic Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pg2q) | 5 | 12-28-2024 01:52:16 |
 | [265 km NW of Manado, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pg12) | 4.8 | 12-27-2024 22:39:57 |
@@ -24,3 +23,4 @@
 | [20 km E of Ichinomiya, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pfy9) | 4.6 | 12-27-2024 16:55:53 |
 | [289 km S of Ambon, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pfz2) | 4.5 | 12-27-2024 18:52:57 |
 | [147 km SW of Pagar Alam, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pg3q) | 4.5 | 12-28-2024 05:46:43 |
+| [156 km ENE of Bitung, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pfyc) | 4.4 | 12-27-2024 17:30:08 |
