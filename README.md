@@ -5,6 +5,7 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [2025 Xizang, China Earthquake](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pi9w) | 7.1 | 01-07-2025 01:05:16 |
+| [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pida) | 5.6 | 01-07-2025 08:31:32 |
 | [western Xizang](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pi67) | 5.2 | 01-06-2025 15:26:46 |
 | [79 km NW of Mohr, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pi7c) | 5.2 | 01-06-2025 16:59:49 |
 | [72 km NE of Lobuche, Nepal](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pia7) | 5.1 | 01-07-2025 01:13:27 |
@@ -16,11 +17,10 @@
 | [76 km SSW of Fīrūzābād, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pi8c) | 4.9 | 01-06-2025 19:28:39 |
 | [73 km NE of Lobuche, Nepal](https://earthquake.usgs.gov/earthquakes/eventpage/us6000piav) | 4.9 | 01-07-2025 01:43:49 |
 | [130 km NNE of Lobuche, Nepal](https://earthquake.usgs.gov/earthquakes/eventpage/us6000piar) | 4.9 | 01-07-2025 01:37:13 |
-| [13 km NNW of Kyparissía, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pi50) | 4.9 | 01-06-2025 09:47:57 |
+| [10 km NNW of Metahāra, Ethiopia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pidb) | 4.9 | 01-07-2025 08:25:53 |
 | [western Xizang](https://earthquake.usgs.gov/earthquakes/eventpage/us6000piba) | 4.8 | 01-07-2025 02:14:28 |
 | [77 km SSW of Fīrūzābād, Iran](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pi7n) | 4.8 | 01-06-2025 17:24:06 |
-| [289 km ENE of Lospalos, Timor Leste](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pi5h) | 4.8 | 01-06-2025 12:29:36 |
 | [125 km NE of Lobuche, Nepal](https://earthquake.usgs.gov/earthquakes/eventpage/us6000piap) | 4.8 | 01-07-2025 01:32:00 |
 | [76 km ESE of Palora, Ecuador](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pibx) | 4.7 | 01-07-2025 03:37:29 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pi65) | 4.6 | 01-06-2025 15:16:07 |
-| [35 km E of Nobeoka, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pi4x) | 4.6 | 01-06-2025 09:22:50 |
+| [196 km SSE of Soe, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pibt) | 4.6 | 01-07-2025 03:22:32 |
