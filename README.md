@@ -5,22 +5,22 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [Southern Qinghai, China](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pijd) | 5.7 | 01-08-2025 07:44:22 |
-| [25 km NNE of Āwash, Ethiopia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pihw) | 5.3 | 01-08-2025 00:53:29 |
+| [Drake Passage](https://earthquake.usgs.gov/earthquakes/eventpage/us6000piqu) | 5.3 | 01-08-2025 21:31:26 |
 | [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000piks) | 5 | 01-08-2025 14:16:01 |
+| [23 km N of Āwash, Ethiopia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pir6) | 4.9 | 01-08-2025 22:07:42 |
 | [182 km SE of Gizo, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pikd) | 4.9 | 01-08-2025 12:01:22 |
-| [80 km NE of Lobuche, Nepal](https://earthquake.usgs.gov/earthquakes/eventpage/us6000piij) | 4.8 | 01-08-2025 03:51:21 |
+| [Southern Tibetan Plateau](https://earthquake.usgs.gov/earthquakes/eventpage/us6000piij) | 4.8 | 01-08-2025 03:51:21 |
+| [Reykjanes Ridge](https://earthquake.usgs.gov/earthquakes/eventpage/us6000piqq) | 4.7 | 01-08-2025 20:58:56 |
 | [Off the coast of Aisen, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pij7) | 4.7 | 01-08-2025 07:23:53 |
 | [89 km E of Mil’kovo, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pikk) | 4.7 | 01-08-2025 12:45:58 |
-| [24 km N of Āwash, Ethiopia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pihu) | 4.7 | 01-08-2025 00:49:47 |
-| [Southern Tibetan Plateau ](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pigg) | 4.6 | 01-07-2025 19:52:52 |
-| [59 km E of Kandrian, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pihy) | 4.5 | 01-08-2025 01:08:31 |
+| [38 km W of Mejillones, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000piqd) | 4.6 | 01-08-2025 20:30:18 |
+| [36 km N of Metahāra, Ethiopia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pir9) | 4.6 | 01-08-2025 22:17:09 |
+| [13 km WNW of Āwash, Ethiopia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000piql) | 4.6 | 01-08-2025 20:56:16 |
+| [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pinr) | 4.5 | 01-08-2025 17:31:57 |
+| [8 km S of Silago, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pipw) | 4.5 | 01-08-2025 19:12:32 |
 | [20 km ESE of Pasinler, Turkey](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pii1) | 4.5 | 01-08-2025 01:30:04 |
-| [19 km NNE of Metahāra, Ethiopia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pihl) | 4.5 | 01-07-2025 23:26:46 |
+| [112 km SSW of Sechura, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us6000piq7) | 4.5 | 01-08-2025 20:00:07 |
+| [35 km SE of Debre Sīna, Ethiopia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pirb) | 4.4 | 01-08-2025 22:15:35 |
+| [27 km SSE of Abomsa, Ethiopia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000piqw) | 4.4 | 01-08-2025 21:35:49 |
+| [western Xizang](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pis4) | 4.3 | 01-09-2025 00:34:16 |
 | [99 km WNW of Höfn, Iceland](https://earthquake.usgs.gov/earthquakes/eventpage/us6000piih) | 4.3 | 01-08-2025 03:33:57 |
-| [23 km SE of Nusa Dua, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000piic) | 4.3 | 01-08-2025 02:14:18 |
-| [99 km NE of Lobuche, Nepal](https://earthquake.usgs.gov/earthquakes/eventpage/us6000piia) | 4.2 | 01-08-2025 01:43:43 |
-| [32 km W of Port-Vila, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pik8) | 4.2 | 01-08-2025 11:16:16 |
-| [Southern Tibetan Plateau](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pihp) | 4.1 | 01-08-2025 00:08:19 |
-| [94 km SSE of Nusa Dua, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pil9) | 4 | 01-08-2025 15:59:34 |
-| [28 km WSW of Port-Vila, Vanuatu](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pik5) | 4 | 01-08-2025 11:07:28 |
-| [43 km ESE of Punta Cana, Dominican Republic](https://earthquake.usgs.gov/earthquakes/eventpage/pr2025008000) | 3.78 | 01-08-2025 07:31:10 |
