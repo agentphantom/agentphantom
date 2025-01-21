@@ -10,17 +10,17 @@
 | [Nicobar Islands, India region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pl7f) | 5.3 | 01-20-2025 11:20:37 |
 | [Easter Island region](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pl89) | 5.3 | 01-20-2025 14:49:38 |
 | [3 km WSW of Yujing, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pl8l) | 5.1 | 01-20-2025 16:26:24 |
+| [87 km NE of Lobuche, Nepal](https://earthquake.usgs.gov/earthquakes/eventpage/us6000plbf) | 5 | 01-20-2025 21:03:11 |
 | [184 km SW of Port Blair, India](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pl6c) | 5 | 01-20-2025 05:57:17 |
+| [160 km N of Saipan, Northern Mariana Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000plc2) | 5 | 01-20-2025 23:25:59 |
 | [121 km SSW of Lata, Solomon Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pl6v) | 4.9 | 01-20-2025 08:49:04 |
-| [57 km ESE of Cairima, China](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pl4q) | 4.7 | 01-19-2025 21:07:50 |
-| [37 km ENE of San Martín, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pl44) | 4.7 | 01-19-2025 19:25:31 |
-| [237 km ENE of Lospalos, Timor Leste](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pl4s) | 4.6 | 01-19-2025 21:21:37 |
+| [83 km NE of Lobuche, Nepal](https://earthquake.usgs.gov/earthquakes/eventpage/us6000plca) | 4.8 | 01-21-2025 00:14:18 |
+| [6 km SSE of Yujing, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pl9y) | 4.8 | 01-20-2025 17:42:30 |
+| [10 km N of Yujing, Taiwan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000plb9) | 4.7 | 01-20-2025 20:05:58 |
+| [103 km E of Shikotan, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000plb2) | 4.6 | 01-20-2025 19:19:19 |
+| [23 km WSW of Ōfunato, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000play) | 4.5 | 01-20-2025 18:14:38 |
 | [Kermadec Islands, New Zealand](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pl6i) | 4.4 | 01-20-2025 07:15:36 |
 | [62 km SSE of Pondaguitan, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pl5y) | 4.4 | 01-20-2025 03:46:59 |
 | [49 km SE of Debre Sīna, Ethiopia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pl7y) | 4.4 | 01-20-2025 13:44:12 |
-| [45 km W of Vinchina, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pl4x) | 4.4 | 01-19-2025 21:51:09 |
 | [35 km NNE of Āwash, Ethiopia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pl5h) | 4.4 | 01-20-2025 02:56:38 |
 | [16 km W of Neijiang, China](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pl82) | 4.4 | 01-20-2025 13:59:55 |
-| [120 km NE of Cruz Bay, U.S. Virgin Islands](https://earthquake.usgs.gov/earthquakes/eventpage/pr2025020001) | 3.77 | 01-20-2025 13:59:41 |
-| [36 km SSE of La Tirana, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us6000pl6j) | 3.7 | 01-20-2025 07:37:17 |
-| [70 km NNW of San Antonio, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2025020000) | 3.65 | 01-20-2025 09:59:10 |
