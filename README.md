@@ -4,23 +4,23 @@
 
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
+| [southwest of Sumatra, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pc0e) | 5.8 | 02-07-2025 04:31:56 |
 | [171 km SE of Sarangani, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbt5) | 5.4 | 02-06-2025 13:16:27 |
 | [38 km ESE of Vanimo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbtz) | 5.1 | 02-06-2025 16:24:58 |
 | [39 km ESE of Vanimo, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbu3) | 5 | 02-06-2025 17:09:56 |
+| [22 km NNW of Shintoku, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pc06) | 4.9 | 02-07-2025 03:36:00 |
 | [38 km W of Castro, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbsy) | 4.8 | 02-06-2025 12:21:28 |
-| [9 km SSE of Coquimbo, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbr1) | 4.6 | 02-06-2025 04:15:13 |
-| [6 km S of Iwaizumi, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbqm) | 4.6 | 02-06-2025 03:03:32 |
-| [29 km NE of Oía, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbqp) | 4.6 | 02-06-2025 03:23:08 |
-| [11 km ENE of Oía, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbrr) | 4.6 | 02-06-2025 05:51:47 |
 | [73 km SSE of Hihifo, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbws) | 4.5 | 02-06-2025 18:16:30 |
-| [22 km NE of Firá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbqh) | 4.5 | 02-06-2025 02:54:21 |
 | [1 km ESE of Jordán, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbxz) | 4.5 | 02-06-2025 21:03:22 |
-| [21 km ENE of Firá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbq8) | 4.4 | 02-06-2025 02:24:23 |
-| [20 km ENE of Firá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbqe) | 4.4 | 02-06-2025 02:48:36 |
-| [17 km NE of Firá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbqv) | 4.4 | 02-06-2025 03:36:40 |
-| [17 km NE of Firá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbqt) | 4.4 | 02-06-2025 03:33:51 |
-| [52 km SE of Calana, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbrv) | 4.3 | 02-06-2025 06:02:59 |
-| [26 km NE of Firá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbqf) | 4.3 | 02-06-2025 02:52:42 |
-| [22 km NE of Firá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbq9) | 4.3 | 02-06-2025 02:27:27 |
 | [13 km NE of Firá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbs0) | 4.3 | 02-06-2025 06:21:56 |
 | [12 km ENE of Firá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbwr) | 4.3 | 02-06-2025 18:16:45 |
+| [10 km NE of Firá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pc04) | 4.3 | 02-07-2025 03:35:33 |
+| [7 km WNW of Royítika, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pc0d) | 4.2 | 02-07-2025 04:24:27 |
+| [119 km S of Honchō, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbuz) | 4.2 | 02-06-2025 17:33:57 |
+| [14 km ENE of Mesariá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbw6) | 4.1 | 02-06-2025 18:03:39 |
+| [20 km ENE of Sterling, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0251pij6tf) | 3.4 | 02-06-2025 19:56:52 |
+| [off the coast of Oregon](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pbuy) | 3.1 | 02-06-2025 17:37:22 |
+| [169 km ESE of Chignik, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak0251picxim) | 3.1 | 02-06-2025 19:27:31 |
+| [2 km ENE of Cidra, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71472368) | 2.98 | 02-07-2025 05:52:14 |
+| [7 km SE of Esperanza, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr71472353) | 2.95 | 02-06-2025 20:45:26 |
+| [79 km WNW of Petrolia, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc75128616) | 2.88 | 02-06-2025 10:49:46 |
