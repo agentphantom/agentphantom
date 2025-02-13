@@ -6,21 +6,21 @@
 |:---|:---|:---|
 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd86) | 5.3 | 02-12-2025 19:54:09 |
 | [59 km E of Onagawa Chō, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd8m) | 5 | 02-12-2025 21:04:30 |
-| [21 km NE of Oía, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd2t) | 5 | 02-12-2025 08:29:51 |
-| [78 km W of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd2i) | 4.9 | 02-12-2025 06:53:35 |
-| [22 km NE of Firá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd30) | 4.8 | 02-12-2025 09:15:07 |
+| [76 km NW of Taltal, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdcv) | 4.9 | 02-13-2025 10:46:58 |
 | [218 km NNE of Barra Patuca, Honduras](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd93) | 4.8 | 02-12-2025 22:10:36 |
 | [140 km W of Santa Genoveva de Docordó, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd4n) | 4.8 | 02-12-2025 17:26:49 |
 | [13 km WSW of Kamaishi, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd43) | 4.8 | 02-12-2025 14:37:39 |
-| [21 km WSW of Lahat, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd3a) | 4.7 | 02-12-2025 10:13:57 |
-| [16 km NE of Firá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd31) | 4.7 | 02-12-2025 09:20:42 |
+| [75 km SW of Vallenar, Chile](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdc7) | 4.7 | 02-13-2025 07:11:30 |
+| [57 km SW of Kilembe, Uganda](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdcx) | 4.7 | 02-13-2025 11:16:10 |
 | [south of the Fiji Islands](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd3u) | 4.6 | 02-12-2025 12:43:05 |
-| [West Chile Rise](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd3t) | 4.6 | 02-12-2025 11:56:53 |
+| [18 km WSW of Dompu, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdc0) | 4.6 | 02-13-2025 06:27:12 |
 | [16 km NE of Firá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd7j) | 4.6 | 02-12-2025 18:34:24 |
-| [7 km SW of Metahāra, Ethiopia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd3b) | 4.4 | 02-12-2025 09:42:22 |
 | [88 km W of San Antonio de los Cobres, Argentina](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd6h) | 4.3 | 02-12-2025 17:43:26 |
 | [29 km SW of Amorgós, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd9a) | 4.3 | 02-12-2025 23:02:38 |
 | [29 km NE of Firá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd4h) | 4.3 | 02-12-2025 16:44:25 |
 | [27 km NE of Firá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd9b) | 4.3 | 02-12-2025 23:03:31 |
 | [115 km SE of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd49) | 4.2 | 02-12-2025 15:59:54 |
-| [47 km E of Sand Point, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pd3f) | 3.8 | 02-12-2025 10:49:54 |
+| [81 km N of Arecibo, Puerto Rico](https://earthquake.usgs.gov/earthquakes/eventpage/pr2025044000) | 3.55 | 02-13-2025 06:52:05 |
+| [68 km WNW of Petrolia, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc75132762) | 3.42 | 02-13-2025 09:51:28 |
+| [25 km W of Petrolia, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc75132702) | 3.34 | 02-13-2025 07:06:35 |
+| [32 km SSW of Wales, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdar) | 3.3 | 02-13-2025 00:48:54 |
