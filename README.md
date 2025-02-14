@@ -5,22 +5,22 @@
 | Location | Mag | Date and Time (UTC) |
 |:---|:---|:---|
 | [154 km SSW of Akhiok, Alaska](https://earthquake.usgs.gov/earthquakes/eventpage/ak025215oy3m) | 5.8 | 02-13-2025 23:59:27 |
+| [37 km NE of Llorente, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdlg) | 5.3 | 02-14-2025 12:50:04 |
 | [off the coast of Ecuador](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdkh) | 5.2 | 02-14-2025 06:39:50 |
 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdky) | 5.1 | 02-14-2025 09:46:33 |
+| [109 km SSW of Labuan, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdl8) | 5.1 | 02-14-2025 12:28:33 |
 | [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdj1) | 5 | 02-14-2025 00:22:58 |
-| [Banda Sea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdh2) | 5 | 02-13-2025 18:16:21 |
 | [259 km E of Kuril’sk, Russia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdjz) | 4.9 | 02-14-2025 01:32:54 |
 | [South Sandwich Islands region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdi5) | 4.8 | 02-13-2025 21:20:55 |
+| [Izu Islands, Japan region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdpi) | 4.8 | 02-14-2025 15:58:54 |
 | [51 km SW of Angoram, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdks) | 4.8 | 02-14-2025 08:09:58 |
-| [290 km WSW of Tual, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pddw) | 4.8 | 02-13-2025 15:08:11 |
+| [43 km SW of Montecillos, Mexico](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdpc) | 4.8 | 02-14-2025 15:26:55 |
 | [29 km NNE of Goroka, Papua New Guinea](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdkt) | 4.8 | 02-14-2025 09:27:41 |
 | [198 km WSW of Bandar Lampung, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdi1) | 4.8 | 02-13-2025 21:07:32 |
+| [off the coast of Ecuador](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdp3) | 4.7 | 02-14-2025 14:21:14 |
 | [211 km NNE of Barra Patuca, Honduras](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdkn) | 4.7 | 02-14-2025 07:26:23 |
-| [17 km NE of Oía, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pde0) | 4.7 | 02-13-2025 15:42:21 |
-| [70 km SSE of Kupang, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdgz) | 4.6 | 02-13-2025 17:44:34 |
-| [18 km NNE of Atiquipa, Peru](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pddt) | 4.6 | 02-13-2025 15:04:07 |
+| [63 km WNW of Tobelo, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdp5) | 4.6 | 02-14-2025 14:44:24 |
 | [Fiji region](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdig) | 4.5 | 02-13-2025 21:29:55 |
 | [229 km SW of Burica, Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdiz) | 4.5 | 02-14-2025 00:18:12 |
-| [17 km NNE of Firá, Greece](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pddy) | 4.4 | 02-13-2025 15:40:07 |
-| [8 km NW of Gura Teghii, Romania](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdhp) | 4.3 | 02-13-2025 20:44:56 |
-| [10 km NNW of Avenal, CA](https://earthquake.usgs.gov/earthquakes/eventpage/nc75133062) | 4.25 | 02-14-2025 00:17:04 |
+| [14 km NE of Hernani, Philippines](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdln) | 4.5 | 02-14-2025 13:22:45 |
+| [69 km NNE of Labuan Lombok, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pdp4) | 4.4 | 02-14-2025 14:38:12 |
